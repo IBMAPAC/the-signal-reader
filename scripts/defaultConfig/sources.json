@@ -1,0 +1,26 @@
+[
+  {
+    "name": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/feed/",
+    "category": "AI",
+    "priority": 1,
+    "credibility": 0.95,
+    "enabled": true
+  },
+  {
+    "name": "Nikkei Asia",
+    "url": "https://asia.nikkei.com/rss/feed/nar",
+    "category": "APAC",
+    "priority": 2,
+    "credibility": 0.9,
+    "enabled": true
+  },
+  {
+    "name": "The Register - Security",
+    "url": "https://www.theregister.com/security/headlines.atom",
+    "category": "Security",
+    "priority": 3,
+    "credibility": 0.85,
+    "enabled": true
+  }
+]
