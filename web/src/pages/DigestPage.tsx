@@ -131,11 +131,21 @@ export default function DigestPage() {
             </Button>
           </div>
 
-          <Tabs onSelectionChange={(i) => setActiveTab(i === 0 ? "daily" : "weekly")}>
-            <Tab label="Daily" />
-            <Tab label="Weekly" />
+          import { Tabs, TabList, Tab } from "@carbon/react";
+          
+          // ...
+          
+          <Tabs
+            selectedIndex={selectedIndex}
+            onChange={({ selectedIndex }: { selectedIndex: number }) => setSelectedIndex(selectedIndex)}
+          >
+            <TabList aria-label="Sections">
+              <Tab>Digest</Tab>
+              <Tab>Sources</Tab>
+              <Tab>Settings</Tab>
+            </TabList>
           </Tabs>
-
+          
           <div style={{ display: "flex", gap: 12, flexWrap: "wrap", margin: "16px 0" }}>
             <Search
               size="lg"
