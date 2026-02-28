@@ -1,0 +1,33 @@
+name: Refresh Digest Data
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # every 6 hours
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install script dependencies
+        run: npm ci || npm i
+
+      - name: Build digest JSON
+        run: node scripts/buildDigest.mjs
+
+      - name: Commit updated data
+        run: |
+          git config user.name "signal-reader-bot"
+          git config user.email "signal-reader-bot@users.noreply.github.com"
+          git add web/public/data/digest.json web/public/data/sources.json web/public/data/settings.json web/public/data/industries.json web/public/data/clients.json
+          git commit -m "Refresh digest data" || echo "No changes"
+          git push
