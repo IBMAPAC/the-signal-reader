@@ -1,19 +1,14 @@
 {
-  "scoringWeights": {
-    "fieldCTOWeight": 0.35,
-    "apacWeight": 0.2,
-    "urgencyWeight": 0.25,
-    "noveltyWeight": 0.1,
-    "credibilityWeight": 0.1,
-    "apacEnabled": true,
-    "noveltyDays": 7
+  "timeBudgetMinutes": {
+    "daily": 10,
+    "weekly": 45
   },
-  "timeBudget": {
-    "dailyMinutes": 15,
-    "weeklyArticleCount": 5,
-    "dailyCurrencyHours": 48,
-    "weeklyCurrencyDays": 180,
-    "dailyExpirationHours": 72,
-    "weeklyExpirationDays": 14
+  "weights": {
+    "fieldCtoKeywordWeight": 0.25,
+    "apacWeight": 0.15,
+    "urgencyWeight": 0.2,
+    "credibilityWeight": 0.15,
+    "recencyWeight": 0.15,
+    "duplicatePenalty": 0.15
   }
 }

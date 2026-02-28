@@ -1,35 +1,9 @@
 {
   "generatedAt": "",
-  "scoringWeights": {
-    "fieldCTOWeight": 0.35,
-    "apacWeight": 0.2,
-    "urgencyWeight": 0.25,
-    "noveltyWeight": 0.1,
-    "credibilityWeight": 0.1,
-    "apacEnabled": true,
-    "noveltyDays": 7
+  "timeBudgetMinutes": {
+    "daily": 10,
+    "weekly": 45
   },
-  "timeBudget": {
-    "dailyMinutes": 15,
-    "weeklyArticleCount": 5,
-    "dailyCurrencyHours": 48,
-    "weeklyCurrencyDays": 180,
-    "dailyExpirationHours": 72,
-    "weeklyExpirationDays": 14
-  },
-  "totals": {
-    "all": 0,
-    "daily": 0,
-    "weekly": 0
-  },
-  "daily": {
-    "minutesBudget": 15,
-    "totalMinutes": 0,
-    "articles": []
-  },
-  "weekly": {
-    "articleCountBudget": 5,
-    "articles": []
-  },
-  "crossReferences": []
+  "total": 0,
+  "articles": []
 }
