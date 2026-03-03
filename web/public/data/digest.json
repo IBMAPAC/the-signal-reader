@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-03T12:56:56.668Z",
+  "generatedAt": "2026-03-03T18:47:01.801Z",
   "timeBudgetMinutes": {
     "daily": 10,
     "weekly": 45
@@ -7,13 +7,24 @@
   "total": 110,
   "articles": [
     {
+      "id": "a_44925f96",
+      "title": "South Korea to step up arms exports to Philippines as security ties expand",
+      "summary": "",
+      "url": "https://asia.nikkei.com/politics/international-relations/south-korea-to-step-up-arms-exports-to-philippines-as-security-ties-expand",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-03-03T18:47:01.696Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.3767
+    },
+    {
       "id": "a_241c6401",
       "title": "Iran attacks leave Japan balancing US ties and energy security",
       "summary": "",
       "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-attacks-leave-japan-balancing-us-ties-and-energy-security",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-03-03T12:56:56.666Z",
+      "publishedDate": "2026-03-03T18:47:01.697Z",
       "sourcePriority": 2,
       "relevanceScore": 0.3517
     },
@@ -24,7 +35,7 @@
       "url": "https://asia.nikkei.com/spotlight/podcasts/podcast-tech-latest/why-india-wants-ai-to-be-sovereign",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-03-03T12:56:56.665Z",
+      "publishedDate": "2026-03-03T18:47:01.696Z",
       "sourcePriority": 2,
       "relevanceScore": 0.3517
     },
@@ -35,7 +46,7 @@
       "url": "https://asia.nikkei.com/business/markets/ipo/paypay-s-us-ipo-to-draw-visa-gulf-sovereign-funds-as-key-investors",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-03-03T12:56:56.666Z",
+      "publishedDate": "2026-03-03T18:47:01.697Z",
       "sourcePriority": 2,
       "relevanceScore": 0.3267
     },
@@ -51,35 +62,13 @@
       "relevanceScore": 0.3192
     },
     {
-      "id": "a_fba0eaab",
-      "title": "Gamers furious as Brit studio Cloud Imperium quietly admits to data breach",
-      "summary": "",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/brit_games_studio_cloud_imperium/",
-      "sourceName": "The Register - Security",
-      "category": "Security",
-      "publishedDate": "2026-03-03T06:24:19.000Z",
-      "sourcePriority": 3,
-      "relevanceScore": 0.3108
-    },
-    {
-      "id": "a_5581a70c",
-      "title": "India set to revive 1984 water project after revoking pact with Pakistan",
-      "summary": "",
-      "url": "https://asia.nikkei.com/politics/international-relations/india-set-to-revive-1984-water-project-after-revoking-pact-with-pakistan",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-03-03T12:56:56.667Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
       "id": "a_35f78ed7",
       "title": "Japan's hospitals expand foreign patient care",
       "summary": "",
       "url": "https://asia.nikkei.com/business/travel-leisure/japan-s-hospitals-expand-foreign-patient-care",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-03-03T12:56:56.667Z",
+      "publishedDate": "2026-03-03T18:47:01.699Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -90,7 +79,7 @@
       "url": "https://asia.nikkei.com/business/startups/health-tech-startups-refine-access-to-pediatric-care-in-indonesia",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-03-03T12:56:56.667Z",
+      "publishedDate": "2026-03-03T18:47:01.699Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -101,117 +90,7 @@
       "url": "https://asia.nikkei.com/business/companies/japan-s-shimano-struggles-with-excess-bicycle-stock-in-europe-and-china",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-03-03T12:56:56.667Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_2fce4b88",
-      "title": "Japanese coffee lovers learn to leave it up to the barista",
-      "summary": "",
-      "url": "https://asia.nikkei.com/editor-s-picks/tea-leaves/japanese-coffee-lovers-learn-to-leave-it-up-to-the-barista",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-03-03T12:56:56.667Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_b4fa2b00",
-      "title": "UK universities set up campuses in India and beyond for new income",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/education/uk-universities-set-up-campuses-in-india-and-beyond-for-new-income",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-03-03T12:56:56.667Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_c82dc025",
-      "title": "Vietnam's VinFast taxi and car rental affiliates merge ahead of IPO",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/automobiles/electric-vehicles/vietnam-s-vinfast-taxi-and-car-rental-affiliates-merge-ahead-of-ipo",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-03-03T12:56:56.666Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_cd8817c5",
-      "title": "More foreign drivers in Japan fail tougher license conversion tests",
-      "summary": "",
-      "url": "https://asia.nikkei.com/politics/more-foreign-drivers-in-japan-fail-tougher-license-conversion-tests",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-03-03T12:56:56.666Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_fd8ecee2",
-      "title": "Bank of Japan stance on rate hikes unchanged by Iran conflict: deputy chief",
-      "summary": "",
-      "url": "https://asia.nikkei.com/economy/bank-of-japan/bank-of-japan-stance-on-rate-hikes-unchanged-by-iran-conflict-deputy-chief",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-03-03T12:56:56.666Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_b482f346",
-      "title": "Iran conflict may hit pause on Japan's economic recovery as crude oil soars",
-      "summary": "",
-      "url": "https://asia.nikkei.com/economy/iran-conflict-may-hit-pause-on-japan-s-economic-recovery-as-crude-oil-soars",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-03-03T12:56:56.666Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_e612121f",
-      "title": "Japan says Iran's Strait of Hormuz closure not yet 'survival-threatening'",
-      "summary": "",
-      "url": "https://asia.nikkei.com/spotlight/iran-tensions/japan-says-iran-s-strait-of-hormuz-closure-not-yet-survival-threatening",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-03-03T12:56:56.666Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_5ca278fb",
-      "title": "Sony Bank teams with Japan's JPYC on yen-denominated stablecoins",
-      "summary": "",
-      "url": "https://asia.nikkei.com/spotlight/cryptocurrencies/sony-bank-teams-with-japan-s-jpyc-on-yen-denominated-stablecoins",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-03-03T12:56:56.666Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_1ae8a3c7",
-      "title": "India and Canada seal uranium supply deal as Modi hosts Carney",
-      "summary": "",
-      "url": "https://asia.nikkei.com/politics/international-relations/india-and-canada-seal-uranium-supply-deal-as-modi-hosts-carney",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-03-03T12:56:56.666Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_4a1c3149",
-      "title": "India's opposition slams Modi's 'ill-timed' Israel visit before Iran attack",
-      "summary": "",
-      "url": "https://asia.nikkei.com/spotlight/iran-tensions/india-s-opposition-slams-modi-s-ill-timed-israel-visit-before-iran-attack",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-03-03T12:56:56.666Z",
+      "publishedDate": "2026-03-03T18:47:01.699Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -222,7 +101,7 @@
       "url": "https://asia.nikkei.com/business/finance/berkshire-ceo-greg-abel-talks-up-japan-trading-house-shares",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-03-03T12:56:56.666Z",
+      "publishedDate": "2026-03-03T18:47:01.698Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -233,7 +112,7 @@
       "url": "https://asia.nikkei.com/spotlight/iran-tensions/after-iran-china-faces-difficult-calculus-on-trump-oil-and-taiwan",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-03-03T12:56:56.666Z",
+      "publishedDate": "2026-03-03T18:47:01.698Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -244,7 +123,7 @@
       "url": "https://asia.nikkei.com/business/consumer/vietnamese-shoppers-tighten-their-budgets-despite-strong-gdp-growth",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-03-03T12:56:56.666Z",
+      "publishedDate": "2026-03-03T18:47:01.698Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -255,7 +134,7 @@
       "url": "https://asia.nikkei.com/business/companies/ai-gives-japan-s-aging-cement-industry-chance-for-renewal",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-03-03T12:56:56.666Z",
+      "publishedDate": "2026-03-03T18:47:01.698Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -266,7 +145,7 @@
       "url": "https://asia.nikkei.com/business/markets/trading-asia/kkr-blackstone-turn-to-japanese-investors-amid-us-private-asset-jitters",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-03-03T12:56:56.666Z",
+      "publishedDate": "2026-03-03T18:47:01.698Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -277,7 +156,7 @@
       "url": "https://asia.nikkei.com/spotlight/iran-tensions/strait-of-hormuz-closed-to-energy-other-traffic-japan-shipping-group",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-03-03T12:56:56.666Z",
+      "publishedDate": "2026-03-03T18:47:01.698Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -288,7 +167,106 @@
       "url": "https://asia.nikkei.com/spotlight/japan-immigration/japan-s-sanaenomics-hinges-on-coexistence-with-foreign-workers",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-03-03T12:56:56.666Z",
+      "publishedDate": "2026-03-03T18:47:01.698Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_5581a70c",
+      "title": "India set to revive 1984 water project after revoking pact with Pakistan",
+      "summary": "",
+      "url": "https://asia.nikkei.com/politics/international-relations/india-set-to-revive-1984-water-project-after-revoking-pact-with-pakistan",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-03-03T18:47:01.698Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_c82dc025",
+      "title": "Vietnam's VinFast taxi and car rental affiliates merge ahead of IPO",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/automobiles/electric-vehicles/vietnam-s-vinfast-taxi-and-car-rental-affiliates-merge-ahead-of-ipo",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-03-03T18:47:01.697Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_cd8817c5",
+      "title": "More foreign drivers in Japan fail tougher license conversion tests",
+      "summary": "",
+      "url": "https://asia.nikkei.com/politics/more-foreign-drivers-in-japan-fail-tougher-license-conversion-tests",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-03-03T18:47:01.697Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_fd8ecee2",
+      "title": "Bank of Japan stance on rate hikes unchanged by Iran conflict: deputy chief",
+      "summary": "",
+      "url": "https://asia.nikkei.com/economy/bank-of-japan/bank-of-japan-stance-on-rate-hikes-unchanged-by-iran-conflict-deputy-chief",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-03-03T18:47:01.697Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_b482f346",
+      "title": "Iran conflict may hit pause on Japan's economic recovery as crude oil soars",
+      "summary": "",
+      "url": "https://asia.nikkei.com/economy/iran-conflict-may-hit-pause-on-japan-s-economic-recovery-as-crude-oil-soars",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-03-03T18:47:01.697Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_e612121f",
+      "title": "Japan says Iran's Strait of Hormuz closure not yet 'survival-threatening'",
+      "summary": "",
+      "url": "https://asia.nikkei.com/spotlight/iran-tensions/japan-says-iran-s-strait-of-hormuz-closure-not-yet-survival-threatening",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-03-03T18:47:01.697Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_5ca278fb",
+      "title": "Sony Bank teams with Japan's JPYC on yen-denominated stablecoins",
+      "summary": "",
+      "url": "https://asia.nikkei.com/spotlight/cryptocurrencies/sony-bank-teams-with-japan-s-jpyc-on-yen-denominated-stablecoins",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-03-03T18:47:01.697Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_1ae8a3c7",
+      "title": "India and Canada seal uranium supply deal as Modi hosts Carney",
+      "summary": "",
+      "url": "https://asia.nikkei.com/politics/international-relations/india-and-canada-seal-uranium-supply-deal-as-modi-hosts-carney",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-03-03T18:47:01.697Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_4a1c3149",
+      "title": "India's opposition slams Modi's 'ill-timed' Israel visit before Iran attack",
+      "summary": "",
+      "url": "https://asia.nikkei.com/spotlight/iran-tensions/india-s-opposition-slams-modi-s-ill-timed-israel-visit-before-iran-attack",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-03-03T18:47:01.697Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -299,7 +277,7 @@
       "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-envoy-urges-japan-to-decisively-confront-us-israeli-law-violations",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-03-03T12:56:56.665Z",
+      "publishedDate": "2026-03-03T18:47:01.696Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -310,7 +288,7 @@
       "url": "https://asia.nikkei.com/politics/international-relations/uk-trial-of-two-alleged-hong-kong-spies-opens-in-london",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-03-03T12:56:56.665Z",
+      "publishedDate": "2026-03-03T18:47:01.696Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -321,9 +299,42 @@
       "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war-upends-india-s-pivot-from-russian-oil",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-03-03T12:56:56.665Z",
+      "publishedDate": "2026-03-03T18:47:01.696Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
+    },
+    {
+      "id": "a_81ae6f01",
+      "title": "Daikin sees chance in India, Southern Hemisphere: chairman emeritus",
+      "summary": "",
+      "url": "https://asia.nikkei.com/editor-s-picks/interview/daikin-sees-chance-in-india-southern-hemisphere-chairman-emeritus",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-03-03T18:47:01.695Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_43d5dfae",
+      "title": "MIT Technology Review Insiders Panel",
+      "summary": "",
+      "url": "https://www.technologyreview.com/2026/03/03/1133907/mit-technology-review-insiders-panel-2/",
+      "sourceName": "MIT Technology Review",
+      "category": "AI",
+      "publishedDate": "2026-03-03T15:53:10.000Z",
+      "sourcePriority": 1,
+      "relevanceScore": 0.2925
+    },
+    {
+      "id": "a_3ac2054",
+      "title": "The Download: The startup that says it can stop lightning, and inside OpenAI’s Pentagon deal",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This startup claims it can stop lightning and prevent catastrophic wildfires Startup Skyward Wildfire says it can prevent catastrophic fires b",
+      "url": "https://www.technologyreview.com/2026/03/03/1133900/the-download-the-startup-that-says-it-can-stop-lightning-and-inside-openais-pentagon-deal/",
+      "sourceName": "MIT Technology Review",
+      "category": "AI",
+      "publishedDate": "2026-03-03T13:30:00.000Z",
+      "sourcePriority": 1,
+      "relevanceScore": 0.2925
     },
     {
       "id": "a_bc4ede94",
@@ -337,114 +348,15 @@
       "relevanceScore": 0.2925
     },
     {
-      "id": "a_892bad80",
-      "title": "North Korea's Lazarus Group targets healthcare orgs with Medusa ransomware",
+      "id": "a_fba0eaab",
+      "title": "Gamers furious as Brit studio Cloud Imperium quietly admits to data breach",
       "summary": "",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/02/24/north_koreas_lazarus_group_healthcare_medusa_ransomware/",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/brit_games_studio_cloud_imperium/",
       "sourceName": "The Register - Security",
       "category": "Security",
-      "publishedDate": "2026-02-24T18:25:04.000Z",
+      "publishedDate": "2026-03-03T06:24:19.000Z",
       "sourcePriority": 3,
-      "relevanceScore": 0.2875
-    },
-    {
-      "id": "a_5ffc04b6",
-      "title": "China's Honor hopes 'robot phone' can energize sluggish market",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/technology/china-s-honor-hopes-robot-phone-can-energize-sluggish-market",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-03-03T12:56:56.667Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_e2602ecb",
-      "title": "With Iran strikes, Trump pushes to weaponize energy supplies",
-      "summary": "",
-      "url": "https://asia.nikkei.com/spotlight/comment/with-iran-strikes-trump-pushes-to-weaponize-energy-supplies",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-03-03T12:56:56.667Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_eace2340",
-      "title": "Panasonic's in-flight entertainment success shows path for renewed growth",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/electronics/panasonic-s-in-flight-entertainment-success-shows-path-for-renewed-growth",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-03-03T12:56:56.667Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_268917dc",
-      "title": "US and Israeli strikes on Iran raise alarm across Asia",
-      "summary": "",
-      "url": "https://asia.nikkei.com/politics/middle-east-crisis/us-and-israeli-strikes-on-iran-raise-alarm-across-asia",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-03-03T12:56:56.667Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_9cacfeb5",
-      "title": "Iran war tests Gulf hubs but aviation order still intact, for now",
-      "summary": "",
-      "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war-tests-gulf-hubs-but-aviation-order-still-intact-for-now",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-03-03T12:56:56.666Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_40c2dfbf",
-      "title": "Grab charges Philippine bike riders over 230% interest for in-app loans",
-      "summary": "",
-      "url": "https://asia.nikkei.com/spotlight/asean-money/grab-charges-philippine-bike-riders-over-230-interest-for-in-app-loans",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-03-03T12:56:56.666Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_81c8bd5d",
-      "title": "Asia's dollar dilemma",
-      "summary": "",
-      "url": "https://asia.nikkei.com/opinion/asia-s-dollar-dilemma",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-03-03T12:56:56.666Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_2cd5e1a2",
-      "title": "China's Xiaomi to take Leica smartphone global",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/companies/china-s-xiaomi-to-take-leica-smartphone-global",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-03-03T12:56:56.666Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_f91b6ff6",
-      "title": "Pakistan in turmoil after killing of Iran's Khamenei sparks outrage",
-      "summary": "",
-      "url": "https://asia.nikkei.com/spotlight/iran-tensions/pakistan-in-turmoil-after-killing-of-iran-s-khamenei-sparks-outrage",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-03-03T12:56:56.666Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
+      "relevanceScore": 0.2883
     },
     {
       "id": "a_c96f10ff",
@@ -453,7 +365,7 @@
       "url": "https://asia.nikkei.com/spotlight/iran-tensions/us-israeli-attacks-on-iran-three-scenarios-to-consider",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-03-03T12:56:56.666Z",
+      "publishedDate": "2026-03-03T18:47:01.698Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -464,7 +376,7 @@
       "url": "https://asia.nikkei.com/business/automobiles/toyota-group-ups-price-to-win-activist-support-for-38bn-deal",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-03-03T12:56:56.666Z",
+      "publishedDate": "2026-03-03T18:47:01.698Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -475,7 +387,7 @@
       "url": "https://asia.nikkei.com/business/markets/oil-surges-and-asia-stocks-tumble-on-iran-crisis",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-03-03T12:56:56.666Z",
+      "publishedDate": "2026-03-03T18:47:01.698Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -486,7 +398,7 @@
       "url": "https://asia.nikkei.com/politics/nepal-s-post-gen-z-protest-elections-5-things-to-know",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-03-03T12:56:56.666Z",
+      "publishedDate": "2026-03-03T18:47:01.698Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -497,7 +409,7 @@
       "url": "https://asia.nikkei.com/business/china-tech/huawei-debuts-top-ai-supercomputer-overseas-in-challenge-to-nvidia",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-03-03T12:56:56.666Z",
+      "publishedDate": "2026-03-03T18:47:01.698Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -508,7 +420,7 @@
       "url": "https://asia.nikkei.com/opinion/the-middle-power-romantic-era-is-a-ghost-of-a-lost-world",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-03-03T12:56:56.666Z",
+      "publishedDate": "2026-03-03T18:47:01.698Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -519,62 +431,18 @@
       "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-braces-for-risky-transition-as-khamenei-s-death-leaves-power-vacuum",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-03-03T12:56:56.666Z",
+      "publishedDate": "2026-03-03T18:47:01.698Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
     {
-      "id": "a_7de7f30f",
-      "title": "Nidec says could face $1.6bn impairment review amid accounting fraud",
+      "id": "a_5ffc04b6",
+      "title": "China's Honor hopes 'robot phone' can energize sluggish market",
       "summary": "",
-      "url": "https://asia.nikkei.com/business/electronics/nidec-says-could-face-1.6bn-impairment-review-amid-accounting-fraud",
+      "url": "https://asia.nikkei.com/business/technology/china-s-honor-hopes-robot-phone-can-energize-sluggish-market",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-03-03T12:56:56.665Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_e2dc87eb",
-      "title": "Rapidus adds Canon as first major domestic customer candidate for 2nm chips",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/tech/semiconductors/rapidus-adds-canon-as-first-major-domestic-customer-candidate-for-2nm-chips",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-03-03T12:56:56.665Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_bd13139f",
-      "title": "Asian governments seek to ease energy shortage fears over Iran",
-      "summary": "",
-      "url": "https://asia.nikkei.com/spotlight/iran-tensions/asian-governments-seek-to-ease-energy-shortage-fears-over-iran",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-03-03T12:56:56.665Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_c6508b75",
-      "title": "Asia stocks extend losses amid Iran and energy crisis",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/markets/equities/asia-stocks-extend-losses-amid-iran-and-energy-crisis",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-03-03T12:56:56.665Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_46b2a3cf",
-      "title": "China's NPC: What to watch as Xi Jinping maps out next 5 years",
-      "summary": "",
-      "url": "https://asia.nikkei.com/politics/china-people-s-congress/china-s-npc-what-to-watch-as-xi-jinping-maps-out-next-5-years",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-03-03T12:56:56.665Z",
+      "publishedDate": "2026-03-03T18:47:01.698Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -585,7 +453,7 @@
       "url": "https://asia.nikkei.com/business/technology/china-unveils-measures-to-boost-tech-insurance-in-push-for-self-reliance",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-03-03T12:56:56.665Z",
+      "publishedDate": "2026-03-03T18:47:01.697Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -596,9 +464,185 @@
       "url": "https://asia.nikkei.com/business/automobiles/electric-vehicles/byd-redraws-global-ev-map-overtaking-tesla-in-20-markets",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-03-03T12:56:56.665Z",
+      "publishedDate": "2026-03-03T18:47:01.697Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
+    },
+    {
+      "id": "a_9cacfeb5",
+      "title": "Iran war tests Gulf hubs but aviation order still intact, for now",
+      "summary": "",
+      "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war-tests-gulf-hubs-but-aviation-order-still-intact-for-now",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-03-03T18:47:01.697Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_40c2dfbf",
+      "title": "Grab charges Philippine bike riders over 230% interest for in-app loans",
+      "summary": "",
+      "url": "https://asia.nikkei.com/spotlight/asean-money/grab-charges-philippine-bike-riders-over-230-interest-for-in-app-loans",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-03-03T18:47:01.697Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_81c8bd5d",
+      "title": "Asia's dollar dilemma",
+      "summary": "",
+      "url": "https://asia.nikkei.com/opinion/asia-s-dollar-dilemma",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-03-03T18:47:01.697Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_2cd5e1a2",
+      "title": "China's Xiaomi to take Leica smartphone global",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/companies/china-s-xiaomi-to-take-leica-smartphone-global",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-03-03T18:47:01.697Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_f91b6ff6",
+      "title": "Pakistan in turmoil after killing of Iran's Khamenei sparks outrage",
+      "summary": "",
+      "url": "https://asia.nikkei.com/spotlight/iran-tensions/pakistan-in-turmoil-after-killing-of-iran-s-khamenei-sparks-outrage",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-03-03T18:47:01.697Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_837461dc",
+      "title": "Yen weakens, with haven status in doubt as Iran crisis pushes up oil prices",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/markets/currencies/yen-weakens-with-haven-status-in-doubt-as-iran-crisis-pushes-up-oil-prices",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-03-03T18:47:01.696Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_f254571a",
+      "title": "Sea posts 3.6-fold profit gain for 2025 but shares tumble in NY trading",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/technology/sea-posts-3.6-fold-profit-gain-for-2025-but-shares-tumble-in-ny-trading",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-03-03T18:47:01.696Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_7de7f30f",
+      "title": "Nidec says could face $1.6bn impairment review amid accounting fraud",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/electronics/nidec-says-could-face-1.6bn-impairment-review-amid-accounting-fraud",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-03-03T18:47:01.696Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_e2dc87eb",
+      "title": "Rapidus adds Canon as first major domestic customer candidate for 2nm chips",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/tech/semiconductors/rapidus-adds-canon-as-first-major-domestic-customer-candidate-for-2nm-chips",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-03-03T18:47:01.696Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_bd13139f",
+      "title": "Asian governments seek to ease energy shortage fears over Iran",
+      "summary": "",
+      "url": "https://asia.nikkei.com/spotlight/iran-tensions/asian-governments-seek-to-ease-energy-shortage-fears-over-iran",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-03-03T18:47:01.696Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_c6508b75",
+      "title": "Asia stocks extend losses amid Iran and energy crisis",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/markets/equities/asia-stocks-extend-losses-amid-iran-and-energy-crisis",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-03-03T18:47:01.696Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_46b2a3cf",
+      "title": "China's NPC: What to watch as Xi Jinping maps out next 5 years",
+      "summary": "",
+      "url": "https://asia.nikkei.com/politics/china-people-s-congress/china-s-npc-what-to-watch-as-xi-jinping-maps-out-next-5-years",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-03-03T18:47:01.696Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_1f908de9",
+      "title": "Iran's Strait of Hormuz closure raises stakes but risks isolation",
+      "summary": "",
+      "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-s-strait-of-hormuz-closure-raises-stakes-but-risks-isolation",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-03-03T18:47:01.695Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_c6e42fe9",
+      "title": "Cyberwarriors elevated to big leagues in US war with Iran",
+      "summary": "",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/cyberwarriors_us_iran_war/",
+      "sourceName": "The Register - Security",
+      "category": "Security",
+      "publishedDate": "2026-03-03T18:23:51.000Z",
+      "sourcePriority": 3,
+      "relevanceScore": 0.2775
+    },
+    {
+      "id": "a_a766f8fa",
+      "title": "Turns out most cybercriminals are old enough to know better",
+      "summary": "",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/turns_out_most_cybercriminals_are/",
+      "sourceName": "The Register - Security",
+      "category": "Security",
+      "publishedDate": "2026-03-03T15:25:18.000Z",
+      "sourcePriority": 3,
+      "relevanceScore": 0.2775
+    },
+    {
+      "id": "a_2f3630d2",
+      "title": "Until last month, attackers could've stolen info from Perplexity Comet users just by sending a calendar invite",
+      "summary": "",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/perplexity_comet_browser_hole_cal_invite/",
+      "sourceName": "The Register - Security",
+      "category": "Security",
+      "publishedDate": "2026-03-03T14:01:09.000Z",
+      "sourcePriority": 3,
+      "relevanceScore": 0.2775
     },
     {
       "id": "a_3da87ef5",
@@ -610,28 +654,6 @@
       "publishedDate": "2026-03-03T11:39:09.000Z",
       "sourcePriority": 3,
       "relevanceScore": 0.2775
-    },
-    {
-      "id": "a_83e5a837",
-      "title": "OpenAI’s “compromise” with the Pentagon is what Anthropic feared",
-      "summary": "On February 28, OpenAI announced it had reached a deal that will allow the US military to use its technologies in classified settings. CEO Sam Altman said the negotiations, which the company began pursuing only after the Pentagon’s public reprimand of Anthropic, were “definitely ",
-      "url": "https://www.technologyreview.com/2026/03/02/1133850/openais-compromise-with-the-pentagon-is-what-anthropic-feared/",
-      "sourceName": "MIT Technology Review",
-      "category": "AI",
-      "publishedDate": "2026-03-02T17:29:42.000Z",
-      "sourcePriority": 1,
-      "relevanceScore": 0.27
-    },
-    {
-      "id": "a_edf92d0a",
-      "title": "The Download: protesting AI, and what’s floating in space",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. I checked out one of the biggest anti-AI protests ever Pull the plug! Pull the plug! Stop the slop! Stop the slop! For a few hours this Saturd",
-      "url": "https://www.technologyreview.com/2026/03/02/1133811/the-download-protesting-ai-and-whats-floating-in-space/",
-      "sourceName": "MIT Technology Review",
-      "category": "AI",
-      "publishedDate": "2026-03-02T13:20:00.000Z",
-      "sourcePriority": 1,
-      "relevanceScore": 0.27
     },
     {
       "id": "a_5c2c772f",
@@ -678,6 +700,17 @@
       "relevanceScore": 0.2583
     },
     {
+      "id": "a_892bad80",
+      "title": "North Korea's Lazarus Group targets healthcare orgs with Medusa ransomware",
+      "summary": "",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/02/24/north_koreas_lazarus_group_healthcare_medusa_ransomware/",
+      "sourceName": "The Register - Security",
+      "category": "Security",
+      "publishedDate": "2026-02-24T18:25:04.000Z",
+      "sourcePriority": 3,
+      "relevanceScore": 0.2575
+    },
+    {
       "id": "a_6b98057c",
       "title": "Phish of the day: Microsoft OAuth scams abuse redirects for malware delivery",
       "summary": "",
@@ -700,39 +733,6 @@
       "relevanceScore": 0.255
     },
     {
-      "id": "a_729b90e0",
-      "title": "UK businesses told to brace cyber defenses amid Iran conflict risk",
-      "summary": "",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/02/ncsc_security_iran/",
-      "sourceName": "The Register - Security",
-      "category": "Security",
-      "publishedDate": "2026-03-02T18:44:26.000Z",
-      "sourcePriority": 3,
-      "relevanceScore": 0.255
-    },
-    {
-      "id": "a_b7e499f",
-      "title": "Memory scalpers hunt scarce DRAM with bot blitz",
-      "summary": "",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/02/memory_scalpers_hunt_scarce_dram/",
-      "sourceName": "The Register - Security",
-      "category": "Security",
-      "publishedDate": "2026-03-02T14:00:06.000Z",
-      "sourcePriority": 3,
-      "relevanceScore": 0.255
-    },
-    {
-      "id": "a_530e9b7f",
-      "title": "Scammers try to SIM-swap Dubai citizens hours after Iranian missile strikes",
-      "summary": "",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/02/dubai_iran_sim_swap/",
-      "sourceName": "The Register - Security",
-      "category": "Security",
-      "publishedDate": "2026-03-02T13:42:52.000Z",
-      "sourcePriority": 3,
-      "relevanceScore": 0.255
-    },
-    {
       "id": "a_bbb56f17",
       "title": "South Korea’s tax office apologizes for leaking seed phrase to seized crypto",
       "summary": "",
@@ -742,6 +742,28 @@
       "publishedDate": "2026-03-02T00:51:38.000Z",
       "sourcePriority": 3,
       "relevanceScore": 0.25
+    },
+    {
+      "id": "a_83e5a837",
+      "title": "OpenAI’s “compromise” with the Pentagon is what Anthropic feared",
+      "summary": "On February 28, OpenAI announced it had reached a deal that will allow the US military to use its technologies in classified settings. CEO Sam Altman said the negotiations, which the company began pursuing only after the Pentagon’s public reprimand of Anthropic, were “definitely ",
+      "url": "https://www.technologyreview.com/2026/03/02/1133850/openais-compromise-with-the-pentagon-is-what-anthropic-feared/",
+      "sourceName": "MIT Technology Review",
+      "category": "AI",
+      "publishedDate": "2026-03-02T17:29:42.000Z",
+      "sourcePriority": 1,
+      "relevanceScore": 0.24
+    },
+    {
+      "id": "a_edf92d0a",
+      "title": "The Download: protesting AI, and what’s floating in space",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. I checked out one of the biggest anti-AI protests ever Pull the plug! Pull the plug! Stop the slop! Stop the slop! For a few hours this Saturd",
+      "url": "https://www.technologyreview.com/2026/03/02/1133811/the-download-protesting-ai-and-whats-floating-in-space/",
+      "sourceName": "MIT Technology Review",
+      "category": "AI",
+      "publishedDate": "2026-03-02T13:20:00.000Z",
+      "sourcePriority": 1,
+      "relevanceScore": 0.24
     },
     {
       "id": "a_f278eb07",
@@ -775,6 +797,39 @@
       "publishedDate": "2026-02-27T10:00:00.000Z",
       "sourcePriority": 1,
       "relevanceScore": 0.2275
+    },
+    {
+      "id": "a_729b90e0",
+      "title": "UK businesses told to brace cyber defenses amid Iran conflict risk",
+      "summary": "",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/02/ncsc_security_iran/",
+      "sourceName": "The Register - Security",
+      "category": "Security",
+      "publishedDate": "2026-03-02T18:44:26.000Z",
+      "sourcePriority": 3,
+      "relevanceScore": 0.225
+    },
+    {
+      "id": "a_b7e499f",
+      "title": "Memory scalpers hunt scarce DRAM with bot blitz",
+      "summary": "",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/02/memory_scalpers_hunt_scarce_dram/",
+      "sourceName": "The Register - Security",
+      "category": "Security",
+      "publishedDate": "2026-03-02T14:00:06.000Z",
+      "sourcePriority": 3,
+      "relevanceScore": 0.225
+    },
+    {
+      "id": "a_530e9b7f",
+      "title": "Scammers try to SIM-swap Dubai citizens hours after Iranian missile strikes",
+      "summary": "",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/02/dubai_iran_sim_swap/",
+      "sourceName": "The Register - Security",
+      "category": "Security",
+      "publishedDate": "2026-03-02T13:42:52.000Z",
+      "sourcePriority": 3,
+      "relevanceScore": 0.225
     },
     {
       "id": "a_f62a84a5",
@@ -832,28 +887,6 @@
       "relevanceScore": 0.2025
     },
     {
-      "id": "a_bfda065e",
-      "title": "The Download: how America lost its lead in the hunt for alien life, and ambitious battery claims",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. America was winning the race to find Martian life. Then China jumped in. In July 2024, NASA’s Perseverance rover came across a peculiar rocky ",
-      "url": "https://www.technologyreview.com/2026/02/26/1133734/the-download-how-america-lost-its-lead-in-the-hunt-for-alien-life-and-ambitious-battery-claims/",
-      "sourceName": "MIT Technology Review",
-      "category": "AI",
-      "publishedDate": "2026-02-26T13:10:00.000Z",
-      "sourcePriority": 1,
-      "relevanceScore": 0.2025
-    },
-    {
-      "id": "a_641861b7",
-      "title": "This company claims a battery breakthrough. Now they need to prove it.",
-      "summary": "When a company claims to have created what’s essentially the holy grail of batteries, there are bound to be some questions. Interest has been swirling since Donut Lab, a Finnish company, announced last month that it had a new solid-state battery technology, one that was ready for",
-      "url": "https://www.technologyreview.com/2026/02/26/1133722/solid-state-batteries-donut-lab/",
-      "sourceName": "MIT Technology Review",
-      "category": "AI",
-      "publishedDate": "2026-02-26T11:00:00.000Z",
-      "sourcePriority": 1,
-      "relevanceScore": 0.2025
-    },
-    {
       "id": "a_bd8e5744",
       "title": "Infosec community panics as Anthropic rolls out Claude code security checker",
       "summary": "",
@@ -876,17 +909,6 @@
       "relevanceScore": 0.1992
     },
     {
-      "id": "a_441d7483",
-      "title": "Ex-Google engineers accused of helping themselves to chip security secrets",
-      "summary": "",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/02/20/google_ip_theft_charges/",
-      "sourceName": "The Register - Security",
-      "category": "Security",
-      "publishedDate": "2026-02-20T10:45:49.000Z",
-      "sourcePriority": 3,
-      "relevanceScore": 0.1992
-    },
-    {
       "id": "a_ed139be5",
       "title": "UK council faces data breach claim after mishandling trans complaints",
       "summary": "",
@@ -894,17 +916,6 @@
       "sourceName": "The Register - Security",
       "category": "Security",
       "publishedDate": "2026-02-22T09:34:09.000Z",
-      "sourcePriority": 3,
-      "relevanceScore": 0.1908
-    },
-    {
-      "id": "a_9a86fecd",
-      "title": "CISA gives federal agencies three days to patch actively exploited Dell bug",
-      "summary": "",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/02/20/cisa_dell_vulnerability/",
-      "sourceName": "The Register - Security",
-      "category": "Security",
-      "publishedDate": "2026-02-20T12:13:10.000Z",
       "sourcePriority": 3,
       "relevanceScore": 0.1908
     },
@@ -1052,6 +1063,17 @@
       "relevanceScore": 0.1875
     },
     {
+      "id": "a_36ff4d6d",
+      "title": "Ukrainian gets five years for helping North Koreans secure US tech jobs",
+      "summary": "",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/02/20/north_korean_it_worker_prison/",
+      "sourceName": "The Register - Security",
+      "category": "Security",
+      "publishedDate": "2026-02-20T14:30:20.000Z",
+      "sourcePriority": 3,
+      "relevanceScore": 0.1825
+    },
+    {
       "id": "a_4ff8e93f",
       "title": "Go library maintainer brands GitHub's Dependabot a 'noise machine'",
       "summary": "",
@@ -1060,7 +1082,7 @@
       "category": "Security",
       "publishedDate": "2026-02-24T16:31:13.000Z",
       "sourcePriority": 3,
-      "relevanceScore": 0.1875
+      "relevanceScore": 0.1575
     },
     {
       "id": "a_9b83428a",
@@ -1071,18 +1093,7 @@
       "category": "Security",
       "publishedDate": "2026-02-24T13:29:47.000Z",
       "sourcePriority": 3,
-      "relevanceScore": 0.1875
-    },
-    {
-      "id": "a_36ff4d6d",
-      "title": "Ukrainian gets five years for helping North Koreans secure US tech jobs",
-      "summary": "",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/02/20/north_korean_it_worker_prison/",
-      "sourceName": "The Register - Security",
-      "category": "Security",
-      "publishedDate": "2026-02-20T14:30:20.000Z",
-      "sourcePriority": 3,
-      "relevanceScore": 0.1825
+      "relevanceScore": 0.1575
     },
     {
       "id": "a_4f360a1e",
@@ -1202,17 +1213,6 @@
       "sourceName": "The Register - Security",
       "category": "Security",
       "publishedDate": "2026-02-20T18:27:23.000Z",
-      "sourcePriority": 3,
-      "relevanceScore": 0.1575
-    },
-    {
-      "id": "a_8de07ea0",
-      "title": "Attackers have 16-digit card numbers, expiry dates, but not names. Now org gets £500k fine",
-      "summary": "",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/02/20/ico_wins_battle_in_protracted_fight/",
-      "sourceName": "The Register - Security",
-      "category": "Security",
-      "publishedDate": "2026-02-20T10:25:24.000Z",
       "sourcePriority": 3,
       "relevanceScore": 0.1575
     }
