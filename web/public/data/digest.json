@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-31T13:17:39.290Z",
+  "generatedAt": "2026-03-31T19:01:34.802Z",
   "timeBudgetMinutes": {
     "daily": 10,
     "weekly": 45
@@ -13,9 +13,20 @@
       "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/agentic-ai-openclaw-holds-japan-event-amid-expectations-as-next-chatgpt",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-03-31T13:17:39.289Z",
+      "publishedDate": "2026-03-31T19:01:34.801Z",
       "sourcePriority": 2,
       "relevanceScore": 0.385
+    },
+    {
+      "id": "a_df4d5e26",
+      "title": "Japan, Korea stocks fall 3% amid talk of Iran ground war",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/markets/japan-korea-stocks-fall-3-amid-talk-of-iran-ground-war",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-03-31T19:01:34.802Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.335
     },
     {
       "id": "a_dd5d1f67",
@@ -24,7 +35,7 @@
       "url": "https://asia.nikkei.com/politics/international-relations/japan-to-focus-on-india-economic-ties-with-new-foreign-ministry-office",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-03-31T13:17:39.289Z",
+      "publishedDate": "2026-03-31T19:01:34.801Z",
       "sourcePriority": 2,
       "relevanceScore": 0.335
     },
@@ -35,152 +46,31 @@
       "url": "https://asia.nikkei.com/opinion/japan-is-preparing-for-the-worst.-taiwan-is-just-preparing-excuses",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-03-31T13:17:39.289Z",
+      "publishedDate": "2026-03-31T19:01:34.801Z",
       "sourcePriority": 2,
       "relevanceScore": 0.335
     },
     {
-      "id": "a_df4d5e26",
-      "title": "Japan, Korea stocks fall 3% amid talk of Iran ground war",
+      "id": "a_c32a5842",
+      "title": "Inpex diverts Australian LPG, condensate to supply Japan",
       "summary": "",
-      "url": "https://asia.nikkei.com/business/markets/japan-korea-stocks-fall-3-amid-talk-of-iran-ground-war",
+      "url": "https://asia.nikkei.com/business/energy/inpex-diverts-australian-lpg-condensate-to-supply-japan",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-03-31T13:17:39.289Z",
+      "publishedDate": "2026-03-31T19:01:34.800Z",
       "sourcePriority": 2,
       "relevanceScore": 0.335
     },
     {
-      "id": "a_9f3e228",
-      "title": "Telnyx joins LiteLLM in latest PyPI package poisoning tied to Trivy breach",
-      "summary": "",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/30/telnyx_pypi_supply_chain_attack_litellm/",
-      "sourceName": "The Register - Security",
-      "category": "Security",
-      "publishedDate": "2026-03-30T17:42:55.000Z",
-      "sourcePriority": 3,
-      "relevanceScore": 0.33
-    },
-    {
-      "id": "a_58d84efb",
-      "title": "There are more AI health tools than ever—but how well do they work?",
-      "summary": "Earlier this month, Microsoft launched Copilot Health, a new space within its Copilot app where users will be able to connect their medical records and ask specific questions about their health. A couple of days earlier, Amazon had announced that Health AI, an LLM-based tool prev",
-      "url": "https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-tools-than-ever-but-how-well-do-they-work/",
+      "id": "a_282a85d8",
+      "title": "Shifting to AI model customization is an architectural imperative",
+      "summary": "In the early days of large language models (LLMs), we grew accustomed to massive 10x jumps in reasoning and coding capability with every new model iteration. Today, those jumps have flattened into incremental gains. The exception is domain-specialized intelligence, where true ste",
+      "url": "https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/",
       "sourceName": "MIT Technology Review",
       "category": "AI",
-      "publishedDate": "2026-03-30T16:00:00.000Z",
+      "publishedDate": "2026-03-31T14:12:50.000Z",
       "sourcePriority": 1,
-      "relevanceScore": 0.3117
-    },
-    {
-      "id": "a_32a2f118",
-      "title": "Indonesian business lobby calls for higher deficit cap during energy crisis",
-      "summary": "",
-      "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/indonesian-business-lobby-calls-for-higher-deficit-cap-during-energy-crisis",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-03-31T13:17:39.289Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_6709cfa2",
-      "title": "India smartphone export growth in doubt as Iran war hits UAE",
-      "summary": "",
-      "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/india-smartphone-export-growth-in-doubt-as-iran-war-hits-uae",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-03-31T13:17:39.289Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_676d60b8",
-      "title": "Malaysia chip association head confident on outcome of US trade probe",
-      "summary": "",
-      "url": "https://asia.nikkei.com/spotlight/supply-chain/malaysia-chip-association-head-confident-on-outcome-of-us-trade-probe",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-03-31T13:17:39.289Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_ef09881f",
-      "title": "France's Tikehau Capital plans first Japan investments with new fund",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/finance/france-s-tikehau-capital-plans-first-japan-investments-with-new-fund",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-03-31T13:17:39.289Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_dd4fb76c",
-      "title": "Bank of Japan rushes to pave way for rate hikes amid rising oil prices, weak yen",
-      "summary": "",
-      "url": "https://asia.nikkei.com/economy/bank-of-japan/bank-of-japan-rushes-to-pave-way-for-rate-hikes-amid-rising-oil-prices-weak-yen",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-03-31T13:17:39.289Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_36840158",
-      "title": "Japan's fiscal policy on track, but tax cut not budget neutral: ex-IMF economist",
-      "summary": "",
-      "url": "https://asia.nikkei.com/editor-s-picks/interview/japan-s-fiscal-policy-on-track-but-tax-cut-not-budget-neutral-ex-imf-economist",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-03-31T13:17:39.289Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_585f081e",
-      "title": "South Korea to import 27,000 tons of Russian naphtha amid shortage",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/materials/south-korea-to-import-27-000-tons-of-russian-naphtha-amid-shortage",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-03-31T13:17:39.289Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_bd5b4394",
-      "title": "Japan taps MUFG Bank to unlock lending for making global hit films",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/finance/japan-taps-mufg-bank-to-unlock-lending-for-making-global-hit-films",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-03-31T13:17:39.289Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_e3b808bc",
-      "title": "Japan machine tool makers expand US footprint to tap manufacturing demand",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/business-trends/japan-machine-tool-makers-expand-us-footprint-to-tap-manufacturing-demand",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-03-31T13:17:39.289Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_3b1e0644",
-      "title": "US unseats China as top importer of South Korean cosmetics",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/business-trends/us-unseats-china-as-top-importer-of-south-korean-cosmetics",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-03-31T13:17:39.289Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
+      "relevanceScore": 0.3342
     },
     {
       "id": "a_3d3b8a75",
@@ -189,7 +79,7 @@
       "url": "https://asia.nikkei.com/business/markets/currencies/is-japan-nearing-an-fx-intervention-5-things-to-know2",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-03-31T13:17:39.289Z",
+      "publishedDate": "2026-03-31T19:01:34.802Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -200,128 +90,7 @@
       "url": "https://asia.nikkei.com/business/energy/indonesia-s-prabowo-vows-quicker-energy-transition-amid-global-oil-crisis",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-03-31T13:17:39.289Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_7f1ddd60",
-      "title": "Taiwan KMT leader Cheng Li-wun to visit China, expected to meet Xi",
-      "summary": "",
-      "url": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/taiwan-kmt-leader-cheng-li-wun-to-visit-china-expected-to-meet-xi",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-03-31T13:17:39.289Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_bfb32448",
-      "title": "Australian coal shares surge as Iran war deepens energy crisis",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/energy/australian-coal-shares-surge-as-iran-war-deepens-energy-crisis",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-03-31T13:17:39.289Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_6ff1ea74",
-      "title": "India extends insurance, logistics aid to exporters hit by Iran crisis",
-      "summary": "",
-      "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/india-extends-insurance-logistics-aid-to-exporters-hit-by-iran-crisis",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-03-31T13:17:39.289Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_971e62f",
-      "title": "Nikkei Asia webinar - 'Decoding Sanae Takaichi: Japan's first female PM and the road ahead'",
-      "summary": "",
-      "url": "https://asia.nikkei.com/announcements/nikkei-asia-webinar-decoding-sanae-takaichi-japan-s-first-female-pm-and-the-road-ahead",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-03-31T13:17:39.289Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_23da2dc9",
-      "title": "Japan to slash BYD EV subsidies to under $1,000",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/automobiles/japan-to-slash-byd-ev-subsidies-to-under-1-000",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-03-31T13:17:39.289Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_b1e4da20",
-      "title": "Bitcoin resilience amid Iran war raises optimism about crypto adoption in ASEAN",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/markets/trading-asia/bitcoin-resilience-amid-iran-war-raises-optimism-about-crypto-adoption-in-asean",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-03-31T13:17:39.289Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_ab2989",
-      "title": "Japan companies to invest in defense tech with civilian use",
-      "summary": "",
-      "url": "https://asia.nikkei.com/politics/defense/japan-companies-to-invest-in-defense-tech-with-civilian-use",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-03-31T13:17:39.289Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_25b00193",
-      "title": "Malaysian court orders former PM Najib to pay $1.3bn in 1MDB case: media",
-      "summary": "",
-      "url": "https://asia.nikkei.com/spotlight/society/crime/malaysian-court-orders-former-pm-najib-to-pay-1.3bn-in-1mdb-case-media",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-03-31T13:17:39.288Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_2b946bc1",
-      "title": "Japan's Fujitsu to develop cutting-edge 1.4-nm chips for AI processing",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/tech/semiconductors/japan-s-fujitsu-to-develop-cutting-edge-1.4-nm-chips-for-ai-processing",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-03-31T13:17:39.288Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_3d91ec68",
-      "title": "Malaysia's economic diversity to ease Iran war impact: central bank",
-      "summary": "",
-      "url": "https://asia.nikkei.com/economy/malaysia-s-economic-diversity-to-ease-iran-war-impact-central-bank",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-03-31T13:17:39.288Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_5a20f436",
-      "title": "Iran war crisis presents 'opportunity' for Australia's LNG exporters",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/markets/commodities/iran-war-crisis-presents-opportunity-for-australia-s-lng-exporters",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-03-31T13:17:39.288Z",
+      "publishedDate": "2026-03-31T19:01:34.802Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -332,7 +101,7 @@
       "url": "https://asia.nikkei.com/business/energy/indonesia-to-ration-subsidized-fuel-to-mitigate-energy-crisis-impact",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-03-31T13:17:39.288Z",
+      "publishedDate": "2026-03-31T19:01:34.801Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -343,7 +112,216 @@
       "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/india-boosts-regional-ties-with-energy-aid-for-sri-lanka-bangladesh",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-03-31T13:17:39.288Z",
+      "publishedDate": "2026-03-31T19:01:34.801Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_32a2f118",
+      "title": "Indonesian business lobby calls for higher deficit cap during energy crisis",
+      "summary": "",
+      "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/indonesian-business-lobby-calls-for-higher-deficit-cap-during-energy-crisis",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-03-31T19:01:34.801Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_6709cfa2",
+      "title": "India smartphone export growth in doubt as Iran war hits UAE",
+      "summary": "",
+      "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/india-smartphone-export-growth-in-doubt-as-iran-war-hits-uae",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-03-31T19:01:34.801Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_676d60b8",
+      "title": "Malaysia chip association head confident on outcome of US trade probe",
+      "summary": "",
+      "url": "https://asia.nikkei.com/spotlight/supply-chain/malaysia-chip-association-head-confident-on-outcome-of-us-trade-probe",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-03-31T19:01:34.801Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_ef09881f",
+      "title": "France's Tikehau Capital plans first Japan investments with new fund",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/finance/france-s-tikehau-capital-plans-first-japan-investments-with-new-fund",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-03-31T19:01:34.801Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_dd4fb76c",
+      "title": "Bank of Japan rushes to pave way for rate hikes amid rising oil prices, weak yen",
+      "summary": "",
+      "url": "https://asia.nikkei.com/economy/bank-of-japan/bank-of-japan-rushes-to-pave-way-for-rate-hikes-amid-rising-oil-prices-weak-yen",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-03-31T19:01:34.801Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_36840158",
+      "title": "Japan's fiscal policy on track, but tax cut not budget neutral: ex-IMF economist",
+      "summary": "",
+      "url": "https://asia.nikkei.com/editor-s-picks/interview/japan-s-fiscal-policy-on-track-but-tax-cut-not-budget-neutral-ex-imf-economist",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-03-31T19:01:34.801Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_585f081e",
+      "title": "South Korea to import 27,000 tons of Russian naphtha amid shortage",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/materials/south-korea-to-import-27-000-tons-of-russian-naphtha-amid-shortage",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-03-31T19:01:34.801Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_bd5b4394",
+      "title": "Japan taps MUFG Bank to unlock lending for making global hit films",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/finance/japan-taps-mufg-bank-to-unlock-lending-for-making-global-hit-films",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-03-31T19:01:34.801Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_e3b808bc",
+      "title": "Japan machine tool makers expand US footprint to tap manufacturing demand",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/business-trends/japan-machine-tool-makers-expand-us-footprint-to-tap-manufacturing-demand",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-03-31T19:01:34.801Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_3b1e0644",
+      "title": "US unseats China as top importer of South Korean cosmetics",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/business-trends/us-unseats-china-as-top-importer-of-south-korean-cosmetics",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-03-31T19:01:34.801Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_637cf119",
+      "title": "Japan's Takaichi, France's Macron to strike rare-earths deal",
+      "summary": "",
+      "url": "https://asia.nikkei.com/politics/international-relations/japan-s-takaichi-france-s-macron-to-strike-rare-earths-deal",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-03-31T19:01:34.800Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_d042514c",
+      "title": "France attracts Taiwan EV battery maker, looks for others to set up shop",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/automobiles/electric-vehicles/france-attracts-taiwan-ev-battery-maker-looks-for-others-to-set-up-shop",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-03-31T19:01:34.800Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_fb1476e4",
+      "title": "Japan deploys first counterstrike missiles with 1,000-km range",
+      "summary": "",
+      "url": "https://asia.nikkei.com/politics/defense/japan-deploys-first-counterstrike-missiles-with-1-000-km-range",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-03-31T19:01:34.800Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_4ead9117",
+      "title": "Indonesia pushes remote work, biodiesel expansion to tackle oil crisis",
+      "summary": "",
+      "url": "https://asia.nikkei.com/economy/indonesia-pushes-remote-work-biodiesel-expansion-to-tackle-oil-crisis2",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-03-31T19:01:34.800Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_e8fd8ecf",
+      "title": "Japan to stop accepting foreign restaurant workers as visas approach cap",
+      "summary": "",
+      "url": "https://asia.nikkei.com/spotlight/japan-immigration/japan-to-stop-accepting-foreign-restaurant-workers-as-visas-approach-cap",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-03-31T19:01:34.800Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_25b00193",
+      "title": "Malaysian court orders former PM Najib to pay $1.3bn in 1MDB case: media",
+      "summary": "",
+      "url": "https://asia.nikkei.com/spotlight/society/crime/malaysian-court-orders-former-pm-najib-to-pay-1.3bn-in-1mdb-case-media",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-03-31T19:01:34.800Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_2b946bc1",
+      "title": "Japan's Fujitsu to develop cutting-edge 1.4-nm chips for AI processing",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/tech/semiconductors/japan-s-fujitsu-to-develop-cutting-edge-1.4-nm-chips-for-ai-processing",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-03-31T19:01:34.800Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_3d91ec68",
+      "title": "Malaysia's economic diversity to ease Iran war impact: central bank",
+      "summary": "",
+      "url": "https://asia.nikkei.com/economy/malaysia-s-economic-diversity-to-ease-iran-war-impact-central-bank",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-03-31T19:01:34.800Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_5a20f436",
+      "title": "Iran war crisis presents 'opportunity' for Australia's LNG exporters",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/markets/commodities/iran-war-crisis-presents-opportunity-for-australia-s-lng-exporters",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-03-31T19:01:34.800Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -357,6 +335,17 @@
       "publishedDate": "2026-03-30T07:30:15.000Z",
       "sourcePriority": 3,
       "relevanceScore": 0.3083
+    },
+    {
+      "id": "a_9f3e228",
+      "title": "Telnyx joins LiteLLM in latest PyPI package poisoning tied to Trivy breach",
+      "summary": "",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/30/telnyx_pypi_supply_chain_attack_litellm/",
+      "sourceName": "The Register - Security",
+      "category": "Security",
+      "publishedDate": "2026-03-30T17:42:55.000Z",
+      "sourcePriority": 3,
+      "relevanceScore": 0.3
     },
     {
       "id": "a_bb465248",
@@ -381,156 +370,13 @@
       "relevanceScore": 0.2925
     },
     {
-      "id": "a_e2b966ba",
-      "title": "Citrix NetScaler bug exploited in days, may be multiple flaws in a trench coat",
-      "summary": "",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/30/citrix_netscaler_flaw/",
-      "sourceName": "The Register - Security",
-      "category": "Security",
-      "publishedDate": "2026-03-30T13:49:12.000Z",
-      "sourcePriority": 3,
-      "relevanceScore": 0.2883
-    },
-    {
-      "id": "a_ae521bb2",
-      "title": "China manufacturing expands despite Iran-linked trade disruptions",
-      "summary": "",
-      "url": "https://asia.nikkei.com/economy/china-manufacturing-expands-despite-iran-linked-trade-disruptions",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-03-31T13:17:39.289Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_8ace682d",
-      "title": "Southeast Asia braces for fertilizer shortages as prices spike on Iran war",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/markets/commodities/southeast-asia-braces-for-fertilizer-shortages-as-prices-spike-on-iran-war",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-03-31T13:17:39.289Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_1a2e6452",
-      "title": "BYD hails windfall as Iran oil crisis supercharges Chinese EV outlook",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/automobiles/electric-vehicles/byd-hails-windfall-as-iran-oil-crisis-supercharges-chinese-ev-outlook",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-03-31T13:17:39.289Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_dd6ec2b6",
-      "title": "Southeast Asian beauty brands seek overseas gloss to bolster growth",
-      "summary": "",
-      "url": "https://asia.nikkei.com/spotlight/asean-money/southeast-asian-beauty-brands-seek-overseas-gloss-to-bolster-growth",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-03-31T13:17:39.289Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_df7dfd9d",
-      "title": "Honda shifts power back to car engineers to reignite innovation",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/automobiles/honda-shifts-power-back-to-car-engineers-to-reignite-innovation",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-03-31T13:17:39.289Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_7a8b55e1",
-      "title": "Southeast Asia companies shed over $200bn in market value on Iran war",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/markets/equities/southeast-asia-companies-shed-over-200bn-in-market-value-on-iran-war",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-03-31T13:17:39.289Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_a7c2c1a8",
-      "title": "Mitsubishi to adopt JPMorgan blockchain service for fund transfers",
-      "summary": "",
-      "url": "https://asia.nikkei.com/spotlight/cryptocurrencies/mitsubishi-to-adopt-jpmorgan-blockchain-service-for-fund-transfers",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-03-31T13:17:39.289Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_c5cbf007",
-      "title": "China looks to restart US energy imports as Iran tensions rattle markets",
-      "summary": "",
-      "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/china-looks-to-restart-us-energy-imports-as-iran-tensions-rattle-markets",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-03-31T13:17:39.289Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_852bcaca",
-      "title": "Country Garden posts 1st profit since 2022 on restructuring gain",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/companies/country-garden-posts-1st-profit-since-2022-on-restructuring-gain",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-03-31T13:17:39.289Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_534d7ead",
-      "title": "China's big banks eye profit relief but face new pressures from war, policy",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/finance/china-s-big-banks-eye-profit-relief-but-face-new-pressures-from-war-policy",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-03-31T13:17:39.289Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_17e9e21",
-      "title": "Thai CEOs' confidence hits three-year low, survey finds",
-      "summary": "",
-      "url": "https://asia.nikkei.com/economy/thai-ceos-confidence-hits-three-year-low-survey-finds",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-03-31T13:17:39.289Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_bc3b3c19",
-      "title": "Weak rupee gets brief respite after RBI curbs speculation",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/markets/currencies/weak-rupee-gets-brief-respite-after-rbi-curbs-speculation",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-03-31T13:17:39.289Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
       "id": "a_4ca9370e",
       "title": "PetroChina plots $32bn development drive, downplays Iran impact",
       "summary": "",
       "url": "https://asia.nikkei.com/spotlight/iran-tensions/petrochina-plots-32bn-development-drive-downplays-iran-impact",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-03-31T13:17:39.289Z",
+      "publishedDate": "2026-03-31T19:01:34.802Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -541,7 +387,7 @@
       "url": "https://asia.nikkei.com/economy/natural-disasters/grief-and-inflation-haunt-myanmar-s-earthquake-survivors",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-03-31T13:17:39.289Z",
+      "publishedDate": "2026-03-31T19:01:34.802Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -552,62 +398,7 @@
       "url": "https://asia.nikkei.com/editor-s-picks/interview/jeffrey-sachs-warns-mideast-conflict-could-spiral-into-world-war-iii",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-03-31T13:17:39.289Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_908b8da9",
-      "title": "France's Macron heads to Tokyo and Seoul amid fraught US, China ties",
-      "summary": "",
-      "url": "https://asia.nikkei.com/politics/international-relations/france-s-macron-heads-to-tokyo-and-seoul-amid-fraught-us-china-ties",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-03-31T13:17:39.289Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_4c2f4895",
-      "title": "Huawei revenues nearly back to pre-US-clampdown level amid AI boom",
-      "summary": "",
-      "url": "https://asia.nikkei.com/spotlight/huawei-crackdown/huawei-revenues-nearly-back-to-pre-us-clampdown-level-amid-ai-boom",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-03-31T13:17:39.288Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_542c601f",
-      "title": "ASICS president warns of price hikes if Middle East war drags on",
-      "summary": "",
-      "url": "https://asia.nikkei.com/spotlight/iran-tensions/asics-president-warns-of-price-hikes-if-middle-east-war-drags-on",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-03-31T13:17:39.288Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_b2b057f0",
-      "title": "Honda backs highway surfacing tech on its hard road to recovery",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/automobiles/honda-backs-highway-surfacing-tech-on-its-hard-road-to-recovery",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-03-31T13:17:39.288Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_bc9f16a1",
-      "title": "China's OpenClaw craze",
-      "summary": "",
-      "url": "https://asia.nikkei.com/spotlight/podcasts/podcast-tech-latest/china-s-openclaw-craze",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-03-31T13:17:39.288Z",
+      "publishedDate": "2026-03-31T19:01:34.802Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -618,9 +409,218 @@
       "url": "https://asia.nikkei.com/business/telecommunication/chinese-telecom-capex-to-dip-to-15-year-low-hitting-zte",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-03-31T13:17:39.288Z",
+      "publishedDate": "2026-03-31T19:01:34.801Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
+    },
+    {
+      "id": "a_ae521bb2",
+      "title": "China manufacturing expands despite Iran-linked trade disruptions",
+      "summary": "",
+      "url": "https://asia.nikkei.com/economy/china-manufacturing-expands-despite-iran-linked-trade-disruptions",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-03-31T19:01:34.801Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_8ace682d",
+      "title": "Southeast Asia braces for fertilizer shortages as prices spike on Iran war",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/markets/commodities/southeast-asia-braces-for-fertilizer-shortages-as-prices-spike-on-iran-war",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-03-31T19:01:34.801Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_1a2e6452",
+      "title": "BYD hails windfall as Iran oil crisis supercharges Chinese EV outlook",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/automobiles/electric-vehicles/byd-hails-windfall-as-iran-oil-crisis-supercharges-chinese-ev-outlook",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-03-31T19:01:34.801Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_dd6ec2b6",
+      "title": "Southeast Asian beauty brands seek overseas gloss to bolster growth",
+      "summary": "",
+      "url": "https://asia.nikkei.com/spotlight/asean-money/southeast-asian-beauty-brands-seek-overseas-gloss-to-bolster-growth",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-03-31T19:01:34.801Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_df7dfd9d",
+      "title": "Honda shifts power back to car engineers to reignite innovation",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/automobiles/honda-shifts-power-back-to-car-engineers-to-reignite-innovation",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-03-31T19:01:34.801Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_7a8b55e1",
+      "title": "Southeast Asia companies shed over $200bn in market value on Iran war",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/markets/equities/southeast-asia-companies-shed-over-200bn-in-market-value-on-iran-war",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-03-31T19:01:34.801Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_a7c2c1a8",
+      "title": "Mitsubishi to adopt JPMorgan blockchain service for fund transfers",
+      "summary": "",
+      "url": "https://asia.nikkei.com/spotlight/cryptocurrencies/mitsubishi-to-adopt-jpmorgan-blockchain-service-for-fund-transfers",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-03-31T19:01:34.801Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_c5cbf007",
+      "title": "China looks to restart US energy imports as Iran tensions rattle markets",
+      "summary": "",
+      "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/china-looks-to-restart-us-energy-imports-as-iran-tensions-rattle-markets",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-03-31T19:01:34.801Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_852bcaca",
+      "title": "Country Garden posts 1st profit since 2022 on restructuring gain",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/companies/country-garden-posts-1st-profit-since-2022-on-restructuring-gain",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-03-31T19:01:34.801Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_534d7ead",
+      "title": "China's big banks eye profit relief but face new pressures from war, policy",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/finance/china-s-big-banks-eye-profit-relief-but-face-new-pressures-from-war-policy",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-03-31T19:01:34.801Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_17e9e21",
+      "title": "Thai CEOs' confidence hits three-year low, survey finds",
+      "summary": "",
+      "url": "https://asia.nikkei.com/economy/thai-ceos-confidence-hits-three-year-low-survey-finds",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-03-31T19:01:34.801Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_bc3b3c19",
+      "title": "Weak rupee gets brief respite after RBI curbs speculation",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/markets/currencies/weak-rupee-gets-brief-respite-after-rbi-curbs-speculation",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-03-31T19:01:34.801Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_d455dd11",
+      "title": "Mitsubishi Materials returns to rare earth recycling as China curbs exports",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/materials/mitsubishi-materials-returns-to-rare-earth-recycling-as-china-curbs-exports",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-03-31T19:01:34.800Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_435a0af7",
+      "title": "Mitsubishi Power strains to meet gas turbine demand amid US labor crunch",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/energy/mitsubishi-power-strains-to-meet-gas-turbine-demand-amid-us-labor-crunch",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-03-31T19:01:34.800Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_4c2f4895",
+      "title": "Huawei revenues nearly back to pre-US-clampdown level amid AI boom",
+      "summary": "",
+      "url": "https://asia.nikkei.com/spotlight/huawei-crackdown/huawei-revenues-nearly-back-to-pre-us-clampdown-level-amid-ai-boom",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-03-31T19:01:34.800Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_542c601f",
+      "title": "ASICS president warns of price hikes if Middle East war drags on",
+      "summary": "",
+      "url": "https://asia.nikkei.com/spotlight/iran-tensions/asics-president-warns-of-price-hikes-if-middle-east-war-drags-on",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-03-31T19:01:34.800Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_b2b057f0",
+      "title": "Honda backs highway surfacing tech on its hard road to recovery",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/automobiles/honda-backs-highway-surfacing-tech-on-its-hard-road-to-recovery",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-03-31T19:01:34.800Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_bc9f16a1",
+      "title": "China's OpenClaw craze",
+      "summary": "",
+      "url": "https://asia.nikkei.com/spotlight/podcasts/podcast-tech-latest/china-s-openclaw-craze",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-03-31T19:01:34.800Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_58d84efb",
+      "title": "There are more AI health tools than ever—but how well do they work?",
+      "summary": "Earlier this month, Microsoft launched Copilot Health, a new space within its Copilot app where users will be able to connect their medical records and ask specific questions about their health. A couple of days earlier, Amazon had announced that Health AI, an LLM-based tool prev",
+      "url": "https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-tools-than-ever-but-how-well-do-they-work/",
+      "sourceName": "MIT Technology Review",
+      "category": "AI",
+      "publishedDate": "2026-03-30T16:00:00.000Z",
+      "sourcePriority": 1,
+      "relevanceScore": 0.2817
     },
     {
       "id": "a_d0e3089b",
@@ -643,17 +643,6 @@
       "publishedDate": "2026-03-18T17:40:31.000Z",
       "sourcePriority": 3,
       "relevanceScore": 0.2742
-    },
-    {
-      "id": "a_9b57f5f4",
-      "title": "The Pentagon’s culture war tactic against Anthropic has backfired",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Thursday, a California judge temporarily blocked the Pentagon from labeling Anthropic a supply chain risk and ordering government agencie",
-      "url": "https://www.technologyreview.com/2026/03/30/1134881/the-pentagons-culture-war-tactic-against-anthropic-has-backfired/",
-      "sourceName": "MIT Technology Review",
-      "category": "AI",
-      "publishedDate": "2026-03-30T15:42:50.000Z",
-      "sourcePriority": 1,
-      "relevanceScore": 0.27
     },
     {
       "id": "a_366bc504",
@@ -689,6 +678,17 @@
       "relevanceScore": 0.2625
     },
     {
+      "id": "a_e2b966ba",
+      "title": "Citrix NetScaler bug exploited in days, may be multiple flaws in a trench coat",
+      "summary": "",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/30/citrix_netscaler_flaw/",
+      "sourceName": "The Register - Security",
+      "category": "Security",
+      "publishedDate": "2026-03-30T13:49:12.000Z",
+      "sourcePriority": 3,
+      "relevanceScore": 0.2583
+    },
+    {
       "id": "a_c814a81d",
       "title": "OpenAI patches ChatGPT flaw that smuggled data over DNS",
       "summary": "",
@@ -698,6 +698,17 @@
       "publishedDate": "2026-03-30T19:36:29.000Z",
       "sourcePriority": 3,
       "relevanceScore": 0.255
+    },
+    {
+      "id": "a_9b57f5f4",
+      "title": "The Pentagon’s culture war tactic against Anthropic has backfired",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Thursday, a California judge temporarily blocked the Pentagon from labeling Anthropic a supply chain risk and ordering government agencie",
+      "url": "https://www.technologyreview.com/2026/03/30/1134881/the-pentagons-culture-war-tactic-against-anthropic-has-backfired/",
+      "sourceName": "MIT Technology Review",
+      "category": "AI",
+      "publishedDate": "2026-03-30T15:42:50.000Z",
+      "sourcePriority": 1,
+      "relevanceScore": 0.24
     },
     {
       "id": "a_aeecb71d",
@@ -799,17 +810,6 @@
       "relevanceScore": 0.2242
     },
     {
-      "id": "a_b8bbaf34",
-      "title": "HackerOne slams supplier for delayed breach notice after staff data exposed",
-      "summary": "",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/24/hackerone_supplier_breach/",
-      "sourceName": "The Register - Security",
-      "category": "Security",
-      "publishedDate": "2026-03-24T13:27:07.000Z",
-      "sourcePriority": 3,
-      "relevanceScore": 0.2208
-    },
-    {
       "id": "a_69d2e255",
       "title": "Indian government probes CCTV espionage operation linked to Pakistan",
       "summary": "",
@@ -854,17 +854,6 @@
       "relevanceScore": 0.2025
     },
     {
-      "id": "a_fcbe9562",
-      "title": "The Download: a battery pivot to AI, and rewriting math",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Why this battery company is pivoting to AI  Qichao Hu doesn’t mince words about the state of the battery industry. “Almost every Western batte",
-      "url": "https://www.technologyreview.com/2026/03/26/1134697/the-download-battery-ai-pivot-new-ai-tool-math/",
-      "sourceName": "MIT Technology Review",
-      "category": "AI",
-      "publishedDate": "2026-03-26T12:42:53.000Z",
-      "sourcePriority": 1,
-      "relevanceScore": 0.2025
-    },
-    {
       "id": "a_98deae22",
       "title": "Google unleashes Gemini AI agents on the dark web",
       "summary": "",
@@ -896,6 +885,17 @@
       "publishedDate": "2026-03-18T23:05:31.000Z",
       "sourcePriority": 3,
       "relevanceScore": 0.1992
+    },
+    {
+      "id": "a_b8bbaf34",
+      "title": "HackerOne slams supplier for delayed breach notice after staff data exposed",
+      "summary": "",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/24/hackerone_supplier_breach/",
+      "sourceName": "The Register - Security",
+      "category": "Security",
+      "publishedDate": "2026-03-24T13:27:07.000Z",
+      "sourcePriority": 3,
+      "relevanceScore": 0.1908
     },
     {
       "id": "a_c0bd36de",
