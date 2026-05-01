@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-01T13:17:18.103Z",
+  "generatedAt": "2026-05-01T19:10:48.738Z",
   "timeBudgetMinutes": {
     "daily": 10,
     "weekly": 45
@@ -7,13 +7,24 @@
   "total": 110,
   "articles": [
     {
+      "id": "a_56555d30",
+      "title": "Operationalizing AI for Scale and Sovereignty",
+      "summary": "Companies are taking control of their own data to tailor AI for their needs. The challenge lies in balancing ownership with the safe, trusted flow of high‑quality data needed to power reliable insights. This conversation from MIT Technology Review’s EmTech AI conference examines ",
+      "url": "https://www.technologyreview.com/2026/05/01/1136772/operationalizing-ai-for-scale-and-sovereignty/",
+      "sourceName": "MIT Technology Review",
+      "category": "AI",
+      "publishedDate": "2026-05-01T15:31:09.000Z",
+      "sourcePriority": 1,
+      "relevanceScore": 0.4175
+    },
+    {
       "id": "a_5861965c",
       "title": "Japan and Australia to fast-track six critical mineral projects",
       "summary": "",
       "url": "https://asia.nikkei.com/politics/japan-and-australia-to-fast-track-six-critical-mineral-projects",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-05-01T13:17:18.075Z",
+      "publishedDate": "2026-05-01T19:10:48.650Z",
       "sourcePriority": 2,
       "relevanceScore": 0.3683
     },
@@ -24,7 +35,7 @@
       "url": "https://asia.nikkei.com/business/companies/japan-s-jfe-to-double-india-steel-capacity-by-2030-on-infrastructure-demand",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-05-01T13:17:18.075Z",
+      "publishedDate": "2026-05-01T19:10:48.651Z",
       "sourcePriority": 2,
       "relevanceScore": 0.36
     },
@@ -46,7 +57,7 @@
       "url": "https://asia.nikkei.com/business/telecommunication/japan-s-kddi-links-up-with-vnpt-to-provide-cell-service-in-vietnam",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-05-01T13:17:18.076Z",
+      "publishedDate": "2026-05-01T19:10:48.651Z",
       "sourcePriority": 2,
       "relevanceScore": 0.335
     },
@@ -57,9 +68,20 @@
       "url": "https://asia.nikkei.com/business/startups/voice-ai-startup-verbex-to-move-headquarters-from-singapore-to-japan2",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-05-01T13:17:18.076Z",
+      "publishedDate": "2026-05-01T19:10:48.651Z",
       "sourcePriority": 2,
       "relevanceScore": 0.335
+    },
+    {
+      "id": "a_6c0eaa29",
+      "title": "Cyber-Insecurity in the AI Era",
+      "summary": "Cybersecurity was already under strain before AI entered the stack. Now, as AI expands the attack surface and adds new complexity, the limits of legacy approaches are becoming harder to ignore. This session from MIT Technology Review’s EmTech AI conference explores why security m",
+      "url": "https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/",
+      "sourceName": "MIT Technology Review",
+      "category": "AI",
+      "publishedDate": "2026-05-01T15:54:01.000Z",
+      "sourcePriority": 1,
+      "relevanceScore": 0.3342
     },
     {
       "id": "a_9ddcc11a",
@@ -90,7 +112,7 @@
       "url": "https://asia.nikkei.com/business/companies/adani-group/adani-enterprises-posts-quarterly-loss-as-costs-asset-depreciation-swell",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-05-01T13:17:18.076Z",
+      "publishedDate": "2026-05-01T19:10:48.651Z",
       "sourcePriority": 2,
       "relevanceScore": 0.3267
     },
@@ -101,20 +123,9 @@
       "url": "https://asia.nikkei.com/business/markets/finance-minister-katayama-issues-warning-after-yen-breaches-160-to-dollar",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-05-01T13:17:18.076Z",
+      "publishedDate": "2026-05-01T19:10:48.652Z",
       "sourcePriority": 2,
       "relevanceScore": 0.3183
-    },
-    {
-      "id": "a_27d111a6",
-      "title": "This startup’s new mechanistic interpretability tool lets you debug LLMs",
-      "summary": "The San Francisco–based startup Goodfire just released a new tool, called Silico, that lets researchers and engineers peer inside an AI model and adjust its parameters—the settings that determine a model’s behavior—during training. This could give model makers more fine-grained c",
-      "url": "https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/",
-      "sourceName": "MIT Technology Review",
-      "category": "AI",
-      "publishedDate": "2026-04-30T15:59:41.000Z",
-      "sourcePriority": 1,
-      "relevanceScore": 0.3117
     },
     {
       "id": "a_aa0eef55",
@@ -128,79 +139,13 @@
       "relevanceScore": 0.3108
     },
     {
-      "id": "a_1f64d72",
-      "title": "Japan green-lights minicar taxis in effort to recruit female cabbies",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/transportation/japan-green-lights-minicar-taxis-in-effort-to-recruit-female-cabbies",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-05-01T13:17:18.077Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_471a3b64",
-      "title": "Japan's naphtha supply can last beyond 2026, Takaichi says",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/markets/commodities/japan-s-naphtha-supply-can-last-beyond-2026-takaichi-says",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-05-01T13:17:18.076Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_31b6e1c3",
-      "title": "Hitachi, Advantest ride AI boom to lead Japan Inc. profit bonanza",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/hitachi-advantest-ride-ai-boom-to-lead-japan-inc.-profit-bonanza",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-05-01T13:17:18.076Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_54335280",
-      "title": "State Street and SBI to launch low-fee investment trusts in Japan",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/finance/state-street-and-sbi-to-launch-low-fee-investment-trusts-in-japan",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-05-01T13:17:18.076Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_f9bdc664",
-      "title": "Japan launches FX intervention, briefly pushing yen to 155 from 160",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/markets/currencies/japan-launches-fx-intervention-briefly-pushing-yen-to-155-from-160",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-05-01T13:17:18.076Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_7e22207c",
-      "title": "Japanese airlines see decrease in net profit for FY26 with fuel hikes",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/companies/japanese-airlines-see-decrease-in-net-profit-for-fy26-with-fuel-hikes",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-05-01T13:17:18.076Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
       "id": "a_300f8eaa",
       "title": "UAE's exit from OPEC seen increasing oil supplies for Japan, China",
       "summary": "",
       "url": "https://asia.nikkei.com/business/energy/uae-s-exit-from-opec-seen-increasing-oil-supplies-for-japan-china",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-05-01T13:17:18.076Z",
+      "publishedDate": "2026-05-01T19:10:48.652Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -211,7 +156,7 @@
       "url": "https://asia.nikkei.com/business/finance/singapore-s-dbs-warns-of-second-order-effects-from-iran-war",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-05-01T13:17:18.076Z",
+      "publishedDate": "2026-05-01T19:10:48.652Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -222,106 +167,7 @@
       "url": "https://asia.nikkei.com/business/business-deals/private-equity-firm-mbk-to-drop-takeover-of-japan-s-makino",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-05-01T13:17:18.076Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_f9025404",
-      "title": "Between guns and butter, Japan decides on both",
-      "summary": "",
-      "url": "https://asia.nikkei.com/politics/defense/between-guns-and-butter-japan-decides-on-both",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-05-01T13:17:18.076Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_5f3f5d72",
-      "title": "ADB to pair ASEAN disaster insurance with infrastructure loans",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/finance/adb-to-pair-asean-disaster-insurance-with-infrastructure-loans",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-05-01T13:17:18.076Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_74fe2023",
-      "title": "PAG eyes up to $12bn in Japan real estate, private equity deals: president",
-      "summary": "",
-      "url": "https://asia.nikkei.com/editor-s-picks/interview/pag-eyes-up-to-12bn-in-japan-real-estate-private-equity-deals-president",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-05-01T13:17:18.076Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_5e073b5d",
-      "title": "Japan's trading houses see benefits from Iran war but set buffers",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/business-trends/japan-s-trading-houses-see-benefits-from-iran-war-but-set-buffers",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-05-01T13:17:18.075Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_39a6a2db",
-      "title": "Prabowo announces cut to ride-hailing app fees in Indonesia",
-      "summary": "",
-      "url": "https://asia.nikkei.com/economy/prabowo-announces-cut-to-ride-hailing-app-fees-in-indonesia",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-05-01T13:17:18.075Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_f198c123",
-      "title": "India's geopolitical clout tested in Maldives-Mauritius rift over Chagos",
-      "summary": "",
-      "url": "https://asia.nikkei.com/politics/international-relations/india-s-geopolitical-clout-tested-in-maldives-mauritius-rift-over-chagos",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-05-01T13:17:18.075Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_539aa9de",
-      "title": "Japan's Sumitomo Corp. to sell its Madagascar nickel mine business",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/business-trends/japan-s-sumitomo-corp.-to-sell-its-madagascar-nickel-mine-business",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-05-01T13:17:18.075Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_462ea3b3",
-      "title": "Australian farmers face hard choices as Iran war hits fertilizer supplies",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/agriculture/australian-farmers-face-hard-choices-as-iran-war-hits-fertilizer-supplies",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-05-01T13:17:18.075Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_a5874caf",
-      "title": "Economists warn Takaichi subsidies risk spurring Japanese inflation",
-      "summary": "",
-      "url": "https://asia.nikkei.com/economy/inflation/economists-warn-takaichi-subsidies-risk-spurring-japanese-inflation",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-05-01T13:17:18.075Z",
+      "publishedDate": "2026-05-01T19:10:48.652Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -332,7 +178,7 @@
       "url": "https://asia.nikkei.com/politics/iran-war-unlikely-to-trigger-terror-attacks-in-indonesia-ex-militants",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-05-01T13:17:18.075Z",
+      "publishedDate": "2026-05-01T19:10:48.651Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -343,7 +189,7 @@
       "url": "https://asia.nikkei.com/business/travel-leisure/japan-campsites-on-high-alert-for-bears-during-golden-week-holidays",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-05-01T13:17:18.075Z",
+      "publishedDate": "2026-05-01T19:10:48.651Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -354,7 +200,7 @@
       "url": "https://asia.nikkei.com/spotlight/supply-chain/japan-s-ulvac-to-reshore-production-of-rare-earth-magnet-making-equipment",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-05-01T13:17:18.075Z",
+      "publishedDate": "2026-05-01T19:10:48.651Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -365,7 +211,183 @@
       "url": "https://asia.nikkei.com/business/automobiles/toyota-to-build-3-india-plants-tripling-output-in-country",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-05-01T13:17:18.075Z",
+      "publishedDate": "2026-05-01T19:10:48.651Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_471a3b64",
+      "title": "Japan's naphtha supply can last beyond 2026, Takaichi says",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/markets/commodities/japan-s-naphtha-supply-can-last-beyond-2026-takaichi-says",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-05-01T19:10:48.651Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_31b6e1c3",
+      "title": "Hitachi, Advantest ride AI boom to lead Japan Inc. profit bonanza",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/hitachi-advantest-ride-ai-boom-to-lead-japan-inc.-profit-bonanza",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-05-01T19:10:48.651Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_54335280",
+      "title": "State Street and SBI to launch low-fee investment trusts in Japan",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/finance/state-street-and-sbi-to-launch-low-fee-investment-trusts-in-japan",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-05-01T19:10:48.651Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_f9bdc664",
+      "title": "Japan launches FX intervention, briefly pushing yen to 155 from 160",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/markets/currencies/japan-launches-fx-intervention-briefly-pushing-yen-to-155-from-160",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-05-01T19:10:48.651Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_7e22207c",
+      "title": "Japanese airlines see decrease in net profit for FY26 with fuel hikes",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/companies/japanese-airlines-see-decrease-in-net-profit-for-fy26-with-fuel-hikes",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-05-01T19:10:48.651Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_39a6a2db",
+      "title": "Prabowo announces cut to ride-hailing app fees in Indonesia",
+      "summary": "",
+      "url": "https://asia.nikkei.com/economy/prabowo-announces-cut-to-ride-hailing-app-fees-in-indonesia",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-05-01T19:10:48.650Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_f198c123",
+      "title": "India's geopolitical clout tested in Maldives-Mauritius rift over Chagos",
+      "summary": "",
+      "url": "https://asia.nikkei.com/politics/international-relations/india-s-geopolitical-clout-tested-in-maldives-mauritius-rift-over-chagos",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-05-01T19:10:48.650Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_539aa9de",
+      "title": "Japan's Sumitomo Corp. to sell its Madagascar nickel mine business",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/business-trends/japan-s-sumitomo-corp.-to-sell-its-madagascar-nickel-mine-business",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-05-01T19:10:48.650Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_462ea3b3",
+      "title": "Australian farmers face hard choices as Iran war hits fertilizer supplies",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/agriculture/australian-farmers-face-hard-choices-as-iran-war-hits-fertilizer-supplies",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-05-01T19:10:48.650Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_a5874caf",
+      "title": "Economists warn Takaichi subsidies risk spurring Japanese inflation",
+      "summary": "",
+      "url": "https://asia.nikkei.com/economy/inflation/economists-warn-takaichi-subsidies-risk-spurring-japanese-inflation",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-05-01T19:10:48.650Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_661c5a65",
+      "title": "Japan refiner Taiyo buys oil from Russia as Middle East alternative",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/energy/japan-refiner-taiyo-buys-oil-from-russia-as-middle-east-alternative",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-05-01T19:10:48.649Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_aac593b5",
+      "title": "Japan bank signs over $2bn in loans for US investments",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/finance/japan-bank-signs-over-2bn-in-loans-for-us-investments",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-05-01T19:10:48.649Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_2de179de",
+      "title": "Iran war-driven surge in oil prices pushes Japan toward yen intervention",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/markets/currencies/iran-war-driven-surge-in-oil-prices-pushes-japan-toward-yen-intervention",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-05-01T19:10:48.649Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_8097f145",
+      "title": "South Korea's Hanwha builds arms empire as Ukraine, Iran wars spur spending",
+      "summary": "",
+      "url": "https://asia.nikkei.com/spotlight/big-in-asia/south-korea-s-hanwha-builds-arms-empire-as-ukraine-iran-wars-spur-spending",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-05-01T19:10:48.649Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_25aaf122",
+      "title": "Anthropic eyes Japan expansion for Mythos AI, opposed by White House",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/anthropic-eyes-japan-expansion-for-mythos-ai-opposed-by-white-house",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-05-01T19:10:48.649Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_5e073b5d",
+      "title": "Japan's trading houses see benefits from Iran war but set buffers",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/business-trends/japan-s-trading-houses-see-benefits-from-iran-war-but-set-buffers",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-05-01T19:10:48.649Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -392,46 +414,13 @@
       "relevanceScore": 0.2917
     },
     {
-      "id": "a_f6c9920b",
-      "title": "Google's fix for critical Gemini CLI bug might break your CI/CD pipelines",
-      "summary": "",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/googles_fix_for_critical_gemini/",
-      "sourceName": "The Register - Security",
-      "category": "Security",
-      "publishedDate": "2026-04-30T17:15:13.000Z",
-      "sourcePriority": 3,
-      "relevanceScore": 0.2883
-    },
-    {
-      "id": "a_832aed99",
-      "title": "French prosecutors link 15-year-old to mega-breach at state’s secure document agency",
-      "summary": "",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/french_gov_mega_breach_suspect/",
-      "sourceName": "The Register - Security",
-      "category": "Security",
-      "publishedDate": "2026-04-30T16:39:22.000Z",
-      "sourcePriority": 3,
-      "relevanceScore": 0.2883
-    },
-    {
-      "id": "a_a438fc3",
-      "title": "Kao shareholders vote down Oasis's bid for independent supplier probe",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/markets/equities/kao-shareholders-vote-down-oasis-s-bid-for-independent-supplier-probe",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-05-01T13:17:18.076Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
       "id": "a_78ac459b",
       "title": "Apple's new chief and China's chilling move on Manus",
       "summary": "",
       "url": "https://asia.nikkei.com/techasia/apple-s-new-chief-and-china-s-chilling-move-on-manus",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-05-01T13:17:18.076Z",
+      "publishedDate": "2026-05-01T19:10:48.652Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -442,7 +431,7 @@
       "url": "https://asia.nikkei.com/business/automobiles/us-carmakers-china-balance-cooperate-abroad-protect-turf-at-home",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-05-01T13:17:18.076Z",
+      "publishedDate": "2026-05-01T19:10:48.652Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -453,7 +442,7 @@
       "url": "https://asia.nikkei.com/business/tech/semiconductors/samsung-warns-memory-shortage-to-deepen-next-year-as-2027-orders-come-in",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-05-01T13:17:18.076Z",
+      "publishedDate": "2026-05-01T19:10:48.652Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -464,7 +453,7 @@
       "url": "https://asia.nikkei.com/business/health-care/global-drugmakers-eye-more-china-biotech-deals-after-record-year",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-05-01T13:17:18.076Z",
+      "publishedDate": "2026-05-01T19:10:48.652Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -475,7 +464,7 @@
       "url": "https://asia.nikkei.com/business/markets/china-debt-crunch/shenzhen-metro-posts-record-5.5bn-loss-as-china-vanke-exposure-deepens",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-05-01T13:17:18.076Z",
+      "publishedDate": "2026-05-01T19:10:48.652Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -486,7 +475,7 @@
       "url": "https://asia.nikkei.com/spotlight/myanmar-crisis/everything-had-been-looted-myanmar-s-civil-war-takes-heavy-toll",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-05-01T13:17:18.076Z",
+      "publishedDate": "2026-05-01T19:10:48.652Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -497,117 +486,7 @@
       "url": "https://asia.nikkei.com/spotlight/supply-chain/memory-crunch-to-persist-as-oversupply-risks-remain-low-phison-ceo",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-05-01T13:17:18.076Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_54441fbf",
-      "title": "Meta raises 2026 capex to $145 billion amid AI spending boost",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/meta-raises-2026-capex-to-145-billion-amid-ai-spending-boost",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-05-01T13:17:18.076Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_d5f8ab0a",
-      "title": "Brazil cracks down on insurance covering illegally deforested farmland",
-      "summary": "",
-      "url": "https://asia.nikkei.com/spotlight/environment/brazil-cracks-down-on-insurance-covering-illegally-deforested-farmland",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-05-01T13:17:18.076Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_4897108a",
-      "title": "China's technological ambitions hinge on property market",
-      "summary": "",
-      "url": "https://asia.nikkei.com/opinion/china-s-technological-ambitions-hinge-on-property-market",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-05-01T13:17:18.076Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_1e794613",
-      "title": "Fate of Myanmar's Aung San Suu Kyi called into question",
-      "summary": "",
-      "url": "https://asia.nikkei.com/spotlight/myanmar-crisis/fate-of-myanmar-s-aung-san-suu-kyi-called-into-question",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-05-01T13:17:18.075Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_ec955690",
-      "title": "BOJ data hints at over $30bn intervention to support yen on Thursday",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/markets/currencies/boj-data-hints-at-over-30bn-intervention-to-support-yen-on-thursday",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-05-01T13:17:18.075Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_a94d2b24",
-      "title": "The KOSPI's miracle surge comes with a warning label",
-      "summary": "",
-      "url": "https://asia.nikkei.com/opinion/the-kospi-s-miracle-surge-comes-with-a-warning-label",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-05-01T13:17:18.075Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_930be9c3",
-      "title": "Yen surges to 155 versus dollar for second day amid intervention talk",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/markets/currencies/yen-surges-to-155-versus-dollar-for-second-day-amid-intervention-talk",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-05-01T13:17:18.075Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_a68a6843",
-      "title": "Scandal-hit 'baijiu' maker sharply revises earnings with chairman missing",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/food-beverage/scandal-hit-baijiu-maker-sharply-revises-earnings-with-chairman-missing",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-05-01T13:17:18.075Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_a98f2c7",
-      "title": "Nissan cancels US EV production plans at Mississippi plant",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/automobiles/nissan-cancels-us-ev-production-plans-at-mississippi-plant",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-05-01T13:17:18.075Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_4135ce96",
-      "title": "Pakistan seeks long-term gains in continued US-Iran mediation",
-      "summary": "",
-      "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/pakistan-seeks-long-term-gains-in-continued-us-iran-mediation",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-05-01T13:17:18.075Z",
+      "publishedDate": "2026-05-01T19:10:48.652Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -618,7 +497,7 @@
       "url": "https://asia.nikkei.com/business/technology/apple-expects-significantly-higher-memory-chip-cost-in-upcoming-quarters",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-05-01T13:17:18.075Z",
+      "publishedDate": "2026-05-01T19:10:48.651Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -629,7 +508,7 @@
       "url": "https://asia.nikkei.com/business/food-beverage/asahi-goes-big-in-africa-with-3bn-deal-for-maker-of-tusker-beer",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-05-01T13:17:18.075Z",
+      "publishedDate": "2026-05-01T19:10:48.651Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -640,7 +519,7 @@
       "url": "https://asia.nikkei.com/opinion/china-s-reflation-story-is-seductive-but-wrong",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-05-01T13:17:18.075Z",
+      "publishedDate": "2026-05-01T19:10:48.651Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -651,9 +530,130 @@
       "url": "https://asia.nikkei.com/spotlight/policy-asia/bangladesh-clothing-makers-look-to-trade-deals-to-revive-exports",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-05-01T13:17:18.075Z",
+      "publishedDate": "2026-05-01T19:10:48.651Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
+    },
+    {
+      "id": "a_a438fc3",
+      "title": "Kao shareholders vote down Oasis's bid for independent supplier probe",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/markets/equities/kao-shareholders-vote-down-oasis-s-bid-for-independent-supplier-probe",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-05-01T19:10:48.651Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_1e794613",
+      "title": "Fate of Myanmar's Aung San Suu Kyi called into question",
+      "summary": "",
+      "url": "https://asia.nikkei.com/spotlight/myanmar-crisis/fate-of-myanmar-s-aung-san-suu-kyi-called-into-question",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-05-01T19:10:48.650Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_ec955690",
+      "title": "BOJ data hints at over $30bn intervention to support yen on Thursday",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/markets/currencies/boj-data-hints-at-over-30bn-intervention-to-support-yen-on-thursday",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-05-01T19:10:48.650Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_a94d2b24",
+      "title": "The KOSPI's miracle surge comes with a warning label",
+      "summary": "",
+      "url": "https://asia.nikkei.com/opinion/the-kospi-s-miracle-surge-comes-with-a-warning-label",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-05-01T19:10:48.650Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_930be9c3",
+      "title": "Yen surges to 155 versus dollar for second day amid intervention talk",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/markets/currencies/yen-surges-to-155-versus-dollar-for-second-day-amid-intervention-talk",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-05-01T19:10:48.650Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_a68a6843",
+      "title": "Scandal-hit 'baijiu' maker sharply revises earnings with chairman missing",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/food-beverage/scandal-hit-baijiu-maker-sharply-revises-earnings-with-chairman-missing",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-05-01T19:10:48.650Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_a98f2c7",
+      "title": "Nissan cancels US EV production plans at Mississippi plant",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/automobiles/nissan-cancels-us-ev-production-plans-at-mississippi-plant",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-05-01T19:10:48.650Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_4135ce96",
+      "title": "Pakistan seeks long-term gains in continued US-Iran mediation",
+      "summary": "",
+      "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/pakistan-seeks-long-term-gains-in-continued-us-iran-mediation",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-05-01T19:10:48.650Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_53e71bd",
+      "title": "KKR bullish on sports investment, Asian stadium deals: co-CEO",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/finance/kkr-bullish-on-sports-investment-asian-stadium-deals-co-ceo",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-05-01T19:10:48.649Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_30d1c02f",
+      "title": "Mitsubishi Corp. pivots back to natural gas as Iran war slows climate efforts",
+      "summary": "",
+      "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/mitsubishi-corp.-pivots-back-to-natural-gas-as-iran-war-slows-climate-efforts",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-05-01T19:10:48.648Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_27d111a6",
+      "title": "This startup’s new mechanistic interpretability tool lets you debug LLMs",
+      "summary": "The San Francisco–based startup Goodfire just released a new tool, called Silico, that lets researchers and engineers peer inside an AI model and adjust its parameters—the settings that determine a model’s behavior—during training. This could give model makers more fine-grained c",
+      "url": "https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/",
+      "sourceName": "MIT Technology Review",
+      "category": "AI",
+      "publishedDate": "2026-04-30T15:59:41.000Z",
+      "sourcePriority": 1,
+      "relevanceScore": 0.2817
     },
     {
       "id": "a_ffc8e00c",
@@ -689,17 +689,6 @@
       "relevanceScore": 0.2775
     },
     {
-      "id": "a_a1e6b686",
-      "title": "Exclusive eBook: Inside the stealthy startup that pitched brainless human clones",
-      "summary": "The ultimate plan to live forever is a brand new body. This subscriber-only eBook explores R3 Bio, a small startup that has pitched a startling and ethically charged vision for “brainless clones” to serve the role of backup human bodies. by Antonio Regalado March 20, 2026 Related",
-      "url": "https://www.technologyreview.com/2026/04/30/1136684/exclusive-ebook-inside-the-stealthy-startup-that-pitched-brainless-human-clones/",
-      "sourceName": "MIT Technology Review",
-      "category": "AI",
-      "publishedDate": "2026-04-30T18:42:50.000Z",
-      "sourcePriority": 1,
-      "relevanceScore": 0.27
-    },
-    {
       "id": "a_57589635",
       "title": "GoDaddy customer claims registrar transferred 27-year-old domain without any security checks",
       "summary": "",
@@ -720,6 +709,28 @@
       "publishedDate": "2026-04-29T06:32:14.000Z",
       "sourcePriority": 3,
       "relevanceScore": 0.2667
+    },
+    {
+      "id": "a_f6c9920b",
+      "title": "Google's fix for critical Gemini CLI bug might break your CI/CD pipelines",
+      "summary": "",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/googles_fix_for_critical_gemini/",
+      "sourceName": "The Register - Security",
+      "category": "Security",
+      "publishedDate": "2026-04-30T17:15:13.000Z",
+      "sourcePriority": 3,
+      "relevanceScore": 0.2583
+    },
+    {
+      "id": "a_832aed99",
+      "title": "French prosecutors link 15-year-old to mega-breach at state’s secure document agency",
+      "summary": "",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/french_gov_mega_breach_suspect/",
+      "sourceName": "The Register - Security",
+      "category": "Security",
+      "publishedDate": "2026-04-30T16:39:22.000Z",
+      "sourcePriority": 3,
+      "relevanceScore": 0.2583
     },
     {
       "id": "a_3cab1582",
@@ -777,6 +788,17 @@
       "relevanceScore": 0.255
     },
     {
+      "id": "a_a1e6b686",
+      "title": "Exclusive eBook: Inside the stealthy startup that pitched brainless human clones",
+      "summary": "The ultimate plan to live forever is a brand new body. This subscriber-only eBook explores R3 Bio, a small startup that has pitched a startling and ethically charged vision for “brainless clones” to serve the role of backup human bodies. byAntonio Regalado March 30, 2026 Related ",
+      "url": "https://www.technologyreview.com/2026/04/30/1136684/exclusive-ebook-inside-the-stealthy-startup-that-pitched-brainless-human-clones/",
+      "sourceName": "MIT Technology Review",
+      "category": "AI",
+      "publishedDate": "2026-04-30T18:42:50.000Z",
+      "sourcePriority": 1,
+      "relevanceScore": 0.24
+    },
+    {
       "id": "a_8eff85ff",
       "title": "The Download: the North Pole’s future and humanoid data",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Digging for clues about the North Pole’s past In the past, getting to the North Pole involved a treacherous trip through ice many meters thick",
@@ -795,17 +817,6 @@
       "sourceName": "MIT Technology Review",
       "category": "AI",
       "publishedDate": "2026-04-29T12:10:00.000Z",
-      "sourcePriority": 1,
-      "relevanceScore": 0.24
-    },
-    {
-      "id": "a_75621bd9",
-      "title": "It’s time to make a plan for nuclear waste",
-      "summary": "Today, nuclear energy enjoys a rare moment of support across the political spectrum in the US. Interest from tech companies that are scrambling to meet demand for massive data centers has sparked a resurgence of money and attention in the industry. That newfound interest is exact",
-      "url": "https://www.technologyreview.com/2026/04/29/1136659/plan-nuclear-waste/",
-      "sourceName": "MIT Technology Review",
-      "category": "AI",
-      "publishedDate": "2026-04-29T08:00:00.000Z",
       "sourcePriority": 1,
       "relevanceScore": 0.24
     },
@@ -953,39 +964,6 @@
       "relevanceScore": 0.225
     },
     {
-      "id": "a_35490140",
-      "title": "Don't pay Vect a ransom - your data's likely already wiped out",
-      "summary": "",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/dont_pay_vect_a_ransom/",
-      "sourceName": "The Register - Security",
-      "category": "Security",
-      "publishedDate": "2026-04-28T18:36:31.000Z",
-      "sourcePriority": 3,
-      "relevanceScore": 0.225
-    },
-    {
-      "id": "a_bd772067",
-      "title": "Have I Been Pwned claims Pitney Bowes hit by 8.2M email address leak",
-      "summary": "",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/pitney_bowes_is_the_latest/",
-      "sourceName": "The Register - Security",
-      "category": "Security",
-      "publishedDate": "2026-04-28T14:15:07.000Z",
-      "sourcePriority": 3,
-      "relevanceScore": 0.225
-    },
-    {
-      "id": "a_1fc5fa36",
-      "title": "The Download: Musk and Altman’s legal showdown, and AI’s profit problem",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Elon Musk and Sam Altman are going to court over OpenAI’s future Elon Musk and OpenAI CEO Sam Altman head to trial this week in a case with sw",
-      "url": "https://www.technologyreview.com/2026/04/28/1136479/the-download-musk-altman-openai-trial-ai-profit-problem/",
-      "sourceName": "MIT Technology Review",
-      "category": "AI",
-      "publishedDate": "2026-04-28T12:10:00.000Z",
-      "sourcePriority": 1,
-      "relevanceScore": 0.2025
-    },
-    {
       "id": "a_cf2fde0",
       "title": "Microsoft beefs up Remote Desktop security with ... hard-to-read messages",
       "summary": "",
@@ -1006,6 +984,28 @@
       "publishedDate": "2026-04-24T04:10:33.000Z",
       "sourcePriority": 3,
       "relevanceScore": 0.1992
+    },
+    {
+      "id": "a_35490140",
+      "title": "Don't pay Vect a ransom - your data's likely already wiped out",
+      "summary": "",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/dont_pay_vect_a_ransom/",
+      "sourceName": "The Register - Security",
+      "category": "Security",
+      "publishedDate": "2026-04-28T18:36:31.000Z",
+      "sourcePriority": 3,
+      "relevanceScore": 0.1875
+    },
+    {
+      "id": "a_bd772067",
+      "title": "Have I Been Pwned claims Pitney Bowes hit by 8.2M email address leak",
+      "summary": "",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/pitney_bowes_is_the_latest/",
+      "sourceName": "The Register - Security",
+      "category": "Security",
+      "publishedDate": "2026-04-28T14:15:07.000Z",
+      "sourcePriority": 3,
+      "relevanceScore": 0.1875
     },
     {
       "id": "a_cf4c14c4",
@@ -1104,7 +1104,7 @@
       "category": "Security",
       "publishedDate": "2026-04-24T16:03:14.000Z",
       "sourcePriority": 3,
-      "relevanceScore": 0.1875
+      "relevanceScore": 0.1575
     },
     {
       "id": "a_ba34c897",
@@ -1115,7 +1115,7 @@
       "category": "Security",
       "publishedDate": "2026-04-24T15:35:52.000Z",
       "sourcePriority": 3,
-      "relevanceScore": 0.1875
+      "relevanceScore": 0.1575
     },
     {
       "id": "a_2a5c4508",
@@ -1126,7 +1126,7 @@
       "category": "Security",
       "publishedDate": "2026-04-24T14:46:07.000Z",
       "sourcePriority": 3,
-      "relevanceScore": 0.1875
+      "relevanceScore": 0.1575
     },
     {
       "id": "a_2e22158e",
@@ -1137,7 +1137,7 @@
       "category": "Security",
       "publishedDate": "2026-04-24T14:15:10.000Z",
       "sourcePriority": 3,
-      "relevanceScore": 0.1875
+      "relevanceScore": 0.1575
     },
     {
       "id": "a_a55dc0f2",
