@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T14:16:10.175Z",
+  "generatedAt": "2026-06-30T19:55:32.181Z",
   "timeBudgetMinutes": {
     "daily": 10,
     "weekly": 45
@@ -15,7 +15,7 @@
       "category": "AI",
       "publishedDate": "2026-06-29T14:44:01.000Z",
       "sourcePriority": 1,
-      "relevanceScore": 0.4283
+      "relevanceScore": 0.3983
     },
     {
       "id": "a_781554d4",
@@ -24,7 +24,7 @@
       "url": "https://asia.nikkei.com/business/transportation/ride-hailing-deregulation-fails-to-gain-traction-in-japan",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-06-30T14:16:09.502Z",
+      "publishedDate": "2026-06-30T19:55:31.565Z",
       "sourcePriority": 2,
       "relevanceScore": 0.385
     },
@@ -35,7 +35,7 @@
       "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/australia-s-firmus-announces-nvidia-backed-ai-factory-in-indonesia",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-06-30T14:16:09.502Z",
+      "publishedDate": "2026-06-30T19:55:31.565Z",
       "sourcePriority": 2,
       "relevanceScore": 0.3767
     },
@@ -46,9 +46,31 @@
       "url": "https://asia.nikkei.com/business/retail/japanese-thrift-stores-set-to-open-dozens-of-locations-from-malaysia-to-hong-kong",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-06-30T14:16:09.501Z",
+      "publishedDate": "2026-06-30T19:55:31.563Z",
       "sourcePriority": 2,
       "relevanceScore": 0.36
+    },
+    {
+      "id": "a_e118a21e",
+      "title": "Infosec professionals sour on automated pentesting tools",
+      "summary": "29% of security pros were open to fully autonomous pentesting last year; now only 9% are",
+      "url": "https://www.theregister.com/security/2026/06/30/infosec-professionals-sour-on-automated-pentesting-tools/5264571",
+      "sourceName": "The Register - Security",
+      "category": "Security",
+      "publishedDate": "2026-06-30T19:38:07.000Z",
+      "sourcePriority": 3,
+      "relevanceScore": 0.3525
+    },
+    {
+      "id": "a_e07474f1",
+      "title": "Huntress CEO says threat hunter used 'poor judgment' in alerting ransomware crim about law enforcement probe",
+      "summary": "Ex-employee claims this 'meets the definition of an insider threat'",
+      "url": "https://www.theregister.com/security/2026/06/30/huntress-ceo-says-threat-hunter-used-poor-judgment-in-alerting-ransomware-crim-about-law-enforcement-probe/5264532",
+      "sourceName": "The Register - Security",
+      "category": "Security",
+      "publishedDate": "2026-06-30T16:54:01.000Z",
+      "sourcePriority": 3,
+      "relevanceScore": 0.3525
     },
     {
       "id": "a_c7a30b2e",
@@ -57,7 +79,7 @@
       "url": "https://asia.nikkei.com/business/automobiles/japan-auto-sector-takes-lessons-from-german-style-apprenticeships",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-06-30T14:16:09.501Z",
+      "publishedDate": "2026-06-30T19:55:31.562Z",
       "sourcePriority": 2,
       "relevanceScore": 0.3517
     },
@@ -73,24 +95,13 @@
       "relevanceScore": 0.3383
     },
     {
-      "id": "a_b8635978",
-      "title": "Takaichi visits India, Makarim verdict, South Korea megaprojects",
-      "summary": "",
-      "url": "https://asia.nikkei.com/spotlight/your-week-in-asia/takaichi-visits-india-makarim-verdict-south-korea-megaprojects",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-06-30T14:16:09.503Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.335
-    },
-    {
       "id": "a_8db0c951",
       "title": "Japan and India to take step toward direct yen-rupee settlements",
       "summary": "",
       "url": "https://asia.nikkei.com/business/markets/currencies/japan-and-india-to-take-step-toward-direct-yen-rupee-settlements2",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-06-30T14:16:09.501Z",
+      "publishedDate": "2026-06-30T19:55:31.562Z",
       "sourcePriority": 2,
       "relevanceScore": 0.335
     },
@@ -101,7 +112,7 @@
       "url": "https://asia.nikkei.com/politics/international-relations/japan-china-tensions/china-finds-audience-for-talk-of-japan-militarism-beyond-russia-north-korea",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-06-30T14:16:09.501Z",
+      "publishedDate": "2026-06-30T19:55:31.562Z",
       "sourcePriority": 2,
       "relevanceScore": 0.335
     },
@@ -117,35 +128,13 @@
       "relevanceScore": 0.3342
     },
     {
-      "id": "a_166cc5a",
-      "title": "AI agents are not your “coworkers”",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI tool—one that your company no",
-      "url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
-      "sourceName": "MIT Technology Review",
-      "category": "AI",
-      "publishedDate": "2026-06-29T18:00:00.000Z",
-      "sourcePriority": 1,
-      "relevanceScore": 0.3117
-    },
-    {
-      "id": "a_72c4e5d8",
-      "title": "Japan resort train aims to lure Southeast Asian tourists to Niigata",
+      "id": "a_ce6ed40d",
+      "title": "Orchids, beer and toy trucks: Japan Inc. must rethink shareholder gifts",
       "summary": "",
-      "url": "https://asia.nikkei.com/business/transportation/japan-resort-train-aims-to-lure-southeast-asian-tourists-to-niigata",
+      "url": "https://asia.nikkei.com/opinion/orchids-beer-and-toy-trucks-japan-inc.-must-rethink-shareholder-gifts",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-06-30T14:16:09.503Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_21816412",
-      "title": "Will Vietnam's Asia pivot pay off?",
-      "summary": "",
-      "url": "https://asia.nikkei.com/spotlight/comment/will-vietnam-s-asia-pivot-pay-off",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-06-30T14:16:09.503Z",
+      "publishedDate": "2026-06-30T19:55:31.565Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -156,7 +145,7 @@
       "url": "https://asia.nikkei.com/business/startups/japan-startup-solanika-to-test-tech-for-charging-drones-with-lasers2",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-06-30T14:16:09.502Z",
+      "publishedDate": "2026-06-30T19:55:31.565Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -167,7 +156,7 @@
       "url": "https://asia.nikkei.com/business/markets/equities/japan-retail-investors-wait-with-near-100bn-in-funds-in-volatile-market",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-06-30T14:16:09.502Z",
+      "publishedDate": "2026-06-30T19:55:31.565Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -178,7 +167,7 @@
       "url": "https://asia.nikkei.com/business/telecommunication/rakuten-led-group-set-for-subsidies-to-build-japan-s-answer-to-starlink",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-06-30T14:16:09.502Z",
+      "publishedDate": "2026-06-30T19:55:31.565Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -189,7 +178,7 @@
       "url": "https://asia.nikkei.com/business/consumer/franck-muller-ferragamo-omega-join-japan-s-summer-of-big-luxury-price-hikes",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-06-30T14:16:09.502Z",
+      "publishedDate": "2026-06-30T19:55:31.565Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -200,7 +189,7 @@
       "url": "https://asia.nikkei.com/economy/japan-launches-cfius-style-foreign-investment-screening-panel",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-06-30T14:16:09.502Z",
+      "publishedDate": "2026-06-30T19:55:31.565Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -211,7 +200,7 @@
       "url": "https://asia.nikkei.com/spotlight/hong-kong-security-law/how-hong-kong-quietly-rehabilitates-former-protesters",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-06-30T14:16:09.502Z",
+      "publishedDate": "2026-06-30T19:55:31.565Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -222,7 +211,7 @@
       "url": "https://asia.nikkei.com/business/tech/semiconductors/south-korea-announces-520bn-chip-plant-project-with-samsung-sk-hynix",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-06-30T14:16:09.502Z",
+      "publishedDate": "2026-06-30T19:55:31.565Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -233,7 +222,7 @@
       "url": "https://asia.nikkei.com/business/media-entertainment/substack-deepens-japan-push-as-publishers-fight-for-creators",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-06-30T14:16:09.502Z",
+      "publishedDate": "2026-06-30T19:55:31.565Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -244,7 +233,7 @@
       "url": "https://asia.nikkei.com/business/energy/vingroup-bets-on-solar-panels-placed-above-fishponds-in-the-philippines",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-06-30T14:16:09.502Z",
+      "publishedDate": "2026-06-30T19:55:31.565Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -255,73 +244,7 @@
       "url": "https://asia.nikkei.com/business/business-trends/cooler-japan-firms-race-for-new-ways-to-prevent-heatstroke",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-06-30T14:16:09.502Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_dbdaad4e",
-      "title": "Japan PM Takaichi's approval rating climbs to 68%: Nikkei poll",
-      "summary": "",
-      "url": "https://asia.nikkei.com/politics/japan-pm-takaichi-s-approval-rating-climbs-to-68-nikkei-poll",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-06-30T14:16:09.502Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_f3fd67bd",
-      "title": "Vanuatu, Australia ink deal to bar foreign military bases in Pacific nation",
-      "summary": "",
-      "url": "https://asia.nikkei.com/politics/international-relations/vanuatu-australia-ink-deal-to-bar-foreign-military-bases-in-pacific-nation",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-06-30T14:16:09.501Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_b838690e",
-      "title": "Indonesia's Gojek co-founder Nadiem Makarim jailed for 10 years for graft",
-      "summary": "",
-      "url": "https://asia.nikkei.com/spotlight/society/crime/indonesia-s-gojek-co-founder-nadiem-makarim-jailed-for-10-years-for-graft",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-06-30T14:16:09.501Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_6a81fbdd",
-      "title": "Philippines approves Metro Manila's biggest minimum wage hike in decades",
-      "summary": "",
-      "url": "https://asia.nikkei.com/economy/philippines-approves-metro-manila-s-biggest-minimum-wage-hike-in-decades",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-06-30T14:16:09.501Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_cbc86225",
-      "title": "South Korea's Lee makes chip hub pitch in country's southwest",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/tech/semiconductors/south-korea-s-lee-makes-chip-hub-pitch-in-country-s-southwest",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-06-30T14:16:09.501Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_e308afb9",
-      "title": "Thailand's largest opposition gets reality check in Bangkok vote",
-      "summary": "",
-      "url": "https://asia.nikkei.com/politics/thailand-s-largest-opposition-gets-reality-check-in-bangkok-vote",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-06-30T14:16:09.501Z",
+      "publishedDate": "2026-06-30T19:55:31.565Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -332,7 +255,7 @@
       "url": "https://asia.nikkei.com/economy/trade/crisis-brewing-for-nepali-tea-exporters-with-indian-quality-checks",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-06-30T14:16:09.501Z",
+      "publishedDate": "2026-06-30T19:55:31.563Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -343,7 +266,7 @@
       "url": "https://asia.nikkei.com/spotlight/immigration/japan-wants-more-startups.-its-new-visa-rules-say-otherwise",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-06-30T14:16:09.501Z",
+      "publishedDate": "2026-06-30T19:55:31.563Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -354,7 +277,7 @@
       "url": "https://asia.nikkei.com/spotlight/podcasts/podcast-tech-latest/the-startups-giving-australia-s-working-dogs-a-high-tech-hand",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-06-30T14:16:09.501Z",
+      "publishedDate": "2026-06-30T19:55:31.563Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -365,18 +288,128 @@
       "url": "https://asia.nikkei.com/business/business-trends/midsize-western-buyout-firms-continue-japan-push-with-new-offices",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-06-30T14:16:09.501Z",
+      "publishedDate": "2026-06-30T19:55:31.563Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
     {
-      "id": "a_ce6ed40d",
-      "title": "Orchids, beer and toy trucks: Japan Inc. must rethink shareholder gifts",
+      "id": "a_b15fc242",
+      "title": "China chip material makers battle Japan rivals for $73bn market",
       "summary": "",
-      "url": "https://asia.nikkei.com/opinion/orchids-beer-and-toy-trucks-japan-inc.-must-rethink-shareholder-gifts",
+      "url": "https://asia.nikkei.com/business/tech/semiconductors/china-chip-material-makers-battle-japan-rivals-for-73bn-market",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-06-30T14:16:09.501Z",
+      "publishedDate": "2026-06-30T19:55:31.562Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_a60069de",
+      "title": "ANA, JAL set record fuel surcharges for July-August Japan travel season",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/transportation/ana-jal-set-record-fuel-surcharges-for-july-august-japan-travel-season",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-06-30T19:55:31.562Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_e2ab0d1d",
+      "title": "US tariff refunds set to boost Japan Inc. profits by up to $3bn",
+      "summary": "",
+      "url": "https://asia.nikkei.com/economy/trade-war/trump-tariffs/us-tariff-refunds-set-to-boost-japan-inc.-profits-by-up-to-3bn",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-06-30T19:55:31.562Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_b1f00b97",
+      "title": "Activist investors reap paltry returns from Japanese stockholdings",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/markets/equities/activist-investors-reap-paltry-returns-from-japanese-stockholdings",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-06-30T19:55:31.562Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_972fc6af",
+      "title": "Japan backs SoftBank-led AI models with up to $6.2bn in chasing US, China",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-backs-softbank-led-ai-models-with-up-to-6.2bn-in-chasing-us-china",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-06-30T19:55:31.562Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_7a1ba288",
+      "title": "Japan, UK and Italy to extend next-gen fighter jet contract through 2027",
+      "summary": "",
+      "url": "https://asia.nikkei.com/politics/defense/japan-uk-and-italy-to-extend-next-gen-fighter-jet-contract-through-2027",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-06-30T19:55:31.562Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_f3fd67bd",
+      "title": "Vanuatu, Australia ink deal to bar foreign military bases in Pacific nation",
+      "summary": "",
+      "url": "https://asia.nikkei.com/politics/international-relations/vanuatu-australia-ink-deal-to-bar-foreign-military-bases-in-pacific-nation",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-06-30T19:55:31.562Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_b838690e",
+      "title": "Indonesia's Gojek co-founder Nadiem Makarim jailed for 10 years for graft",
+      "summary": "",
+      "url": "https://asia.nikkei.com/spotlight/society/crime/indonesia-s-gojek-co-founder-nadiem-makarim-jailed-for-10-years-for-graft",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-06-30T19:55:31.562Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_6a81fbdd",
+      "title": "Philippines approves Metro Manila's biggest minimum wage hike in decades",
+      "summary": "",
+      "url": "https://asia.nikkei.com/economy/philippines-approves-metro-manila-s-biggest-minimum-wage-hike-in-decades",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-06-30T19:55:31.562Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_cbc86225",
+      "title": "South Korea's Lee makes chip hub pitch in country's southwest",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/tech/semiconductors/south-korea-s-lee-makes-chip-hub-pitch-in-country-s-southwest",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-06-30T19:55:31.562Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_e308afb9",
+      "title": "Thailand's largest opposition gets reality check in Bangkok vote",
+      "summary": "",
+      "url": "https://asia.nikkei.com/politics/thailand-s-largest-opposition-gets-reality-check-in-bangkok-vote",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-06-30T19:55:31.562Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -403,17 +436,6 @@
       "relevanceScore": 0.3042
     },
     {
-      "id": "a_c0b1e6e7",
-      "title": "India’s central bank mandated use of .bank domains to enhance trust – but its registry leaked sensitive info",
-      "summary": "Open API could reveal everything an attacker needs to impersonate bank officials",
-      "url": "https://www.theregister.com/security/2026/06/30/indias-central-bank-mandated-use-of-bank-domains-to-enhance-trust-but-its-registry-leaked-sensitive-info/5264152",
-      "sourceName": "The Register - Security",
-      "category": "Security",
-      "publishedDate": "2026-06-30T02:24:46.000Z",
-      "sourcePriority": 3,
-      "relevanceScore": 0.3025
-    },
-    {
       "id": "a_ed49d0b5",
       "title": "AI may be good at finding security vulnerabilities, but it can't beat human stupidity",
       "summary": "You don't need Mythos or GPT-5.5-Cyber to find a vuln to exploit when the world's password habits are so sloppy",
@@ -423,6 +445,17 @@
       "publishedDate": "2026-06-29T13:45:00.000Z",
       "sourcePriority": 3,
       "relevanceScore": 0.3
+    },
+    {
+      "id": "a_4cfefca1",
+      "title": "Roundtables: Longevity’s Next Frontier: “Reprogramming” Your Body",
+      "summary": "Listen to the session or watch below Billions of dollars are flooding into efforts to reverse aging as scientists explore ways to return cells to a younger state. But how far off are these experimental treatments? Will they really work? Watch a conversation exploring longevity’s ",
+      "url": "https://www.technologyreview.com/2026/06/30/1139958/roundtables-longevitys-next-frontier-reprogramming-your-body/",
+      "sourceName": "MIT Technology Review",
+      "category": "AI",
+      "publishedDate": "2026-06-30T17:36:48.000Z",
+      "sourcePriority": 1,
+      "relevanceScore": 0.2925
     },
     {
       "id": "a_8ab0beda",
@@ -475,7 +508,7 @@
       "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/i-ve-applied-for-8-000-jobs-tech-grads-at-top-us-schools-feel-shut-out-by-ai",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-06-30T14:16:09.502Z",
+      "publishedDate": "2026-06-30T19:55:31.565Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -486,7 +519,7 @@
       "url": "https://asia.nikkei.com/business/markets/bonds/honda-eyes-2.5bn-in-eurobonds-to-fund-payments-to-parts-makers",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-06-30T14:16:09.502Z",
+      "publishedDate": "2026-06-30T19:55:31.565Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -497,7 +530,7 @@
       "url": "https://asia.nikkei.com/business/materials/takaichi-and-modi-to-agree-on-supporting-ammonia-production",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-06-30T14:16:09.502Z",
+      "publishedDate": "2026-06-30T19:55:31.565Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -508,7 +541,7 @@
       "url": "https://asia.nikkei.com/politics/international-relations/japan-china-tensions/china-restricts-exports-to-mitsubishi-hitachi-komatsu-units",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-06-30T14:16:09.502Z",
+      "publishedDate": "2026-06-30T19:55:31.565Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -519,7 +552,7 @@
       "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/how-us-iran-conflict-devastated-infrastructure-in-the-middle-east",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-06-30T14:16:09.502Z",
+      "publishedDate": "2026-06-30T19:55:31.565Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -530,7 +563,7 @@
       "url": "https://asia.nikkei.com/business/markets/property/china-s-state-developers-power-shenzhen-construction-despite-market-woes",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-06-30T14:16:09.502Z",
+      "publishedDate": "2026-06-30T19:55:31.565Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -541,7 +574,7 @@
       "url": "https://asia.nikkei.com/economy/southeast-asians-scale-back-spending-as-iran-war-spillover-persists",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-06-30T14:16:09.502Z",
+      "publishedDate": "2026-06-30T19:55:31.565Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -552,95 +585,7 @@
       "url": "https://asia.nikkei.com/business/markets/trading-asia/asia-s-ai-rally-winners-face-a-rising-leverage-problem",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-06-30T14:16:09.502Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_d19a4111",
-      "title": "Asia may grow old before it goes green",
-      "summary": "",
-      "url": "https://asia.nikkei.com/opinion/asia-may-grow-old-before-it-goes-green",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-06-30T14:16:09.502Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_f69ed70c",
-      "title": "Bangkok voters reelect Chadchart as governor for second term",
-      "summary": "",
-      "url": "https://asia.nikkei.com/politics/bangkok-voters-reelect-chadchart-as-governor-for-second-term",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-06-30T14:16:09.502Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_6dc97dd3",
-      "title": "Uniqlo operator tightens human rights monitoring of suppliers",
-      "summary": "",
-      "url": "https://asia.nikkei.com/spotlight/supply-chain/uniqlo-operator-tightens-human-rights-monitoring-of-suppliers",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-06-30T14:16:09.502Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_47594f15",
-      "title": "Beijing plane crash sharpens scrutiny of nascent 'low-altitude economy'",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/china-tech/beijing-plane-crash-sharpens-scrutiny-of-nascent-low-altitude-economy",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-06-30T14:16:09.501Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_90fc1907",
-      "title": "Why the last Iran nuclear deal still threatens the next one",
-      "summary": "",
-      "url": "https://asia.nikkei.com/opinion/why-the-last-iran-nuclear-deal-still-threatens-the-next-one",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-06-30T14:16:09.501Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_fa7bf8ea",
-      "title": "Yen hits 39-year low of 162 per dollar: 5 things to know",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/markets/currencies/yen-hits-39-year-low-of-162-per-dollar-5-things-to-know",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-06-30T14:16:09.501Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_db23ddf",
-      "title": "Asia market snapshot of best and worst performers in 2026 first half",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/markets/asia-market-snapshot-of-best-and-worst-performers-in-2026-first-half",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-06-30T14:16:09.501Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_90ea6041",
-      "title": "China's Xiaomi, Oppo, Vivo cut 2026 smartphone targets again: sources",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/technology/china-s-xiaomi-oppo-vivo-cut-2026-smartphone-targets-again-sources",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-06-30T14:16:09.501Z",
+      "publishedDate": "2026-06-30T19:55:31.565Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -651,7 +596,7 @@
       "url": "https://asia.nikkei.com/business/markets/ipo/china-s-sturgeon-queen-makes-splash-with-world-s-first-caviar-ipo",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-06-30T14:16:09.501Z",
+      "publishedDate": "2026-06-30T19:55:31.563Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -662,7 +607,7 @@
       "url": "https://asia.nikkei.com/business/markets/currencies/yen-slips-to-39-year-low-as-dollar-rally-gathers-steam",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-06-30T14:16:09.501Z",
+      "publishedDate": "2026-06-30T19:55:31.563Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -673,7 +618,18 @@
       "url": "https://asia.nikkei.com/editor-s-picks/interview/china-is-a-winner-of-iran-conflict-asia-hand-kurt-campbell",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-06-30T14:16:09.501Z",
+      "publishedDate": "2026-06-30T19:55:31.563Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_d9720f6b",
+      "title": "China's UBTech launches lifelike humanoid robots for consumers",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/companies/china-s-ubtech-launches-lifelike-humanoid-robots-for-consumers",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-06-30T19:55:31.562Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -684,9 +640,86 @@
       "url": "https://asia.nikkei.com/business/transportation/toyota-to-launch-joint-venture-with-us-flying-car-maker-joby-aviation",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-06-30T14:16:09.500Z",
+      "publishedDate": "2026-06-30T19:55:31.562Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
+    },
+    {
+      "id": "a_47594f15",
+      "title": "Beijing plane crash sharpens scrutiny of nascent 'low-altitude economy'",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/china-tech/beijing-plane-crash-sharpens-scrutiny-of-nascent-low-altitude-economy",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-06-30T19:55:31.562Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_90fc1907",
+      "title": "Why the last Iran nuclear deal still threatens the next one",
+      "summary": "",
+      "url": "https://asia.nikkei.com/opinion/why-the-last-iran-nuclear-deal-still-threatens-the-next-one",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-06-30T19:55:31.562Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_fa7bf8ea",
+      "title": "Yen hits 39-year low of 162 per dollar: 5 things to know",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/markets/currencies/yen-hits-39-year-low-of-162-per-dollar-5-things-to-know",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-06-30T19:55:31.562Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_db23ddf",
+      "title": "Asia market snapshot of best and worst performers in 2026 first half",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/markets/asia-market-snapshot-of-best-and-worst-performers-in-2026-first-half",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-06-30T19:55:31.562Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_90ea6041",
+      "title": "China's Xiaomi, Oppo, Vivo cut 2026 smartphone targets again: sources",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/technology/china-s-xiaomi-oppo-vivo-cut-2026-smartphone-targets-again-sources",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-06-30T19:55:31.562Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_166cc5a",
+      "title": "AI agents are not your “coworkers”",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI tool—one that your company no",
+      "url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
+      "sourceName": "MIT Technology Review",
+      "category": "AI",
+      "publishedDate": "2026-06-29T18:00:00.000Z",
+      "sourcePriority": 1,
+      "relevanceScore": 0.2817
+    },
+    {
+      "id": "a_c0b1e6e7",
+      "title": "India’s central bank mandated use of .bank domains to enhance trust – but its registry leaked sensitive info",
+      "summary": "Open API could reveal everything an attacker needs to impersonate bank officials",
+      "url": "https://www.theregister.com/security/2026/06/30/indias-central-bank-mandated-use-of-bank-domains-to-enhance-trust-but-its-registry-leaked-sensitive-info/5264152",
+      "sourceName": "The Register - Security",
+      "category": "Security",
+      "publishedDate": "2026-06-30T02:24:46.000Z",
+      "sourcePriority": 3,
+      "relevanceScore": 0.28
     },
     {
       "id": "a_69ee0bb3",
@@ -697,7 +730,7 @@
       "category": "Security",
       "publishedDate": "2026-06-30T06:11:03.000Z",
       "sourcePriority": 3,
-      "relevanceScore": 0.2775
+      "relevanceScore": 0.255
     },
     {
       "id": "a_2d1632c6",
@@ -854,17 +887,6 @@
       "relevanceScore": 0.2025
     },
     {
-      "id": "a_a3e0b6d8",
-      "title": "The Download: Europe’s heat wave hits the grid, and IBM’s chip targets Moore’s Law",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Europe’s extreme heat is shutting down power plants Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to it",
-      "url": "https://www.technologyreview.com/2026/06/25/1139738/the-download-europe-heat-wave-ibm-chip-moores-law/",
-      "sourceName": "MIT Technology Review",
-      "category": "AI",
-      "publishedDate": "2026-06-25T12:10:00.000Z",
-      "sourcePriority": 1,
-      "relevanceScore": 0.2025
-    },
-    {
       "id": "a_f16a3a90",
       "title": "Five Eyes spooks warn AI means infosec incidents can become ‘major operational and financial crises’",
       "summary": "Bosses told to step up and get cybersecurity right",
@@ -916,28 +938,6 @@
       "sourceName": "The Register - Security",
       "category": "Security",
       "publishedDate": "2026-06-17T13:31:00.000Z",
-      "sourcePriority": 3,
-      "relevanceScore": 0.1992
-    },
-    {
-      "id": "a_177508fe",
-      "title": "Crooks found a new way to collaborate using Teams – by hiding command-and-control traffic",
-      "summary": "Custom malware routed communications through legitimate Microsoft services, making malicious activity look like routine corporate collaboration",
-      "url": "https://www.theregister.com/cyber-crime/2026/06/16/crooks-found-a-new-way-to-collaborate-using-teams-by-hiding-command-and-control-traffic/5256296",
-      "sourceName": "The Register - Security",
-      "category": "Security",
-      "publishedDate": "2026-06-16T14:41:00.000Z",
-      "sourcePriority": 3,
-      "relevanceScore": 0.1992
-    },
-    {
-      "id": "a_58d75c2c",
-      "title": "Cardiac monitor maker's security skips a beat as data thieves go for the jugular",
-      "summary": "Attackers used social engineering to access third-party business apps and steal patient information",
-      "url": "https://www.theregister.com/cyber-crime/2026/06/16/cardiac-monitor-makers-security-skips-a-beat-as-data-thieves-go-for-the-jugular/5256038",
-      "sourceName": "The Register - Security",
-      "category": "Security",
-      "publishedDate": "2026-06-16T11:45:00.000Z",
       "sourcePriority": 3,
       "relevanceScore": 0.1992
     },
@@ -1041,17 +1041,6 @@
       "relevanceScore": 0.1875
     },
     {
-      "id": "a_ac5f474f",
-      "title": "Mythos discovers 'Squidbleed,' a memory leak that's gone undetected since Clinton era",
-      "summary": "Plus more blasts from the past: NetWare, FTP, and HTTP",
-      "url": "https://www.theregister.com/security/2026/06/23/mythos-discovers-squidbleed-a-memory-leak-thats-gone-undetected-since-clinton-era/5260367",
-      "sourceName": "The Register - Security",
-      "category": "Security",
-      "publishedDate": "2026-06-23T18:07:44.000Z",
-      "sourcePriority": 3,
-      "relevanceScore": 0.1875
-    },
-    {
       "id": "a_2696b31",
       "title": "Cyberattack sees crops kept in the ground",
       "summary": "Bitter harvest for Australia's Mackay Sugar, attacked in peak cane crushing season",
@@ -1061,6 +1050,17 @@
       "publishedDate": "2026-06-17T02:16:00.000Z",
       "sourcePriority": 3,
       "relevanceScore": 0.1825
+    },
+    {
+      "id": "a_ac5f474f",
+      "title": "Mythos discovers 'Squidbleed,' a memory leak that's gone undetected since Clinton era",
+      "summary": "Plus more blasts from the past: NetWare, FTP, and HTTP",
+      "url": "https://www.theregister.com/security/2026/06/23/mythos-discovers-squidbleed-a-memory-leak-thats-gone-undetected-since-clinton-era/5260367",
+      "sourceName": "The Register - Security",
+      "category": "Security",
+      "publishedDate": "2026-06-23T18:07:44.000Z",
+      "sourcePriority": 3,
+      "relevanceScore": 0.1575
     },
     {
       "id": "a_38940e4a",
