@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T14:31:12.443Z",
+  "generatedAt": "2026-07-07T19:53:21.111Z",
   "timeBudgetMinutes": {
     "daily": 10,
     "weekly": 45
@@ -40,13 +40,13 @@
       "relevanceScore": 0.3608
     },
     {
-      "id": "a_269836e0",
-      "title": "Taiwan's biopharma sector steps into spotlight with rush of IPOs",
+      "id": "a_303365de",
+      "title": "Japan's blockchain-based security tokens to open to foreign investors",
       "summary": "",
-      "url": "https://asia.nikkei.com/business/biotechnology/taiwan-s-biopharma-sector-steps-into-spotlight-with-rush-of-ipos",
+      "url": "https://asia.nikkei.com/business/finance/japan-s-blockchain-based-security-tokens-to-open-to-foreign-investors",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-07-07T14:31:06.631Z",
+      "publishedDate": "2026-07-07T19:53:20.100Z",
       "sourcePriority": 2,
       "relevanceScore": 0.3517
     },
@@ -57,31 +57,20 @@
       "url": "https://asia.nikkei.com/politics/international-relations/indian-security-analysts-alarmed-by-bangladesh-china-port-deal",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-07-07T14:31:06.630Z",
+      "publishedDate": "2026-07-07T19:53:20.100Z",
       "sourcePriority": 2,
       "relevanceScore": 0.3517
     },
     {
-      "id": "a_303365de",
-      "title": "Japan's blockchain-based security tokens to open to foreign investors",
+      "id": "a_269836e0",
+      "title": "Taiwan's biopharma sector steps into spotlight with rush of IPOs",
       "summary": "",
-      "url": "https://asia.nikkei.com/business/finance/japan-s-blockchain-based-security-tokens-to-open-to-foreign-investors",
+      "url": "https://asia.nikkei.com/business/biotechnology/taiwan-s-biopharma-sector-steps-into-spotlight-with-rush-of-ipos",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-07-07T14:31:06.629Z",
+      "publishedDate": "2026-07-07T19:53:20.100Z",
       "sourcePriority": 2,
       "relevanceScore": 0.3517
-    },
-    {
-      "id": "a_575ea8fe",
-      "title": "Japan attracts young Indian researchers to collaborate on AI, chemistry",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/science/japan-attracts-young-indian-researchers-to-collaborate-on-ai-chemistry",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-07-07T14:31:06.631Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.335
     },
     {
       "id": "a_bf078257",
@@ -90,7 +79,7 @@
       "url": "https://asia.nikkei.com/business/retail/japan-s-aeon-prioritizes-vietnam-targets-tripling-malls-to-30",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-07-07T14:31:06.631Z",
+      "publishedDate": "2026-07-07T19:53:20.101Z",
       "sourcePriority": 2,
       "relevanceScore": 0.335
     },
@@ -101,7 +90,18 @@
       "url": "https://asia.nikkei.com/business/aerospace-defense-industries/ukraine-pushes-civil-drone-drive-with-japan-and-taiwan",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-07-07T14:31:06.631Z",
+      "publishedDate": "2026-07-07T19:53:20.101Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.335
+    },
+    {
+      "id": "a_51099de7",
+      "title": "Assault on Japan journalist may have link to China unity law: Taiwan VP",
+      "summary": "",
+      "url": "https://asia.nikkei.com/politics/international-relations/assault-on-japan-journalist-may-have-link-to-china-unity-law-taiwan-vp",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-07-07T19:53:20.100Z",
       "sourcePriority": 2,
       "relevanceScore": 0.335
     },
@@ -112,7 +112,18 @@
       "url": "https://asia.nikkei.com/politics/defense/indonesia-and-india-sign-deals-on-supersonic-air-to-air-missiles",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-07-07T14:31:06.629Z",
+      "publishedDate": "2026-07-07T19:53:20.100Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.335
+    },
+    {
+      "id": "a_575ea8fe",
+      "title": "Japan attracts young Indian researchers to collaborate on AI, chemistry",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/science/japan-attracts-young-indian-researchers-to-collaborate-on-ai-chemistry",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-07-07T19:53:20.100Z",
       "sourcePriority": 2,
       "relevanceScore": 0.335
     },
@@ -123,9 +134,20 @@
       "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/can-china-and-us-find-common-ground-on-ai-governance-in-geneva",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-07-07T14:31:06.630Z",
+      "publishedDate": "2026-07-07T19:53:20.100Z",
       "sourcePriority": 2,
       "relevanceScore": 0.3267
+    },
+    {
+      "id": "a_27b3d299",
+      "title": "GitHub AI agent leaks private repos when asked nicely",
+      "summary": "Per usual, there's no fix - or even any documentation - for GitLost",
+      "url": "https://www.theregister.com/security/2026/07/07/github-ai-agent-leaks-private-repos-when-asked-nicely/5267924",
+      "sourceName": "The Register - Security",
+      "category": "Security",
+      "publishedDate": "2026-07-07T19:49:01.000Z",
+      "sourcePriority": 3,
+      "relevanceScore": 0.3192
     },
     {
       "id": "a_d60b5357",
@@ -134,86 +156,9 @@
       "url": "https://asia.nikkei.com/business/markets/commodities/us-sanctioned-teapot-refiner-hengli-leads-china-petrochem-profit-spike",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-07-07T14:31:06.630Z",
+      "publishedDate": "2026-07-07T19:53:20.100Z",
       "sourcePriority": 2,
       "relevanceScore": 0.3183
-    },
-    {
-      "id": "a_7158b298",
-      "title": "Australia and Fiji sign defense pact to counter China influence",
-      "summary": "",
-      "url": "https://asia.nikkei.com/politics/international-relations/australia-and-fiji-sign-defense-pact-to-counter-china-influence",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-07-07T14:31:06.633Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_9f217284",
-      "title": "Young Japanese sacrifice today to invest for tomorrow",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/markets/wealth-management/young-japanese-sacrifice-today-to-invest-for-tomorrow",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-07-07T14:31:06.633Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_472e6ca2",
-      "title": "China's sea patrols and lawfare tighten 'all fronts' squeeze on Taiwan",
-      "summary": "",
-      "url": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/china-s-sea-patrols-and-lawfare-tighten-all-fronts-squeeze-on-taiwan",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-07-07T14:31:06.633Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_3734ae5c",
-      "title": "India's sugar industry likely to exit exports and exist for ethanol",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/food-beverage/india-s-sugar-industry-likely-to-exit-exports-and-exist-for-ethanol",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-07-07T14:31:06.633Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_69e22e35",
-      "title": "The UAE and Japan have an enduring partnership, built to last",
-      "summary": "",
-      "url": "https://asia.nikkei.com/opinion/the-uae-and-japan-have-an-enduring-partnership-built-to-last",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-07-07T14:31:06.632Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_502b4064",
-      "title": "130-year-old Japan firm flies under the radar to develop antidrone tech",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/aerospace-defense-industries/130-year-old-japan-firm-flies-under-the-radar-to-develop-antidrone-tech",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-07-07T14:31:06.631Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_418f408b",
-      "title": "Japan weighs AI-powered disaster relief distribution",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-weighs-ai-powered-disaster-relief-distribution",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-07-07T14:31:06.631Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
     },
     {
       "id": "a_7500080f",
@@ -222,7 +167,7 @@
       "url": "https://asia.nikkei.com/opinion/india-can-no-longer-take-nepal-for-granted",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-07-07T14:31:06.631Z",
+      "publishedDate": "2026-07-07T19:53:20.101Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -233,7 +178,7 @@
       "url": "https://asia.nikkei.com/business/automobiles/electric-vehicles/3-500-nissan-japan-s-subsidies-make-new-evs-cheaper-than-used-ones",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-07-07T14:31:06.631Z",
+      "publishedDate": "2026-07-07T19:53:20.101Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -244,7 +189,7 @@
       "url": "https://asia.nikkei.com/politics/japan-s-doge-struggles-to-find-big-ticket-cuts-as-ministries-dig-in",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-07-07T14:31:06.631Z",
+      "publishedDate": "2026-07-07T19:53:20.101Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -255,7 +200,7 @@
       "url": "https://asia.nikkei.com/politics/international-relations/china-russia-and-india-make-inroads-in-myanmar-with-transit-corridors",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-07-07T14:31:06.631Z",
+      "publishedDate": "2026-07-07T19:53:20.101Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -266,7 +211,7 @@
       "url": "https://asia.nikkei.com/business/business-deals/japan-s-sapporo-to-invest-643m-in-joint-venture-with-carlsberg",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-07-07T14:31:06.631Z",
+      "publishedDate": "2026-07-07T19:53:20.101Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -277,62 +222,51 @@
       "url": "https://asia.nikkei.com/business/finance/mufg-and-jcb-court-rich-southeast-asians-with-luxury-card-for-japan-visits",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-07-07T14:31:06.631Z",
+      "publishedDate": "2026-07-07T19:53:20.101Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
     {
-      "id": "a_842edff",
-      "title": "Japan's Sumitomo Mitsui Trust Bank to invest in NZ infrastructure investor",
+      "id": "a_69e22e35",
+      "title": "The UAE and Japan have an enduring partnership, built to last",
       "summary": "",
-      "url": "https://asia.nikkei.com/business/business-deals/japan-s-sumitomo-mitsui-trust-bank-to-invest-in-nz-infrastructure-investor",
+      "url": "https://asia.nikkei.com/opinion/the-uae-and-japan-have-an-enduring-partnership-built-to-last",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-07-07T14:31:06.630Z",
+      "publishedDate": "2026-07-07T19:53:20.101Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
     {
-      "id": "a_b6fc3340",
-      "title": "Japanese bond yields march toward 3% as fiscal fears escalate",
+      "id": "a_84f427e5",
+      "title": "Japan maglev plan paves way to ultra-fast link for $2tn 'megaregion'",
       "summary": "",
-      "url": "https://asia.nikkei.com/business/markets/bonds/japanese-bond-yields-march-toward-3-as-fiscal-fears-escalate2",
+      "url": "https://asia.nikkei.com/business/transportation/japan-maglev-plan-paves-way-to-ultra-fast-link-for-2tn-megaregion",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-07-07T14:31:06.630Z",
+      "publishedDate": "2026-07-07T19:53:20.100Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
     {
-      "id": "a_4b77bbe4",
-      "title": "Lynas, JS Link sign deal for Malaysian magnet plant",
+      "id": "a_81f7e4e6",
+      "title": "Japan brokerages set sights on US mega-IPOs after strong SpaceX debut",
       "summary": "",
-      "url": "https://asia.nikkei.com/business/markets/commodities/lynas-js-link-sign-deal-for-malaysian-magnet-plant",
+      "url": "https://asia.nikkei.com/business/finance/japan-brokerages-set-sights-on-us-mega-ipos-after-strong-spacex-debut",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-07-07T14:31:06.630Z",
+      "publishedDate": "2026-07-07T19:53:20.100Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
     {
-      "id": "a_614360d",
-      "title": "Japan ultra-fast maglev train project advances on key construction approval",
+      "id": "a_55086468",
+      "title": "Japan's SBI Holdings takes stake in US crypto exchange EDX Markets",
       "summary": "",
-      "url": "https://asia.nikkei.com/business/transportation/japan-ultra-fast-maglev-train-project-advances-on-key-construction-approval",
+      "url": "https://asia.nikkei.com/spotlight/cryptocurrencies/japan-s-sbi-holdings-takes-stake-in-us-crypto-exchange-edx-markets",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-07-07T14:31:06.630Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_6e844f67",
-      "title": "South Korea's Hanwha loses major Canadian submarine deal",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/aerospace-defense-industries/south-korea-s-hanwha-loses-major-canadian-submarine-deal",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-07-07T14:31:06.630Z",
+      "publishedDate": "2026-07-07T19:53:20.100Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -343,7 +277,106 @@
       "url": "https://asia.nikkei.com/editor-s-picks/interview/japan-should-use-nuclear-power-to-break-mideast-oil-dependence-ex-pm-fukuda",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-07-07T14:31:06.629Z",
+      "publishedDate": "2026-07-07T19:53:20.100Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_842edff",
+      "title": "Japan's Sumitomo Mitsui Trust Bank to invest in NZ infrastructure investor",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/business-deals/japan-s-sumitomo-mitsui-trust-bank-to-invest-in-nz-infrastructure-investor",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-07-07T19:53:20.100Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_b6fc3340",
+      "title": "Japanese bond yields march toward 3% as fiscal fears escalate",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/markets/bonds/japanese-bond-yields-march-toward-3-as-fiscal-fears-escalate2",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-07-07T19:53:20.100Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_4b77bbe4",
+      "title": "Lynas, JS Link sign deal for Malaysian magnet plant",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/markets/commodities/lynas-js-link-sign-deal-for-malaysian-magnet-plant",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-07-07T19:53:20.100Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_614360d",
+      "title": "Japan ultra-fast maglev train project advances on key construction approval",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/transportation/japan-ultra-fast-maglev-train-project-advances-on-key-construction-approval",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-07-07T19:53:20.100Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_6e844f67",
+      "title": "South Korea's Hanwha loses major Canadian submarine deal",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/aerospace-defense-industries/south-korea-s-hanwha-loses-major-canadian-submarine-deal",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-07-07T19:53:20.100Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_502b4064",
+      "title": "130-year-old Japan firm flies under the radar to develop antidrone tech",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/aerospace-defense-industries/130-year-old-japan-firm-flies-under-the-radar-to-develop-antidrone-tech",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-07-07T19:53:20.100Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_418f408b",
+      "title": "Japan weighs AI-powered disaster relief distribution",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-weighs-ai-powered-disaster-relief-distribution",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-07-07T19:53:20.100Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_1ed50155",
+      "title": "Spent fuel emerges as weak point in Japan's nuclear renaissance",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/energy/spent-fuel-emerges-as-weak-point-in-japan-s-nuclear-renaissance",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-07-07T19:53:20.099Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_99041645",
+      "title": "Bridgestone's airless tires hit streets of Japan after nearly 2 decades",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/automobiles/bridgestone-s-airless-tires-hit-streets-of-japan-after-nearly-2-decades",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-07-07T19:53:20.099Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -392,90 +425,13 @@
       "relevanceScore": 0.2925
     },
     {
-      "id": "a_df7b6326",
-      "title": "Bangladesh power cuts deepen as government struggles to pay bills",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/energy/bangladesh-power-cuts-deepen-as-government-struggles-to-pay-bills",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-07-07T14:31:06.633Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_a1f5ffed",
-      "title": "China's Q2 growth set to slow on weak domestic demand: Nikkei survey",
-      "summary": "",
-      "url": "https://asia.nikkei.com/economy/china-s-q2-growth-set-to-slow-on-weak-domestic-demand-nikkei-survey",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-07-07T14:31:06.633Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_f9f22d2e",
-      "title": "China's leading chatbots to ditch AI personas as Beijing tightens rules",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/china-s-leading-chatbots-to-ditch-ai-personas-as-beijing-tightens-rules",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-07-07T14:31:06.633Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_3c110834",
-      "title": "NATO summit spotlights Turkey's arms industry",
-      "summary": "",
-      "url": "https://asia.nikkei.com/politics/defense/nato-summit-spotlights-turkey-s-arms-industry",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-07-07T14:31:06.633Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_72cba93e",
-      "title": "How an Asian-majority city passed the US' first permanent data center ban",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/how-an-asian-majority-city-passed-the-us-first-permanent-data-center-ban",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-07-07T14:31:06.632Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_75ee6e4f",
-      "title": "Chinese submarine launches missile into Pacific, spooking neighbors",
-      "summary": "",
-      "url": "https://asia.nikkei.com/politics/defense/chinese-submarine-launches-missile-into-pacific-spooking-neighbors",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-07-07T14:31:06.632Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_fd0ae427",
-      "title": "Southeast Asian tourism pivots on Iran war as travelers stay local",
-      "summary": "",
-      "url": "https://asia.nikkei.com/spotlight/asean-money/southeast-asian-tourism-pivots-on-iran-war-as-travelers-stay-local",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-07-07T14:31:06.631Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
       "id": "a_ac84e57f",
       "title": "New MUFG president targets ROE on par with JPMorgan",
       "summary": "",
       "url": "https://asia.nikkei.com/editor-s-picks/interview/new-mufg-president-targets-roe-on-par-with-jpmorgan",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-07-07T14:31:06.631Z",
+      "publishedDate": "2026-07-07T19:53:20.101Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -486,7 +442,7 @@
       "url": "https://asia.nikkei.com/business/automobiles/nissan-enters-shanghai-formula-e-race-to-push-evs-in-china",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-07-07T14:31:06.631Z",
+      "publishedDate": "2026-07-07T19:53:20.101Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -497,7 +453,7 @@
       "url": "https://asia.nikkei.com/business/finance/china-overtakes-us-in-fintech-patent-filings-to-seize-global-lead",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-07-07T14:31:06.631Z",
+      "publishedDate": "2026-07-07T19:53:20.101Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -508,7 +464,7 @@
       "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/chinese-ai-usage-by-us-firms-soared-after-mythos-restrictions",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-07-07T14:31:06.631Z",
+      "publishedDate": "2026-07-07T19:53:20.101Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -519,7 +475,7 @@
       "url": "https://asia.nikkei.com/business/automobiles/toyota-honda-see-china-sales-drop-in-1st-half-as-buyers-shift-to-evs",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-07-07T14:31:06.631Z",
+      "publishedDate": "2026-07-07T19:53:20.101Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -530,7 +486,7 @@
       "url": "https://asia.nikkei.com/politics/philippine-senate-begins-vice-president-duterte-impeachment-trial",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-07-07T14:31:06.631Z",
+      "publishedDate": "2026-07-07T19:53:20.101Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -541,84 +497,29 @@
       "url": "https://asia.nikkei.com/business/markets/china-debt-crunch/china-s-state-directed-absorption-of-local-bank-highlights-debt-pressure",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-07-07T14:31:06.631Z",
+      "publishedDate": "2026-07-07T19:53:20.101Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
     {
-      "id": "a_f8169102",
-      "title": "Tokyo's property boom is a warning, not a crisis",
+      "id": "a_72cba93e",
+      "title": "How an Asian-majority city passed the US' first permanent data center ban",
       "summary": "",
-      "url": "https://asia.nikkei.com/opinion/tokyo-s-property-boom-is-a-warning-not-a-crisis",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/how-an-asian-majority-city-passed-the-us-first-permanent-data-center-ban",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-07-07T14:31:06.630Z",
+      "publishedDate": "2026-07-07T19:53:20.101Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
     {
-      "id": "a_ec787af",
-      "title": "Samsung profit soars 19 times but shares slump 6.9% on oversupply worries",
+      "id": "a_d385311a",
+      "title": "JAL weighs miles program upgrade to boost non-aviation businesses",
       "summary": "",
-      "url": "https://asia.nikkei.com/business/tech/semiconductors/samsung-profit-soars-19-times-but-shares-slump-6.9-on-oversupply-worries",
+      "url": "https://asia.nikkei.com/business/transportation/jal-weighs-miles-program-upgrade-to-boost-non-aviation-businesses",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-07-07T14:31:06.630Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_82332047",
-      "title": "Pakistan gives foreign banks an edge in shift to Islamic finance",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/finance/pakistan-gives-foreign-banks-an-edge-in-shift-to-islamic-finance",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-07-07T14:31:06.630Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_7c375356",
-      "title": "Toyota to invest $3.6bn to move some truck production from Mexico to US",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/automobiles/toyota-to-invest-3.6bn-to-move-some-truck-production-from-mexico-to-us",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-07-07T14:31:06.630Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_63c4e515",
-      "title": "Vingroup launches $3.5bn sea bridge linking Ho Chi Minh City districts",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/transportation/vingroup-launches-3.5bn-sea-bridge-linking-ho-chi-minh-city-districts",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-07-07T14:31:06.630Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_8018775",
-      "title": "Deal between Danish NATO port and Chinese peer draws criticism",
-      "summary": "",
-      "url": "https://asia.nikkei.com/politics/defense/deal-between-danish-nato-port-and-chinese-peer-draws-criticism",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-07-07T14:31:06.630Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_735ec0e1",
-      "title": "Can FIFA make Lenovo an AI heavyweight?",
-      "summary": "",
-      "url": "https://asia.nikkei.com/spotlight/podcasts/podcast-tech-latest/can-fifa-make-lenovo-an-ai-heavyweight",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-07-07T14:31:06.630Z",
+      "publishedDate": "2026-07-07T19:53:20.100Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -629,9 +530,141 @@
       "url": "https://asia.nikkei.com/politics/defense/china-missile-test-over-pacific-alarms-island-nations",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-07-07T14:31:06.629Z",
+      "publishedDate": "2026-07-07T19:53:20.100Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
+    },
+    {
+      "id": "a_f8169102",
+      "title": "Tokyo's property boom is a warning, not a crisis",
+      "summary": "",
+      "url": "https://asia.nikkei.com/opinion/tokyo-s-property-boom-is-a-warning-not-a-crisis",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-07-07T19:53:20.100Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_ec787af",
+      "title": "Samsung profit soars 19 times but shares slump 6.9% on oversupply worries",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/tech/semiconductors/samsung-profit-soars-19-times-but-shares-slump-6.9-on-oversupply-worries",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-07-07T19:53:20.100Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_82332047",
+      "title": "Pakistan gives foreign banks an edge in shift to Islamic finance",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/finance/pakistan-gives-foreign-banks-an-edge-in-shift-to-islamic-finance",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-07-07T19:53:20.100Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_7c375356",
+      "title": "Toyota to invest $3.6bn to move some truck production from Mexico to US",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/automobiles/toyota-to-invest-3.6bn-to-move-some-truck-production-from-mexico-to-us",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-07-07T19:53:20.100Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_63c4e515",
+      "title": "Vingroup launches $3.5bn sea bridge linking Ho Chi Minh City districts",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/transportation/vingroup-launches-3.5bn-sea-bridge-linking-ho-chi-minh-city-districts",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-07-07T19:53:20.100Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_8018775",
+      "title": "Deal between Danish NATO port and Chinese peer draws criticism",
+      "summary": "",
+      "url": "https://asia.nikkei.com/politics/defense/deal-between-danish-nato-port-and-chinese-peer-draws-criticism",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-07-07T19:53:20.100Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_735ec0e1",
+      "title": "Can FIFA make Lenovo an AI heavyweight?",
+      "summary": "",
+      "url": "https://asia.nikkei.com/spotlight/podcasts/podcast-tech-latest/can-fifa-make-lenovo-an-ai-heavyweight",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-07-07T19:53:20.100Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_fd0ae427",
+      "title": "Southeast Asian tourism pivots on Iran war as travelers stay local",
+      "summary": "",
+      "url": "https://asia.nikkei.com/spotlight/asean-money/southeast-asian-tourism-pivots-on-iran-war-as-travelers-stay-local",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-07-07T19:53:20.100Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_8f31483b",
+      "title": "Toyota investors cast doubtful eye on 20% ROE target",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/automobiles/toyota-investors-cast-doubtful-eye-on-20-roe-target",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-07-07T19:53:20.099Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_7a8597ad",
+      "title": "'Kioxia of today wouldn't exist' under Toshiba, Bain dealmaker says",
+      "summary": "",
+      "url": "https://asia.nikkei.com/editor-s-picks/interview/kioxia-of-today-wouldn-t-exist-under-toshiba-bain-dealmaker-says",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-07-07T19:53:20.099Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_bb7361f0",
+      "title": "CAI cloud worm gives competitors' malware the boot, then steals secrets and mines for coin",
+      "summary": "Dog-eat-dog world for credential-stealing attackers",
+      "url": "https://www.theregister.com/cyber-crime/2026/07/07/cai-cloud-worm-gives-competitors-malware-the-boot-then-steals-secrets-and-mines-for-coin/5267856",
+      "sourceName": "The Register - Security",
+      "category": "Security",
+      "publishedDate": "2026-07-07T17:15:00.000Z",
+      "sourcePriority": 3,
+      "relevanceScore": 0.2775
+    },
+    {
+      "id": "a_5995d13d",
+      "title": "Predatorgate snoopfest victims launch €8M sueball at spyware maker",
+      "summary": "Greek lawsuit comes as rights campaigners lobby the EU to take firmer stance on spyware abuses",
+      "url": "https://www.theregister.com/security/2026/07/07/predatorgate-victims-launch-8m-sueball-at-spyware-maker/5267766",
+      "sourceName": "The Register - Security",
+      "category": "Security",
+      "publishedDate": "2026-07-07T15:59:00.000Z",
+      "sourcePriority": 3,
+      "relevanceScore": 0.2775
     },
     {
       "id": "a_1b06ec80",
@@ -689,17 +722,6 @@
       "relevanceScore": 0.2742
     },
     {
-      "id": "a_54f4fc7e",
-      "title": "Your family’s $300 stake in OpenAI",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans will share in the wealth AI creates was in the news again last week. On Thursday,",
-      "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
-      "sourceName": "MIT Technology Review",
-      "category": "AI",
-      "publishedDate": "2026-07-06T18:00:00.000Z",
-      "sourcePriority": 1,
-      "relevanceScore": 0.27
-    },
-    {
       "id": "a_31e25a9c",
       "title": "Somebody told DeepSeek to build in-browser ransomware and it gleefully complied",
       "summary": "'The original incomplete DeepSeek sample can be transformed into a fully functional attack with minimal effort,' Check Point researcher tells The Reg",
@@ -707,28 +729,6 @@
       "sourceName": "The Register - Security",
       "category": "Security",
       "publishedDate": "2026-07-01T19:57:48.000Z",
-      "sourcePriority": 3,
-      "relevanceScore": 0.2625
-    },
-    {
-      "id": "a_e118a21e",
-      "title": "Infosec professionals sour on automated pentesting tools",
-      "summary": "29% of security pros were open to fully autonomous pentesting last year; now only 9% are",
-      "url": "https://www.theregister.com/security/2026/06/30/infosec-professionals-sour-on-automated-pentesting-tools/5264571",
-      "sourceName": "The Register - Security",
-      "category": "Security",
-      "publishedDate": "2026-06-30T19:38:07.000Z",
-      "sourcePriority": 3,
-      "relevanceScore": 0.2625
-    },
-    {
-      "id": "a_e07474f1",
-      "title": "Huntress CEO says threat hunter used 'poor judgment' in alerting ransomware crim about law enforcement probe",
-      "summary": "Ex-employee claims this 'meets the definition of an insider threat'",
-      "url": "https://www.theregister.com/security/2026/06/30/huntress-ceo-says-threat-hunter-used-poor-judgment-in-alerting-ransomware-crim-about-law-enforcement-probe/5264532",
-      "sourceName": "The Register - Security",
-      "category": "Security",
-      "publishedDate": "2026-06-30T16:54:01.000Z",
       "sourcePriority": 3,
       "relevanceScore": 0.2625
     },
@@ -753,17 +753,6 @@
       "publishedDate": "2026-06-25T04:31:01.000Z",
       "sourcePriority": 3,
       "relevanceScore": 0.2575
-    },
-    {
-      "id": "a_acb80735",
-      "title": "EU urged to act after Pegasus infects phone of spyware inquiry MEP",
-      "summary": "Campaigners demand investigation and long-delayed action on PEGA Committee recommendations",
-      "url": "https://www.theregister.com/security/2026/07/06/eus-latest-spyware-scandal-prompts-calls-for-urgent-action/5267054",
-      "sourceName": "The Register - Security",
-      "category": "Security",
-      "publishedDate": "2026-07-06T17:00:00.000Z",
-      "sourcePriority": 3,
-      "relevanceScore": 0.255
     },
     {
       "id": "a_b0d2925b",
@@ -797,6 +786,39 @@
       "publishedDate": "2026-06-29T23:33:09.000Z",
       "sourcePriority": 3,
       "relevanceScore": 0.2408
+    },
+    {
+      "id": "a_54f4fc7e",
+      "title": "Your family’s $300 stake in OpenAI",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans will share in the wealth AI creates was in the news again last week. On Thursday,",
+      "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
+      "sourceName": "MIT Technology Review",
+      "category": "AI",
+      "publishedDate": "2026-07-06T18:00:00.000Z",
+      "sourcePriority": 1,
+      "relevanceScore": 0.24
+    },
+    {
+      "id": "a_e118a21e",
+      "title": "Infosec professionals sour on automated pentesting tools",
+      "summary": "29% of security pros were open to fully autonomous pentesting last year; now only 9% are",
+      "url": "https://www.theregister.com/security/2026/06/30/infosec-professionals-sour-on-automated-pentesting-tools/5264571",
+      "sourceName": "The Register - Security",
+      "category": "Security",
+      "publishedDate": "2026-06-30T19:38:07.000Z",
+      "sourcePriority": 3,
+      "relevanceScore": 0.2325
+    },
+    {
+      "id": "a_e07474f1",
+      "title": "Huntress CEO says threat hunter used 'poor judgment' in alerting ransomware crim about law enforcement probe",
+      "summary": "Ex-employee claims this 'meets the definition of an insider threat'",
+      "url": "https://www.theregister.com/security/2026/06/30/huntress-ceo-says-threat-hunter-used-poor-judgment-in-alerting-ransomware-crim-about-law-enforcement-probe/5264532",
+      "sourceName": "The Register - Security",
+      "category": "Security",
+      "publishedDate": "2026-06-30T16:54:01.000Z",
+      "sourcePriority": 3,
+      "relevanceScore": 0.2325
     },
     {
       "id": "a_ed49d0b5",
@@ -841,6 +863,17 @@
       "publishedDate": "2026-07-01T21:33:44.000Z",
       "sourcePriority": 3,
       "relevanceScore": 0.2292
+    },
+    {
+      "id": "a_acb80735",
+      "title": "EU urged to act after Pegasus infects phone of spyware inquiry MEP",
+      "summary": "Campaigners demand investigation and long-delayed action on PEGA Committee recommendations",
+      "url": "https://www.theregister.com/security/2026/07/06/eus-latest-spyware-scandal-prompts-calls-for-urgent-action/5267054",
+      "sourceName": "The Register - Security",
+      "category": "Security",
+      "publishedDate": "2026-07-06T17:00:00.000Z",
+      "sourcePriority": 3,
+      "relevanceScore": 0.225
     },
     {
       "id": "a_27b7cc2f",
@@ -1107,17 +1140,6 @@
       "relevanceScore": 0.1825
     },
     {
-      "id": "a_472df179",
-      "title": "You have got to be KDDI-ng – Japanese telco exposes 14.2 million managed email credentials",
-      "summary": "Five ISPs and plenty of users await their fate",
-      "url": "https://www.theregister.com/cyber-crime/2026/06/24/you-have-got-to-be-kddi-ng-japanese-telco-exposes-142-million-managed-email-credentials/5260555",
-      "sourceName": "The Register - Security",
-      "category": "Security",
-      "publishedDate": "2026-06-24T04:56:48.000Z",
-      "sourcePriority": 3,
-      "relevanceScore": 0.1825
-    },
-    {
       "id": "a_69ee0bb3",
       "title": "Microsoft builds a bouncer to keep bots out of Teams meetings",
       "summary": "Allows ISVs to put their names on the door so desirable bots always get in",
@@ -1191,28 +1213,6 @@
       "sourceName": "The Register - Security",
       "category": "Security",
       "publishedDate": "2026-06-26T12:18:00.000Z",
-      "sourcePriority": 3,
-      "relevanceScore": 0.1575
-    },
-    {
-      "id": "a_7ad60e77",
-      "title": "Microsoft uses AI to link two malware operations in racketeering suit",
-      "summary": "200+ C2 servers linked to StealC and Amadey shut down",
-      "url": "https://www.theregister.com/security/2026/06/24/microsoft-uses-ai-to-link-two-malware-operations-in-racketeering-suit/5261656",
-      "sourceName": "The Register - Security",
-      "category": "Security",
-      "publishedDate": "2026-06-24T17:42:22.000Z",
-      "sourcePriority": 3,
-      "relevanceScore": 0.1575
-    },
-    {
-      "id": "a_56265177",
-      "title": "London cops bring live facial recognition to West End",
-      "summary": "'Permanent biometric surveillance of the public square' incompatible with policing by consent, say critics",
-      "url": "https://www.theregister.com/security/2026/06/24/london-cops-bring-live-facial-recognition-to-west-end/5261031",
-      "sourceName": "The Register - Security",
-      "category": "Security",
-      "publishedDate": "2026-06-24T11:45:00.000Z",
       "sourcePriority": 3,
       "relevanceScore": 0.1575
     }
