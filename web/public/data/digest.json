@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T02:49:07.026Z",
+  "generatedAt": "2026-08-07T07:12:45.603Z",
   "timeBudgetMinutes": {
     "daily": 10,
     "weekly": 45
@@ -18,24 +18,24 @@
       "relevanceScore": 0.3667
     },
     {
-      "id": "a_bd3054d5",
-      "title": "Zepto IPO setback highlights fault lines in India's quick commerce sector",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/retail/zepto-ipo-setback-highlights-fault-lines-in-india-s-quick-commerce-sector",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-08-07T02:49:06.371Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.3517
-    },
-    {
       "id": "a_e9059518",
       "title": "Japan to share advance defense procurement plans with contractors",
       "summary": "",
       "url": "https://asia.nikkei.com/politics/defense/japan-to-share-advance-defense-procurement-plans-with-contractors",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-08-07T02:49:06.371Z",
+      "publishedDate": "2026-08-07T07:12:44.997Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.3517
+    },
+    {
+      "id": "a_bd3054d5",
+      "title": "Zepto IPO setback highlights fault lines in India's quick commerce sector",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/retail/zepto-ipo-setback-highlights-fault-lines-in-india-s-quick-commerce-sector",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-08-07T07:12:44.996Z",
       "sourcePriority": 2,
       "relevanceScore": 0.3517
     },
@@ -46,7 +46,7 @@
       "url": "https://asia.nikkei.com/business/media-entertainment/japan-to-air-new-tv-drama-episodes-in-thailand-in-overseas-content-push",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-08-07T02:49:06.372Z",
+      "publishedDate": "2026-08-07T07:12:44.999Z",
       "sourcePriority": 2,
       "relevanceScore": 0.335
     },
@@ -57,7 +57,7 @@
       "url": "https://asia.nikkei.com/business/companies/japan-s-mizuno-makes-a-play-for-india-market-with-cricket-gear",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-08-07T02:49:06.372Z",
+      "publishedDate": "2026-08-07T07:12:44.999Z",
       "sourcePriority": 2,
       "relevanceScore": 0.335
     },
@@ -68,7 +68,7 @@
       "url": "https://asia.nikkei.com/business/markets/equities/japan-stock-rally-tempered-by-volatile-south-korea-market",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-08-07T02:49:06.372Z",
+      "publishedDate": "2026-08-07T07:12:44.999Z",
       "sourcePriority": 2,
       "relevanceScore": 0.335
     },
@@ -79,9 +79,20 @@
       "url": "https://asia.nikkei.com/business/food-beverage/sojitz-to-ramp-up-vietnam-beef-output-with-japan-style-hygiene-control",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-08-07T02:49:06.371Z",
+      "publishedDate": "2026-08-07T07:12:44.997Z",
       "sourcePriority": 2,
       "relevanceScore": 0.335
+    },
+    {
+      "id": "a_468d461e",
+      "title": "China launches mysterious probe into security of Palo Alto Networks' products",
+      "summary": "Beijing’s not saying why, which is just what happened when it investigated Micron",
+      "url": "https://www.theregister.com/security/2026/08/07/china-launches-mysterious-probe-into-security-of-palo-alto-networks-products/5284453",
+      "sourceName": "The Register - Security",
+      "category": "Security",
+      "publishedDate": "2026-08-07T04:24:37.000Z",
+      "sourcePriority": 3,
+      "relevanceScore": 0.3192
     },
     {
       "id": "a_67dc7d34",
@@ -95,68 +106,13 @@
       "relevanceScore": 0.3192
     },
     {
-      "id": "a_1294d2da",
-      "title": "Humans in the loop miss a third of dangerous AI coding agent requests",
-      "summary": "You wouldn't let Claude Code cat your AWS credentials or Kubernetes config on request, would you?",
-      "url": "https://www.theregister.com/ai-and-ml/2026/08/06/humans-in-the-loop-miss-a-third-of-dangerous-ai-coding-agent-requests/5284236",
-      "sourceName": "The Register - Security",
-      "category": "Security",
-      "publishedDate": "2026-08-06T16:44:29.000Z",
-      "sourcePriority": 3,
-      "relevanceScore": 0.3192
-    },
-    {
-      "id": "a_5140a707",
-      "title": "China hits back at US FCC bans with sanctions and drone curbs",
-      "summary": "",
-      "url": "https://asia.nikkei.com/politics/international-relations/us-china-tensions/china-hits-back-at-us-fcc-bans-with-sanctions-and-drone-curbs",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-08-07T02:49:06.373Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.3183
-    },
-    {
-      "id": "a_732aab31",
-      "title": "AI struggles to patch vulns without adult supervision",
-      "summary": "Left alone, autonomous fixes often fail to fully remediate flaws",
-      "url": "https://www.theregister.com/ai-and-ml/2026/08/06/ai-struggles-to-patch-vulns-without-adult-supervision/5284319",
-      "sourceName": "The Register - Security",
-      "category": "Security",
-      "publishedDate": "2026-08-06T19:04:30.000Z",
-      "sourcePriority": 3,
-      "relevanceScore": 0.3108
-    },
-    {
-      "id": "a_5c41f4c7",
-      "title": "UAE wealth fund in talks to back one of Japan's biggest data centers",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/uae-wealth-fund-in-talks-to-back-one-of-japan-s-biggest-data-centers",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-08-07T02:49:06.372Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_82e064d8",
-      "title": "Thailand throws Myanmar's Min Aung Hlaing a diplomatic lifeline",
-      "summary": "",
-      "url": "https://asia.nikkei.com/politics/international-relations/thailand-throws-myanmar-s-min-aung-hlaing-a-diplomatic-lifeline",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-08-07T02:49:06.372Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
       "id": "a_6cd207cc",
       "title": "Singapore's DBS lifts outlook as wealth business drives hopes",
       "summary": "",
       "url": "https://asia.nikkei.com/business/finance/singapore-s-dbs-lifts-outlook-as-wealth-business-drives-hopes",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-08-07T02:49:06.372Z",
+      "publishedDate": "2026-08-07T07:12:44.999Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -167,7 +123,7 @@
       "url": "https://asia.nikkei.com/politics/hasina-s-pledge-to-return-tests-bangladesh-s-india-ties-and-political-reset",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-08-07T02:49:06.372Z",
+      "publishedDate": "2026-08-07T07:12:44.999Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -178,7 +134,7 @@
       "url": "https://asia.nikkei.com/business/technology/for-taiwan-s-tech-suppliers-space-economy-could-be-next-growth-spark",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-08-07T02:49:06.372Z",
+      "publishedDate": "2026-08-07T07:12:44.999Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -189,7 +145,7 @@
       "url": "https://asia.nikkei.com/business/business-trends/suzuki-starts-flex-fuel-race-in-india-as-modi-pushes-homegrown-energy",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-08-07T02:49:06.372Z",
+      "publishedDate": "2026-08-07T07:12:44.999Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -200,7 +156,7 @@
       "url": "https://asia.nikkei.com/editor-s-picks/interview/south-korea-to-reconsider-plan-for-ammonia-use-in-coal-plants-energy-minister",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-08-07T02:49:06.372Z",
+      "publishedDate": "2026-08-07T07:12:44.999Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -211,7 +167,7 @@
       "url": "https://asia.nikkei.com/politics/japan-pm-quells-opponents-of-food-tax-cut-by-citing-election-pledge",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-08-07T02:49:06.372Z",
+      "publishedDate": "2026-08-07T07:12:44.999Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -222,29 +178,29 @@
       "url": "https://asia.nikkei.com/business/markets/currencies/japan-is-buying-yen-in-forex-interventions.-where-does-it-go",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-08-07T02:49:06.372Z",
+      "publishedDate": "2026-08-07T07:12:44.999Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
     {
-      "id": "a_840334d2",
-      "title": "Japan's SBI Shinsei, regional banks, KKR join forces for big loans",
+      "id": "a_5c41f4c7",
+      "title": "UAE wealth fund in talks to back one of Japan's biggest data centers",
       "summary": "",
-      "url": "https://asia.nikkei.com/business/finance/japan-s-sbi-shinsei-regional-banks-kkr-join-forces-for-big-loans",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/uae-wealth-fund-in-talks-to-back-one-of-japan-s-biggest-data-centers",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-08-07T02:49:06.372Z",
+      "publishedDate": "2026-08-07T07:12:44.998Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
     {
-      "id": "a_f4bbd5e2",
-      "title": "AI-designed fashion gives boost to Japan apparel giant World",
+      "id": "a_82e064d8",
+      "title": "Thailand throws Myanmar's Min Aung Hlaing a diplomatic lifeline",
       "summary": "",
-      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/ai-designed-fashion-gives-boost-to-japan-apparel-giant-world",
+      "url": "https://asia.nikkei.com/politics/international-relations/thailand-throws-myanmar-s-min-aung-hlaing-a-diplomatic-lifeline",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-08-07T02:49:06.372Z",
+      "publishedDate": "2026-08-07T07:12:44.998Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -255,7 +211,7 @@
       "url": "https://asia.nikkei.com/business/markets/commodities/australian-unions-to-escalate-strikes-at-bhp-iron-ore-export-hub",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-08-07T02:49:06.371Z",
+      "publishedDate": "2026-08-07T07:12:44.997Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -266,7 +222,7 @@
       "url": "https://asia.nikkei.com/politics/international-relations/japan-seeks-new-ways-to-win-top-posts-at-international-organizations",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-08-07T02:49:06.371Z",
+      "publishedDate": "2026-08-07T07:12:44.997Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -277,7 +233,51 @@
       "url": "https://asia.nikkei.com/business/finance/japan-to-weigh-changes-to-proprietary-trading-cap-as-volume-soars",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-08-07T02:49:06.371Z",
+      "publishedDate": "2026-08-07T07:12:44.997Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_39950957",
+      "title": "Singapore banks report strong profits amid interest rate uncertainty",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/finance/singapore-banks-report-strong-profits-amid-interest-rate-uncertainty",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-08-07T07:12:44.996Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_9d4db68a",
+      "title": "Shares in Australia's Atlassian surge 33% as sales growth quells AI fears",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/markets/shares-in-australia-s-atlassian-surge-33-as-sales-growth-quells-ai-fears",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-08-07T07:12:44.996Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_57c26ba5",
+      "title": "Weak yen boosts Japan automaker profits, easing Middle East, China stress",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/automobiles/weak-yen-boosts-japan-automaker-profits-easing-middle-east-china-stress",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-08-07T07:12:44.996Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_3dea340f",
+      "title": "Japan's Kirin buys Canadian vitamin maker for $1.3bn in health science push",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/business-deals/japan-s-kirin-buys-canadian-vitamin-maker-for-1.3bn-in-health-science-push",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-08-07T07:12:44.996Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -293,92 +293,26 @@
       "relevanceScore": 0.3083
     },
     {
-      "id": "a_283e1c3f",
-      "title": "Chinese router vendor denies its firmware contains backdoors – but pauses downloads to fix security issues anyway",
-      "summary": "It’s just a remote maintenance function, says Zbtlink",
-      "url": "https://www.theregister.com/security/2026/08/06/chinese-router-vendor-denies-its-firmware-contains-backdoors-but-pauses-downloads-to-fix-security-issues-anyway/5283794",
+      "id": "a_1294d2da",
+      "title": "Humans in the loop miss a third of dangerous AI coding agent requests",
+      "summary": "You wouldn't let Claude Code cat your AWS credentials or Kubernetes config on request, would you?",
+      "url": "https://www.theregister.com/ai-and-ml/2026/08/06/humans-in-the-loop-miss-a-third-of-dangerous-ai-coding-agent-requests/5284236",
       "sourceName": "The Register - Security",
       "category": "Security",
-      "publishedDate": "2026-08-06T04:57:43.000Z",
+      "publishedDate": "2026-08-06T16:44:29.000Z",
       "sourcePriority": 3,
       "relevanceScore": 0.2967
     },
     {
-      "id": "a_b9f08ec7",
-      "title": "Honda lifts full-year profit outlook on weak yen, strong motorcycle demand",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/automobiles/honda-lifts-full-year-profit-outlook-on-weak-yen-strong-motorcycle-demand",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-08-07T02:49:06.373Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_1f47554d",
-      "title": "Takaichi's tax cut plan exposes fault line with US over fiscal policy",
-      "summary": "",
-      "url": "https://asia.nikkei.com/politics/takaichi-s-tax-cut-plan-exposes-fault-line-with-us-over-fiscal-policy",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-08-07T02:49:06.372Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_237e374d",
-      "title": "Fujifilm weighs partial spinoff, IPO for multifunction printer business",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/companies/fujifilm-weighs-partial-spinoff-ipo-for-multifunction-printer-business",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-08-07T02:49:06.372Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_b24d3d35",
-      "title": "Lufthansa breaks ground on Philippine maintenance site for widebody planes",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/transportation/lufthansa-breaks-ground-on-philippine-maintenance-site-for-widebody-planes",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-08-07T02:49:06.372Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_4889732f",
-      "title": "AI becomes bigger headache than tariffs for China camera maker Insta360",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/china-tech/ai-becomes-bigger-headache-than-tariffs-for-china-camera-maker-insta360",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-08-07T02:49:06.372Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_cd412b11",
-      "title": "SpaceX makes a splash and China scores a memory win",
-      "summary": "",
-      "url": "https://asia.nikkei.com/techasia/spacex-makes-a-splash-and-china-scores-a-memory-win",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-08-07T02:49:06.372Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_61dcb589",
-      "title": "SoftBank quarterly profit falls 18% despite big Intel gains",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/softbank/softbank-quarterly-profit-falls-18-despite-big-intel-gains",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-08-07T02:49:06.372Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
+      "id": "a_732aab31",
+      "title": "AI struggles to patch vulns without adult supervision",
+      "summary": "Left alone, autonomous fixes often fail to fully remediate flaws",
+      "url": "https://www.theregister.com/ai-and-ml/2026/08/06/ai-struggles-to-patch-vulns-without-adult-supervision/5284319",
+      "sourceName": "The Register - Security",
+      "category": "Security",
+      "publishedDate": "2026-08-06T19:04:30.000Z",
+      "sourcePriority": 3,
+      "relevanceScore": 0.2883
     },
     {
       "id": "a_44faa3c7",
@@ -387,7 +321,7 @@
       "url": "https://asia.nikkei.com/business/education/university-of-tokyo-to-run-consecutive-deficits-in-fiscal-2026",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-08-07T02:49:06.372Z",
+      "publishedDate": "2026-08-07T07:12:44.999Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -398,7 +332,7 @@
       "url": "https://asia.nikkei.com/business/markets/wealth-management/china-s-tax-dragnet-rattles-market-as-offshore-trusts-insurance-targeted",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-08-07T02:49:06.372Z",
+      "publishedDate": "2026-08-07T07:12:44.999Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -409,7 +343,7 @@
       "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/how-the-us-iran-war-has-redrawn-asia-s-energy-map",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-08-07T02:49:06.372Z",
+      "publishedDate": "2026-08-07T07:12:44.999Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -420,7 +354,7 @@
       "url": "https://asia.nikkei.com/politics/mongolia-s-new-look-parliament-runs-into-old-style-party-politics",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-08-07T02:49:06.372Z",
+      "publishedDate": "2026-08-07T07:12:44.999Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -431,7 +365,7 @@
       "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/amundi-says-ai-remains-a-long-term-bet-despite-sell-off",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-08-07T02:49:06.372Z",
+      "publishedDate": "2026-08-07T07:12:44.999Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -442,7 +376,7 @@
       "url": "https://asia.nikkei.com/business/markets/commodities/us-oil-exports-plummet-on-stretched-inventories-flat-production",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-08-07T02:49:06.372Z",
+      "publishedDate": "2026-08-07T07:12:44.999Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -453,7 +387,7 @@
       "url": "https://asia.nikkei.com/business/travel-leisure/foreign-peace-tourism-to-hiroshima-swells-in-troubled-times",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-08-07T02:49:06.372Z",
+      "publishedDate": "2026-08-07T07:12:44.999Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -464,7 +398,7 @@
       "url": "https://asia.nikkei.com/opinion/xi-purged-his-generals.-now-he-needs-new-ones",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-08-07T02:49:06.372Z",
+      "publishedDate": "2026-08-07T07:12:44.999Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -475,7 +409,7 @@
       "url": "https://asia.nikkei.com/business/finance/nuveen-on-lookout-for-more-m-a-deals-after-perfect-match-schroders-ceo",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-08-07T02:49:06.372Z",
+      "publishedDate": "2026-08-07T07:12:44.999Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -486,7 +420,7 @@
       "url": "https://asia.nikkei.com/editor-s-picks/china-up-close/analysis-xi-jinping-shows-signs-of-worry-ahead-of-beidaihe-meeting",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-08-07T02:49:06.372Z",
+      "publishedDate": "2026-08-07T07:12:44.999Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -497,51 +431,62 @@
       "url": "https://asia.nikkei.com/business/markets/currencies/dollar-faces-summer-turning-point-amid-yen-interventions-us-jobs-report",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-08-07T02:49:06.372Z",
+      "publishedDate": "2026-08-07T07:12:44.999Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
     {
-      "id": "a_eda68934",
-      "title": "Mazda's redesigned CX-5 lags in US market as gas prices favor hybrids",
+      "id": "a_237e374d",
+      "title": "Fujifilm weighs partial spinoff, IPO for multifunction printer business",
       "summary": "",
-      "url": "https://asia.nikkei.com/business/automobiles/mazda-s-redesigned-cx-5-lags-in-us-market-as-gas-prices-favor-hybrids",
+      "url": "https://asia.nikkei.com/business/companies/fujifilm-weighs-partial-spinoff-ipo-for-multifunction-printer-business",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-08-07T02:49:06.372Z",
+      "publishedDate": "2026-08-07T07:12:44.998Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
     {
-      "id": "a_7249549f",
-      "title": "Toyota aims for 2027 global output of 10.5m vehicles on hybrid demand",
+      "id": "a_b24d3d35",
+      "title": "Lufthansa breaks ground on Philippine maintenance site for widebody planes",
       "summary": "",
-      "url": "https://asia.nikkei.com/business/automobiles/toyota-aims-for-2027-global-output-of-10.5m-vehicles-on-hybrid-demand",
+      "url": "https://asia.nikkei.com/business/transportation/lufthansa-breaks-ground-on-philippine-maintenance-site-for-widebody-planes",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-08-07T02:49:06.372Z",
+      "publishedDate": "2026-08-07T07:12:44.998Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
     {
-      "id": "a_a65c0052",
-      "title": "Philippine GDP growth slows further to 2.3% in Q2 as inflation bites",
+      "id": "a_4889732f",
+      "title": "AI becomes bigger headache than tariffs for China camera maker Insta360",
       "summary": "",
-      "url": "https://asia.nikkei.com/economy/philippine-gdp-growth-slows-further-to-2.3-in-q2-as-inflation-bites",
+      "url": "https://asia.nikkei.com/business/china-tech/ai-becomes-bigger-headache-than-tariffs-for-china-camera-maker-insta360",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-08-07T02:49:06.371Z",
+      "publishedDate": "2026-08-07T07:12:44.998Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
     {
-      "id": "a_c94006c8",
-      "title": "4 US tech giants amass $1.46tn in physical assets, rivaling oil majors",
+      "id": "a_cd412b11",
+      "title": "SpaceX makes a splash and China scores a memory win",
       "summary": "",
-      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/4-us-tech-giants-amass-1.46tn-in-physical-assets-rivaling-oil-majors",
+      "url": "https://asia.nikkei.com/techasia/spacex-makes-a-splash-and-china-scores-a-memory-win",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-08-07T02:49:06.371Z",
+      "publishedDate": "2026-08-07T07:12:44.998Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_61dcb589",
+      "title": "SoftBank quarterly profit falls 18% despite big Intel gains",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/softbank/softbank-quarterly-profit-falls-18-despite-big-intel-gains",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-08-07T07:12:44.998Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -552,7 +497,7 @@
       "url": "https://asia.nikkei.com/economy/trade-war/trump-tariffs/us-imposes-15-tariff-on-polysilicon-in-pushback-against-china",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-08-07T02:49:06.371Z",
+      "publishedDate": "2026-08-07T07:12:44.997Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -563,7 +508,7 @@
       "url": "https://asia.nikkei.com/spotlight/policy-asia/nepal-in-tight-spot-as-us-seeks-special-treatment-for-starlink",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-08-07T02:49:06.371Z",
+      "publishedDate": "2026-08-07T07:12:44.997Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -574,7 +519,7 @@
       "url": "https://asia.nikkei.com/opinion/five-reasons-why-bessent-s-yen-rescue-comes-with-strings-attached",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-08-07T02:49:06.371Z",
+      "publishedDate": "2026-08-07T07:12:44.997Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -585,7 +530,7 @@
       "url": "https://asia.nikkei.com/business/transportation/tokyo-to-double-bike-lane-network-to-900-km-by-2030",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-08-07T02:49:06.371Z",
+      "publishedDate": "2026-08-07T07:12:44.997Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -596,7 +541,7 @@
       "url": "https://asia.nikkei.com/business/aerospace-defense-industries/nuclear-arms-makers-draw-30-more-financing-as-geopolitical-risks-rise",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-08-07T02:49:06.371Z",
+      "publishedDate": "2026-08-07T07:12:44.997Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -607,7 +552,18 @@
       "url": "https://asia.nikkei.com/business/markets/property/tokyo-office-rents-hit-fresh-3-decade-high-as-market-tightens",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-08-07T02:49:06.371Z",
+      "publishedDate": "2026-08-07T07:12:44.997Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_1f47554d",
+      "title": "Takaichi's tax cut plan exposes fault line with US over fiscal policy",
+      "summary": "",
+      "url": "https://asia.nikkei.com/politics/takaichi-s-tax-cut-plan-exposes-fault-line-with-us-over-fiscal-policy",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-08-07T07:12:44.997Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -618,7 +574,51 @@
       "url": "https://asia.nikkei.com/business/markets/ipo/deepseek-state-oil-giant-back-humanoid-robot-maker-unitree-s-900m-ipo",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-08-07T02:49:06.370Z",
+      "publishedDate": "2026-08-07T07:12:44.996Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_a65c0052",
+      "title": "Philippine GDP growth slows further to 2.3% in Q2 as inflation bites",
+      "summary": "",
+      "url": "https://asia.nikkei.com/economy/philippine-gdp-growth-slows-further-to-2.3-in-q2-as-inflation-bites",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-08-07T07:12:44.996Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_f8e08e16",
+      "title": "AI boom softens blow from China's July trade slowdown",
+      "summary": "",
+      "url": "https://asia.nikkei.com/economy/trade/ai-boom-softens-blow-from-china-s-july-trade-slowdown",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-08-07T07:12:44.996Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_a94c5f9a",
+      "title": "In Focus: Kumamoto before-and-after images show earthquake's scars",
+      "summary": "",
+      "url": "https://asia.nikkei.com/photos/in-focus-kumamoto-before-and-after-images-show-earthquake-s-scars",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-08-07T07:12:44.996Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_c94006c8",
+      "title": "4 US tech giants amass $1.46tn in physical assets, rivaling oil majors",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/4-us-tech-giants-amass-1.46tn-in-physical-assets-rivaling-oil-majors",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-08-07T07:12:44.996Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -645,6 +645,17 @@
       "relevanceScore": 0.27
     },
     {
+      "id": "a_283e1c3f",
+      "title": "Chinese router vendor denies its firmware contains backdoors – but pauses downloads to fix security issues anyway",
+      "summary": "It’s just a remote maintenance function, says Zbtlink",
+      "url": "https://www.theregister.com/security/2026/08/06/chinese-router-vendor-denies-its-firmware-contains-backdoors-but-pauses-downloads-to-fix-security-issues-anyway/5283794",
+      "sourceName": "The Register - Security",
+      "category": "Security",
+      "publishedDate": "2026-08-06T04:57:43.000Z",
+      "sourcePriority": 3,
+      "relevanceScore": 0.2667
+    },
+    {
       "id": "a_2866c8f0",
       "title": "AI researchers let models off the leash – then watched as they tried to add malware to a FOSS project",
       "summary": "Models used social engineering and collaborated among themselves to solve a security challenge",
@@ -652,17 +663,6 @@
       "sourceName": "The Register - Security",
       "category": "Security",
       "publishedDate": "2026-08-05T01:55:54.000Z",
-      "sourcePriority": 3,
-      "relevanceScore": 0.2667
-    },
-    {
-      "id": "a_f1c70d20",
-      "title": "Cloudflare has mostly ditched third party security tools, suggests not trying that at home",
-      "summary": "Automates bug bounty triage with Sonnet for $58 a month, CSO says Mythos would cost $200k",
-      "url": "https://www.theregister.com/security/2026/08/04/cloudflare-has-mostly-ditched-third-party-security-tools-suggests-not-trying-that-at-home/5282600",
-      "sourceName": "The Register - Security",
-      "category": "Security",
-      "publishedDate": "2026-08-04T04:50:53.000Z",
       "sourcePriority": 3,
       "relevanceScore": 0.2667
     },
@@ -764,6 +764,17 @@
       "publishedDate": "2026-08-04T12:14:00.000Z",
       "sourcePriority": 1,
       "relevanceScore": 0.24
+    },
+    {
+      "id": "a_f1c70d20",
+      "title": "Cloudflare has mostly ditched third party security tools, suggests not trying that at home",
+      "summary": "Automates bug bounty triage with Sonnet for $58 a month, CSO says Mythos would cost $200k",
+      "url": "https://www.theregister.com/security/2026/08/04/cloudflare-has-mostly-ditched-third-party-security-tools-suggests-not-trying-that-at-home/5282600",
+      "sourceName": "The Register - Security",
+      "category": "Security",
+      "publishedDate": "2026-08-04T04:50:53.000Z",
+      "sourcePriority": 3,
+      "relevanceScore": 0.2292
     },
     {
       "id": "a_f71726e4",
@@ -1202,17 +1213,6 @@
       "sourceName": "The Register - Security",
       "category": "Security",
       "publishedDate": "2026-07-27T07:31:00.000Z",
-      "sourcePriority": 3,
-      "relevanceScore": 0.1575
-    },
-    {
-      "id": "a_51745905",
-      "title": "Europol flags 4,340 'horrific' URLs linked to The Com",
-      "summary": "Stop the spread (of online recruiting and propaganda)",
-      "url": "https://www.theregister.com/cyber-crime/2026/07/24/europol-flags-4340-horrific-urls-linked-to-the-com/5278556",
-      "sourceName": "The Register - Security",
-      "category": "Security",
-      "publishedDate": "2026-07-24T20:20:57.000Z",
       "sourcePriority": 3,
       "relevanceScore": 0.1575
     }
