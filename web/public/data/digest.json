@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T18:37:20.663Z",
+  "generatedAt": "2026-08-25T01:10:36.191Z",
   "timeBudgetMinutes": {
     "daily": 10,
     "weekly": 45
@@ -24,7 +24,7 @@
       "url": "https://asia.nikkei.com/business/tech/semiconductors/japan-s-tokuyama-to-make-key-chip-material-in-vietnam-malaysia",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-08-24T18:37:20.167Z",
+      "publishedDate": "2026-08-25T01:10:34.915Z",
       "sourcePriority": 2,
       "relevanceScore": 0.36
     },
@@ -35,20 +35,9 @@
       "url": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/taiwan-s-security-council-quietly-steps-up-as-architect-of-china-strategy",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-08-24T18:37:20.167Z",
+      "publishedDate": "2026-08-25T01:10:34.915Z",
       "sourcePriority": 2,
       "relevanceScore": 0.3517
-    },
-    {
-      "id": "a_671ddd46",
-      "title": "Security vets rally around $4 paper password books for sale in Australia",
-      "summary": "Once shunned by the IT crowd, pen-and-paper password vaults are getting the love they deserve in 2026",
-      "url": "https://www.theregister.com/security/2026/08/24/security-vets-rally-around-4-paper-password-books-for-sale-in-australia/5291234",
-      "sourceName": "The Register - Security",
-      "category": "Security",
-      "publishedDate": "2026-08-24T10:17:00.000Z",
-      "sourcePriority": 3,
-      "relevanceScore": 0.3442
     },
     {
       "id": "a_b0d5cfb4",
@@ -57,7 +46,7 @@
       "url": "https://asia.nikkei.com/business/agriculture/japan-s-kubota-to-boost-exports-from-india-seeks-price-edge-in-europe-us",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-08-24T18:37:20.167Z",
+      "publishedDate": "2026-08-25T01:10:34.915Z",
       "sourcePriority": 2,
       "relevanceScore": 0.335
     },
@@ -68,7 +57,7 @@
       "url": "https://asia.nikkei.com/business/markets/trading-asia/thailand-singapore-exchanges-seek-tech-listings-as-ai-booms",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-08-24T18:37:20.166Z",
+      "publishedDate": "2026-08-25T01:10:34.914Z",
       "sourcePriority": 2,
       "relevanceScore": 0.335
     },
@@ -79,7 +68,7 @@
       "url": "https://asia.nikkei.com/spotlight/supply-chain/itochu-taiwan-it-firm-support-taiwanese-chip-expansion-into-southern-japan",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-08-24T18:37:20.166Z",
+      "publishedDate": "2026-08-25T01:10:34.914Z",
       "sourcePriority": 2,
       "relevanceScore": 0.335
     },
@@ -95,17 +84,6 @@
       "relevanceScore": 0.3342
     },
     {
-      "id": "a_a0336794",
-      "title": "The Download: kids outlearning AI, and space travel agents",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Kids outlearn AI—and we still don’t know why Teaching a computer to use human language requires an inhuman amount of data. An LLM can easily c",
-      "url": "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/",
-      "sourceName": "MIT Technology Review",
-      "category": "AI",
-      "publishedDate": "2026-08-24T12:10:00.000Z",
-      "sourcePriority": 1,
-      "relevanceScore": 0.3342
-    },
-    {
       "id": "a_c83f427",
       "title": "'Near-autonomous' AI agents attack Taiwan's nuclear safety agency",
       "summary": "Some say the world will end in fire, some say an agentic swarm",
@@ -117,13 +95,57 @@
       "relevanceScore": 0.3325
     },
     {
+      "id": "a_75af0e5d",
+      "title": "Sony to offer drivers cute AI agent for self-driving age",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/automobiles/sony-to-offer-drivers-cute-ai-agent-for-self-driving-age",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-08-25T01:10:34.914Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.3267
+    },
+    {
+      "id": "a_671ddd46",
+      "title": "Security vets rally around $4 paper password books for sale in Australia",
+      "summary": "Once shunned by the IT crowd, pen-and-paper password vaults are getting the love they deserve in 2026",
+      "url": "https://www.theregister.com/security/2026/08/24/security-vets-rally-around-4-paper-password-books-for-sale-in-australia/5291234",
+      "sourceName": "The Register - Security",
+      "category": "Security",
+      "publishedDate": "2026-08-24T10:17:00.000Z",
+      "sourcePriority": 3,
+      "relevanceScore": 0.3217
+    },
+    {
+      "id": "a_a0336794",
+      "title": "The Download: kids outlearning AI, and space travel agents",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Kids outlearn AI—and we still don’t know why Teaching a computer to use human language requires an inhuman amount of data. An LLM can easily c",
+      "url": "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/",
+      "sourceName": "MIT Technology Review",
+      "category": "AI",
+      "publishedDate": "2026-08-24T12:10:00.000Z",
+      "sourcePriority": 1,
+      "relevanceScore": 0.3117
+    },
+    {
+      "id": "a_e9facbe9",
+      "title": "India's 'cockroach' movement exposes cracks in Modi's political machine",
+      "summary": "",
+      "url": "https://asia.nikkei.com/spotlight/comment/india-s-cockroach-movement-exposes-cracks-in-modi-s-political-machine",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-08-25T01:10:34.915Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
       "id": "a_3206c8d7",
       "title": "Less sea urchin, more tuna: Change comes for Japan's seafood bowls",
       "summary": "",
       "url": "https://asia.nikkei.com/business/food-beverage/less-sea-urchin-more-tuna-change-comes-for-japan-s-seafood-bowls",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-08-24T18:37:20.167Z",
+      "publishedDate": "2026-08-25T01:10:34.915Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -134,7 +156,7 @@
       "url": "https://asia.nikkei.com/business/pharmaceuticals/japan-release-of-new-breast-cancer-diabetes-drugs-delayed-over-pricing",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-08-24T18:37:20.167Z",
+      "publishedDate": "2026-08-25T01:10:34.915Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -145,7 +167,7 @@
       "url": "https://asia.nikkei.com/politics/international-relations/japan-to-offer-loan-insurance-to-latin-america-development-lender",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-08-24T18:37:20.167Z",
+      "publishedDate": "2026-08-25T01:10:34.915Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -156,7 +178,7 @@
       "url": "https://asia.nikkei.com/business/media-entertainment/anime-and-manga-pass-on-japan-s-wartime-memories-to-gen-z",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-08-24T18:37:20.167Z",
+      "publishedDate": "2026-08-25T01:10:34.915Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -167,7 +189,7 @@
       "url": "https://asia.nikkei.com/spotlight/society/crime/thailand-asia-s-gun-ownership-leader-cracks-down-after-deadly-shootings",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-08-24T18:37:20.167Z",
+      "publishedDate": "2026-08-25T01:10:34.915Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -178,7 +200,7 @@
       "url": "https://asia.nikkei.com/life-arts/life/jakarta-puts-its-own-spin-on-japan-s-listening-bars",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-08-24T18:37:20.167Z",
+      "publishedDate": "2026-08-25T01:10:34.915Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -189,7 +211,7 @@
       "url": "https://asia.nikkei.com/business/pharmaceuticals/world-first-virus-therapy-for-esophageal-cancer-debuts-in-japan",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-08-24T18:37:20.167Z",
+      "publishedDate": "2026-08-25T01:10:34.915Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -200,216 +222,7 @@
       "url": "https://asia.nikkei.com/spotlight/big-in-asia/singapore-breeds-mosquito-studs-by-the-millions-for-war-on-dengue",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-08-24T18:37:20.167Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_3ce2971e",
-      "title": "Japan to crack down on deceptive 'dark pattern' websites",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/technology/japan-to-crack-down-on-deceptive-dark-pattern-websites",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-08-24T18:37:20.167Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_129a996a",
-      "title": "Japan faces $63bn fiscal shortfall for food tax cut, defense buildup",
-      "summary": "",
-      "url": "https://asia.nikkei.com/politics/japan-faces-63bn-fiscal-shortfall-for-food-tax-cut-defense-buildup",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-08-24T18:37:20.167Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_367403a8",
-      "title": "Japan's busy PM had just one Saturday for personal errands: dentist visit",
-      "summary": "",
-      "url": "https://asia.nikkei.com/politics/japan-s-busy-pm-had-just-one-saturday-for-personal-errands-dentist-visit",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-08-24T18:37:20.167Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_8271235b",
-      "title": "Japan muted on Putin's disputed-islands visit as US intentions remain murky",
-      "summary": "",
-      "url": "https://asia.nikkei.com/politics/international-relations/japan-muted-on-putin-s-disputed-islands-visit-as-us-intentions-remain-murky",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-08-24T18:37:20.167Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_e8800e94",
-      "title": "Japan greenlights new trading platform for unlisted shares",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/markets/equities/japan-greenlights-new-trading-platform-for-unlisted-shares",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-08-24T18:37:20.167Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_867d9b46",
-      "title": "Dodgers draw in smaller Japanese sponsors pinning hopes on Ohtani effect",
-      "summary": "",
-      "url": "https://asia.nikkei.com/spotlight/sports/dodgers-draw-in-smaller-japanese-sponsors-pinning-hopes-on-ohtani-effect",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-08-24T18:37:20.166Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_9f3246b7",
-      "title": "Uber to roll out Nissan's new Elgrand in Japan car-hire expansion",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/automobiles/uber-to-roll-out-nissan-s-new-elgrand-in-japan-car-hire-expansion",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-08-24T18:37:20.166Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_34197f7a",
-      "title": "Japan to tap AI to speed up materials development 10-fold",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-to-tap-ai-to-speed-up-materials-development-10-fold",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-08-24T18:37:20.166Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_f435566a",
-      "title": "Vietnam's parliament approves first nuclear project",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/energy/vietnam-s-parliament-approves-first-nuclear-project",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-08-24T18:37:20.166Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_f4144528",
-      "title": "Sumitomo Mitsui Trust to begin asset management in Vietnam with state bank",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/markets/wealth-management/sumitomo-mitsui-trust-to-begin-asset-management-in-vietnam-with-state-bank",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-08-24T18:37:20.166Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_5625c1e9",
-      "title": "India's hydropower push raises natural disaster fears in Kashmir",
-      "summary": "",
-      "url": "https://asia.nikkei.com/economy/natural-disasters/india-s-hydropower-push-raises-natural-disaster-fears-in-kashmir",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-08-24T18:37:20.166Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_2b804298",
-      "title": "Malaysia's strong growth yet to reach households, small businesses",
-      "summary": "",
-      "url": "https://asia.nikkei.com/economy/malaysia-s-strong-growth-yet-to-reach-households-small-businesses",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-08-24T18:37:20.166Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_b908a7a1",
-      "title": "People in Indonesia are naming their kids after manga characters",
-      "summary": "",
-      "url": "https://asia.nikkei.com/spotlight/society/people-in-indonesia-are-naming-their-kids-after-manga-characters",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-08-24T18:37:20.166Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_21f6793d",
-      "title": "Australia's PLS gives first dividend after lithium price rise drives profit",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/markets/commodities/australia-s-pls-gives-first-dividend-after-lithium-price-rise-drives-profit",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-08-24T18:37:20.166Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_3e5a1a93",
-      "title": "It's time for Vietnam to fend off China over its new oil discovery",
-      "summary": "",
-      "url": "https://asia.nikkei.com/opinion/it-s-time-for-vietnam-to-fend-off-china-over-its-new-oil-discovery",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-08-24T18:37:20.166Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_10bf5c19",
-      "title": "Japan backs fusion, recycling startups in $125m public-private funding",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/startups/japan-backs-fusion-recycling-startups-in-125m-public-private-funding",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-08-24T18:37:20.166Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_8c1652ee",
-      "title": "Vietnam assembly ends, China oil and gas earnings, BOJ deputy speech",
-      "summary": "",
-      "url": "https://asia.nikkei.com/spotlight/your-week-in-asia/vietnam-assembly-ends-china-oil-and-gas-earnings-boj-deputy-speech",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-08-24T18:37:20.166Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_b8e1e8a3",
-      "title": "Preservation of Japan's A-bombed buildings faces cost challenge",
-      "summary": "",
-      "url": "https://asia.nikkei.com/spotlight/society/preservation-of-japan-s-a-bombed-buildings-faces-cost-challenge",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-08-24T18:37:20.166Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_e9facbe9",
-      "title": "India's 'cockroach' movement exposes cracks in Modi's political machine",
-      "summary": "",
-      "url": "https://asia.nikkei.com/spotlight/comment/india-s-cockroach-movement-exposes-cracks-in-modi-s-political-machine",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-08-24T18:37:20.166Z",
+      "publishedDate": "2026-08-25T01:10:34.915Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -420,20 +233,196 @@
       "url": "https://asia.nikkei.com/business/technology/japan-coast-guard-trials-self-piloting-boat-for-gas-leak-detection",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-08-24T18:37:20.165Z",
+      "publishedDate": "2026-08-25T01:10:34.914Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
     {
-      "id": "a_5e628e76",
-      "title": "Kids outlearn AI—and we still don’t know why",
-      "summary": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fluency: a human child.  Now there are two.  Four short years after the release of",
-      "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
-      "sourceName": "MIT Technology Review",
-      "category": "AI",
-      "publishedDate": "2026-08-24T09:00:00.000Z",
-      "sourcePriority": 1,
-      "relevanceScore": 0.2925
+      "id": "a_867d9b46",
+      "title": "Dodgers draw in smaller Japanese sponsors pinning hopes on Ohtani effect",
+      "summary": "",
+      "url": "https://asia.nikkei.com/spotlight/sports/dodgers-draw-in-smaller-japanese-sponsors-pinning-hopes-on-ohtani-effect",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-08-25T01:10:34.914Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_9f3246b7",
+      "title": "Uber to roll out Nissan's new Elgrand in Japan car-hire expansion",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/automobiles/uber-to-roll-out-nissan-s-new-elgrand-in-japan-car-hire-expansion",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-08-25T01:10:34.914Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_34197f7a",
+      "title": "Japan to tap AI to speed up materials development 10-fold",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-to-tap-ai-to-speed-up-materials-development-10-fold",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-08-25T01:10:34.914Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_f435566a",
+      "title": "Vietnam's parliament approves first nuclear project",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/energy/vietnam-s-parliament-approves-first-nuclear-project",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-08-25T01:10:34.914Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_f4144528",
+      "title": "Sumitomo Mitsui Trust to begin asset management in Vietnam with state bank",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/markets/wealth-management/sumitomo-mitsui-trust-to-begin-asset-management-in-vietnam-with-state-bank",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-08-25T01:10:34.914Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_5625c1e9",
+      "title": "India's hydropower push raises natural disaster fears in Kashmir",
+      "summary": "",
+      "url": "https://asia.nikkei.com/economy/natural-disasters/india-s-hydropower-push-raises-natural-disaster-fears-in-kashmir",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-08-25T01:10:34.914Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_2b804298",
+      "title": "Malaysia's strong growth yet to reach households, small businesses",
+      "summary": "",
+      "url": "https://asia.nikkei.com/economy/malaysia-s-strong-growth-yet-to-reach-households-small-businesses",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-08-25T01:10:34.914Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_b908a7a1",
+      "title": "People in Indonesia are naming their kids after manga characters",
+      "summary": "",
+      "url": "https://asia.nikkei.com/spotlight/society/people-in-indonesia-are-naming-their-kids-after-manga-characters",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-08-25T01:10:34.914Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_21f6793d",
+      "title": "Australia's PLS gives first dividend after lithium price rise drives profit",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/markets/commodities/australia-s-pls-gives-first-dividend-after-lithium-price-rise-drives-profit",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-08-25T01:10:34.914Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_3e5a1a93",
+      "title": "It's time for Vietnam to fend off China over its new oil discovery",
+      "summary": "",
+      "url": "https://asia.nikkei.com/opinion/it-s-time-for-vietnam-to-fend-off-china-over-its-new-oil-discovery",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-08-25T01:10:34.914Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_10bf5c19",
+      "title": "Japan backs fusion, recycling startups in $125m public-private funding",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/startups/japan-backs-fusion-recycling-startups-in-125m-public-private-funding",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-08-25T01:10:34.914Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_8c1652ee",
+      "title": "Vietnam assembly ends, China oil and gas earnings, BOJ deputy speech",
+      "summary": "",
+      "url": "https://asia.nikkei.com/spotlight/your-week-in-asia/vietnam-assembly-ends-china-oil-and-gas-earnings-boj-deputy-speech",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-08-25T01:10:34.914Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_b8e1e8a3",
+      "title": "Preservation of Japan's A-bombed buildings faces cost challenge",
+      "summary": "",
+      "url": "https://asia.nikkei.com/spotlight/society/preservation-of-japan-s-a-bombed-buildings-faces-cost-challenge",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-08-25T01:10:34.914Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_1b315428",
+      "title": "Australian venture capital firm Blackbird raises $752m from Asian investors",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/startups/australian-venture-capital-firm-blackbird-raises-752m-from-asian-investors",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-08-25T01:10:34.913Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_bcfa194a",
+      "title": "Japan eyes $630m to help buy undersea cable ships as risks grow",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/telecommunication/japan-eyes-630m-to-help-buy-undersea-cable-ships-as-risks-grow",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-08-25T01:10:34.913Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_9cf4ba15",
+      "title": "Indonesia's $28bn bet on Jakarta and Bali International Financial Centers",
+      "summary": "",
+      "url": "https://asia.nikkei.com/spotlight/asean-money/indonesia-s-28bn-bet-on-jakarta-and-bali-international-financial-centers",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-08-25T01:10:34.913Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_2b8e20da",
+      "title": "Japan ranks 2nd in record global wave of shareholder activism",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/markets/equities/japan-ranks-2nd-in-record-global-wave-of-shareholder-activism",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-08-25T01:10:34.913Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
     },
     {
       "id": "a_279a98f6",
@@ -442,7 +431,7 @@
       "url": "https://asia.nikkei.com/business/transportation/manila-airport-aims-to-shed-world-s-worst-label-with-upgrades",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-08-24T18:37:20.167Z",
+      "publishedDate": "2026-08-25T01:10:34.915Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -453,7 +442,7 @@
       "url": "https://asia.nikkei.com/life-arts/life/destinations/footloose-in-baku-east-meets-west-in-azerbaijan-s-capital",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-08-24T18:37:20.167Z",
+      "publishedDate": "2026-08-25T01:10:34.915Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -464,7 +453,7 @@
       "url": "https://asia.nikkei.com/business/markets/commodities/global-oil-inventories-on-the-decline-again-amid-hormuz-stalemate",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-08-24T18:37:20.167Z",
+      "publishedDate": "2026-08-25T01:10:34.915Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -475,7 +464,7 @@
       "url": "https://asia.nikkei.com/business/travel-leisure/refurbished-ueno-station-paints-itself-as-tokyo-art-hub",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-08-24T18:37:20.167Z",
+      "publishedDate": "2026-08-25T01:10:34.915Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -486,7 +475,7 @@
       "url": "https://asia.nikkei.com/spotlight/environment/who-bears-environmental-cost-of-push-for-rare-earths-beyond-china",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-08-24T18:37:20.167Z",
+      "publishedDate": "2026-08-25T01:10:34.915Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -497,40 +486,7 @@
       "url": "https://asia.nikkei.com/spotlight/electric-cars-in-china/china-automakers-ev-rush-culminates-in-crazy-thursday",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-08-24T18:37:20.167Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_8906e97d",
-      "title": "YMTC parent seeks $4.9bn Shanghai IPO on AI memory boom",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/markets/ipo/ymtc-parent-seeks-4.9bn-shanghai-ipo-on-ai-memory-boom",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-08-24T18:37:20.167Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_e6e144e",
-      "title": "Samsung's record $79bn shareholder return reflects AI boom pressure",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/tech/semiconductors/samsung-s-record-79bn-shareholder-return-reflects-ai-boom-pressure",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-08-24T18:37:20.167Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_a2824e93",
-      "title": "US probes China's EVE Energy after LG Energy alleges patent infringement",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/technology/us-probes-china-s-eve-energy-after-lg-energy-alleges-patent-infringement",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-08-24T18:37:20.167Z",
+      "publishedDate": "2026-08-25T01:10:34.915Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -541,7 +497,7 @@
       "url": "https://asia.nikkei.com/spotlight/environment/fukushima-plant-s-treated-water-stores-fall-just-7-despite-sea-releases",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-08-24T18:37:20.166Z",
+      "publishedDate": "2026-08-25T01:10:34.914Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -552,7 +508,7 @@
       "url": "https://asia.nikkei.com/business/markets/commodities/china-refiner-sinopec-foresees-headwinds-easing-despite-iran-uncertainty",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-08-24T18:37:20.166Z",
+      "publishedDate": "2026-08-25T01:10:34.914Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -563,7 +519,7 @@
       "url": "https://asia.nikkei.com/business/companies/samsung-electronics-faces-internal-divide-over-huge-bonus-gap",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-08-24T18:37:20.166Z",
+      "publishedDate": "2026-08-25T01:10:34.914Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -574,7 +530,7 @@
       "url": "https://asia.nikkei.com/business/startups/esg-analytics-startup-miotech-eyes-2028-ipo-following-china-merger",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-08-24T18:37:20.166Z",
+      "publishedDate": "2026-08-25T01:10:34.914Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -585,7 +541,7 @@
       "url": "https://asia.nikkei.com/business/technology/new-zealand-moves-to-ban-social-media-for-under-16s",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-08-24T18:37:20.166Z",
+      "publishedDate": "2026-08-25T01:10:34.914Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -596,7 +552,7 @@
       "url": "https://asia.nikkei.com/business/technology/alibaba-shares-plunge-after-10bn-new-share-placement-to-fund-ai-spending",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-08-24T18:37:20.166Z",
+      "publishedDate": "2026-08-25T01:10:34.914Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -607,7 +563,7 @@
       "url": "https://asia.nikkei.com/business/markets/ipo/shein-launches-ipo-at-valuation-of-up-to-27bn-far-below-past-figure",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-08-24T18:37:20.166Z",
+      "publishedDate": "2026-08-25T01:10:34.914Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -618,9 +574,64 @@
       "url": "https://asia.nikkei.com/business/energy/blackout-tests-central-asia-push-for-deeper-power-grid-data-centers",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-08-24T18:37:20.166Z",
+      "publishedDate": "2026-08-25T01:10:34.914Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
+    },
+    {
+      "id": "a_9147d2db",
+      "title": "Kazakhstan's Tokayev tightens grip on power after snap election",
+      "summary": "",
+      "url": "https://asia.nikkei.com/politics/kazakhstan-s-tokayev-tightens-grip-on-power-after-snap-election",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-08-25T01:10:34.913Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_e2e9f92c",
+      "title": "Suzuki's new e-Sky mini EV tops BYD's Racco in energy efficiency",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/automobiles/electric-vehicles/suzuki-s-new-e-sky-mini-ev-tops-byd-s-racco-in-energy-efficiency",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-08-25T01:10:34.913Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_5131609a",
+      "title": "Philippine conglomerate bolsters industrial park with college campus",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/companies/philippine-conglomerate-bolsters-industrial-park-with-college-campus",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-08-25T01:10:34.913Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_577fc9ec",
+      "title": "You don't want this Sleepwalker backdoor on your Windows machine ",
+      "summary": "Its own command language, 23 instructions - signs point to 'well-resourced operation rather than an opportunistic one'",
+      "url": "https://www.theregister.com/security/2026/08/24/you-dont-want-this-sleepwalker-backdoor-on-your-windows-machine/5292021",
+      "sourceName": "The Register - Security",
+      "category": "Security",
+      "publishedDate": "2026-08-24T21:39:39.000Z",
+      "sourcePriority": 3,
+      "relevanceScore": 0.2775
+    },
+    {
+      "id": "a_c95a662",
+      "title": "Browser fingerprint tool shows how easy you are to track using the latest sneaky tricks",
+      "summary": "Glassbox dev admits he had some help from Claude to build locally running tool",
+      "url": "https://www.theregister.com/security/2026/08/24/browser-fingerprint-tool-shows-how-easy-you-are-to-track-using-the-latest-sneaky-tricks/5292015",
+      "sourceName": "The Register - Security",
+      "category": "Security",
+      "publishedDate": "2026-08-24T21:07:10.000Z",
+      "sourcePriority": 3,
+      "relevanceScore": 0.2775
     },
     {
       "id": "a_2964025e",
@@ -634,28 +645,6 @@
       "relevanceScore": 0.2775
     },
     {
-      "id": "a_ed121e2b",
-      "title": "AliExpress accused of fingerprinting shoppers with silent audio trick that also muted a dev's headphones",
-      "summary": "Sawtooth waves you can't hear still mess with your Bluetooth. Firefox and Brave say they've got you covered",
-      "url": "https://www.theregister.com/security/2026/08/24/aliexpress-accused-of-fingerprinting-shoppers-with-silent-audio-trick-that-also-muted-a-devs-headphones/5291662",
-      "sourceName": "The Register - Security",
-      "category": "Security",
-      "publishedDate": "2026-08-24T12:32:00.000Z",
-      "sourcePriority": 3,
-      "relevanceScore": 0.2775
-    },
-    {
-      "id": "a_641b5782",
-      "title": "Akira ransomware scum blocked victim's security tools – and broke their own encryptor",
-      "summary": "Gives a whole new meaning to Safe Mode",
-      "url": "https://www.theregister.com/research/2026/08/12/akira-ransomware-scum-blocked-victims-security-tools-and-broke-their-own-encryptor/5286515",
-      "sourceName": "The Register - Security",
-      "category": "Security",
-      "publishedDate": "2026-08-12T13:00:00.000Z",
-      "sourcePriority": 3,
-      "relevanceScore": 0.2742
-    },
-    {
       "id": "a_55108f",
       "title": "Comcast gives its Wi-Fi motion detector a security makeover",
       "summary": "Rebranded feature promises household alerts without video, but mind the small print",
@@ -667,15 +656,15 @@
       "relevanceScore": 0.2708
     },
     {
-      "id": "a_6de8bc31",
-      "title": "AWS Security makes an inscrutable choice",
-      "summary": "Quarantining leaked credentials is not good enough",
-      "url": "https://www.theregister.com/security/2026/08/22/aws-security-makes-an-inscrutable-choice-corey-quinn/5291446",
-      "sourceName": "The Register - Security",
-      "category": "Security",
-      "publishedDate": "2026-08-21T23:42:41.000Z",
-      "sourcePriority": 3,
-      "relevanceScore": 0.2667
+      "id": "a_5e628e76",
+      "title": "Kids outlearn AI—and we still don’t know why",
+      "summary": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fluency: a human child.  Now there are two.  Four short years after the release of",
+      "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
+      "sourceName": "MIT Technology Review",
+      "category": "AI",
+      "publishedDate": "2026-08-24T09:00:00.000Z",
+      "sourcePriority": 1,
+      "relevanceScore": 0.27
     },
     {
       "id": "a_5082f559",
@@ -709,6 +698,17 @@
       "publishedDate": "2026-08-20T14:27:00.000Z",
       "sourcePriority": 3,
       "relevanceScore": 0.2625
+    },
+    {
+      "id": "a_ed121e2b",
+      "title": "AliExpress accused of fingerprinting shoppers with silent audio trick that also muted a dev's headphones",
+      "summary": "Sawtooth waves you can't hear still mess with your Bluetooth. Firefox and Brave say they've got you covered",
+      "url": "https://www.theregister.com/security/2026/08/24/aliexpress-accused-of-fingerprinting-shoppers-with-silent-audio-trick-that-also-muted-a-devs-headphones/5291662",
+      "sourceName": "The Register - Security",
+      "category": "Security",
+      "publishedDate": "2026-08-24T12:32:00.000Z",
+      "sourcePriority": 3,
+      "relevanceScore": 0.255
     },
     {
       "id": "a_521c0250",
@@ -764,6 +764,17 @@
       "publishedDate": "2026-08-12T13:40:00.000Z",
       "sourcePriority": 3,
       "relevanceScore": 0.2325
+    },
+    {
+      "id": "a_6de8bc31",
+      "title": "AWS Security makes an inscrutable choice",
+      "summary": "Quarantining leaked credentials is not good enough",
+      "url": "https://www.theregister.com/security/2026/08/22/aws-security-makes-an-inscrutable-choice-corey-quinn/5291446",
+      "sourceName": "The Register - Security",
+      "category": "Security",
+      "publishedDate": "2026-08-21T23:42:41.000Z",
+      "sourcePriority": 3,
+      "relevanceScore": 0.2292
     },
     {
       "id": "a_83b4c99",
@@ -938,17 +949,6 @@
       "sourceName": "The Register - Security",
       "category": "Security",
       "publishedDate": "2026-08-13T15:04:09.000Z",
-      "sourcePriority": 3,
-      "relevanceScore": 0.1992
-    },
-    {
-      "id": "a_35045616",
-      "title": "Brit rail cops bring live facial recognition to the London Underground",
-      "summary": "Victoria is the first stop as privacy campaigners warn the technology is becoming routine",
-      "url": "https://www.theregister.com/security/2026/08/12/brit-rail-cops-bring-live-facial-recognition-to-the-london-underground/5286697",
-      "sourceName": "The Register - Security",
-      "category": "Security",
-      "publishedDate": "2026-08-12T11:19:00.000Z",
       "sourcePriority": 3,
       "relevanceScore": 0.1992
     },
