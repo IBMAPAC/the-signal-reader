@@ -1,11 +1,22 @@
 {
-  "generatedAt": "2026-09-19T10:21:59.958Z",
+  "generatedAt": "2026-09-19T15:24:53.928Z",
   "timeBudgetMinutes": {
     "daily": 10,
     "weekly": 45
   },
   "total": 110,
   "articles": [
+    {
+      "id": "a_1df0668c",
+      "title": "Agentic security is the billion-dollar challenge for some clever startup to solve",
+      "summary": "High time to stop kicking the security can down the road, investor tells The Reg",
+      "url": "https://www.theregister.com/security/2026/09/19/agentic-security-is-the-billion-dollar-challenge-for-some-clever-startup-to-solve/5297546",
+      "sourceName": "The Register - Security",
+      "category": "Security",
+      "publishedDate": "2026-09-19T14:25:00.000Z",
+      "sourcePriority": 3,
+      "relevanceScore": 0.3942
+    },
     {
       "id": "a_d4ceea",
       "title": "Researchers used Claude to hack OpenAI employees' ChatGPT accounts",
@@ -18,24 +29,24 @@
       "relevanceScore": 0.3633
     },
     {
-      "id": "a_e7f6320d",
-      "title": "Tata scion digs in as Indian conglomerate's board rifts deepen",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/companies/tata-scion-digs-in-as-indian-conglomerate-s-board-rifts-deepen",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-09-19T10:21:59.444Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.3517
-    },
-    {
       "id": "a_3635ab22",
       "title": "Japan, US in talks to build chip factory as part of tariff deal",
       "summary": "",
       "url": "https://asia.nikkei.com/economy/trade-war/trump-tariffs/japan-us-in-talks-to-build-chip-factory-as-part-of-tariff-deal2",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-09-19T10:21:59.444Z",
+      "publishedDate": "2026-09-19T15:24:52.685Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.3517
+    },
+    {
+      "id": "a_e7f6320d",
+      "title": "Tata scion digs in as Indian conglomerate's board rifts deepen",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/companies/tata-scion-digs-in-as-indian-conglomerate-s-board-rifts-deepen",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-09-19T15:24:52.684Z",
       "sourcePriority": 2,
       "relevanceScore": 0.3517
     },
@@ -46,9 +57,20 @@
       "url": "https://asia.nikkei.com/spotlight/trump-administration/trump-signs-russia-sanctions-bill-that-opens-china-india-to-tariffs",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-09-19T10:21:59.443Z",
+      "publishedDate": "2026-09-19T15:24:52.683Z",
       "sourcePriority": 2,
       "relevanceScore": 0.3433
+    },
+    {
+      "id": "a_1fcf9748",
+      "title": "Taiwan dollar, South Korea won strong among Asia currencies as AI booms",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/markets/currencies/taiwan-dollar-south-korea-won-strong-among-asia-currencies-as-ai-booms",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-09-19T15:24:52.685Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.335
     },
     {
       "id": "a_cc3641e0",
@@ -57,7 +79,7 @@
       "url": "https://asia.nikkei.com/business/tech/semiconductors/japan-chip-gear-maker-screen-to-expand-into-india-eyeing-growing-industry",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-09-19T10:21:59.444Z",
+      "publishedDate": "2026-09-19T15:24:52.684Z",
       "sourcePriority": 2,
       "relevanceScore": 0.335
     },
@@ -68,18 +90,7 @@
       "url": "https://asia.nikkei.com/spotlight/supply-chain/japan-s-sojitz-plans-chip-materials-transport-hub-for-tata-fab-in-india",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-09-19T10:21:59.444Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.335
-    },
-    {
-      "id": "a_1fcf9748",
-      "title": "Taiwan dollar, South Korea won strong among Asia currencies as AI booms",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/markets/currencies/taiwan-dollar-south-korea-won-strong-among-asia-currencies-as-ai-booms",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-09-19T10:21:59.444Z",
+      "publishedDate": "2026-09-19T15:24:52.684Z",
       "sourcePriority": 2,
       "relevanceScore": 0.335
     },
@@ -90,7 +101,7 @@
       "url": "https://asia.nikkei.com/business/companies/japan-supermarket-begins-training-for-100-store-vietnam-push",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-09-19T10:21:59.443Z",
+      "publishedDate": "2026-09-19T15:24:52.683Z",
       "sourcePriority": 2,
       "relevanceScore": 0.335
     },
@@ -101,7 +112,7 @@
       "url": "https://asia.nikkei.com/business/technology/toyota-to-deploy-400-000-robots-to-work-alongside-factory-staff",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-09-19T10:21:59.444Z",
+      "publishedDate": "2026-09-19T15:24:52.685Z",
       "sourcePriority": 2,
       "relevanceScore": 0.3267
     },
@@ -117,90 +128,13 @@
       "relevanceScore": 0.3125
     },
     {
-      "id": "a_6a37a17",
-      "title": "Japan PM urges new cabinet to focus on markets, Mideast response",
-      "summary": "",
-      "url": "https://asia.nikkei.com/politics/japan-pm-urges-new-cabinet-to-focus-on-markets-mideast-response",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-09-19T10:21:59.444Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_d6953b36",
-      "title": "Japan's Prodrone gears up to mass produce 58,000 drones a year",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/aerospace-defense-industries/japan-s-prodrone-gears-up-to-mass-produce-58-000-drones-a-year",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-09-19T10:21:59.444Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_35a36ada",
-      "title": "India's chip ambitions open door for Fujifilm, Tokyo Electron",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/tech/semiconductors/india-s-chip-ambitions-open-door-for-fujifilm-tokyo-electron",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-09-19T10:21:59.444Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_cf2be612",
-      "title": "Indonesia's Bayan shares soar after 30% stake sold to Prabowo-linked tycoon",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/markets/commodities/indonesia-s-bayan-shares-soar-after-30-stake-sold-to-prabowo-linked-tycoon",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-09-19T10:21:59.444Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_341f3751",
-      "title": "Philippines' GCash owner gets nod for 92.32bn peso IPO",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/markets/ipo/philippines-gcash-owner-gets-nod-for-92.32bn-peso-ipo",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-09-19T10:21:59.444Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_ea461a31",
-      "title": "South Korea's Lee rules out any combat deployment to Middle East",
-      "summary": "",
-      "url": "https://asia.nikkei.com/politics/south-korea-s-lee-rules-out-any-combat-deployment-to-middle-east",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-09-19T10:21:59.444Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_f5649e41",
-      "title": "US chip toolmaker Forge Nano bets on Taiwan for production: CEO",
-      "summary": "",
-      "url": "https://asia.nikkei.com/editor-s-picks/interview/us-chip-toolmaker-forge-nano-bets-on-taiwan-for-production-ceo",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-09-19T10:21:59.444Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
       "id": "a_7216a305",
       "title": "Thailand must invest in front-end chip production, industry body says",
       "summary": "",
       "url": "https://asia.nikkei.com/business/tech/semiconductors/thailand-must-invest-in-front-end-chip-production-industry-body-says",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-09-19T10:21:59.444Z",
+      "publishedDate": "2026-09-19T15:24:52.685Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -211,7 +145,7 @@
       "url": "https://asia.nikkei.com/business/electronics/kodak-surges-to-japan-s-top-camera-brand-after-striking-a-chord-with-gen-z",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-09-19T10:21:59.444Z",
+      "publishedDate": "2026-09-19T15:24:52.685Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -222,7 +156,7 @@
       "url": "https://asia.nikkei.com/spotlight/policy-asia/indonesia-quake-aftermath-exposes-fault-lines-in-prabowo-s-economic-plans",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-09-19T10:21:59.444Z",
+      "publishedDate": "2026-09-19T15:24:52.685Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -233,7 +167,7 @@
       "url": "https://asia.nikkei.com/economy/japan-households-stock-investments-overtake-insurance-pensions-for-first-time",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-09-19T10:21:59.444Z",
+      "publishedDate": "2026-09-19T15:24:52.685Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -244,7 +178,7 @@
       "url": "https://asia.nikkei.com/business/electronics/android-phones-win-54-market-share-in-japan-after-iphone-prices-rise",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-09-19T10:21:59.444Z",
+      "publishedDate": "2026-09-19T15:24:52.685Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -255,7 +189,7 @@
       "url": "https://asia.nikkei.com/business/transportation/malaysia-s-airasia-shares-tumble-21-as-funding-fears-mount",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-09-19T10:21:59.444Z",
+      "publishedDate": "2026-09-19T15:24:52.685Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -266,7 +200,7 @@
       "url": "https://asia.nikkei.com/politics/japan-s-takaichi-emphasizes-continuity-in-first-cabinet-reshuffle",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-09-19T10:21:59.444Z",
+      "publishedDate": "2026-09-19T15:24:52.685Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -277,7 +211,84 @@
       "url": "https://asia.nikkei.com/business/tech/semiconductors/applied-materials-to-invest-5bn-in-india-as-country-ups-chip-support",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-09-19T10:21:59.444Z",
+      "publishedDate": "2026-09-19T15:24:52.685Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_6a37a17",
+      "title": "Japan PM urges new cabinet to focus on markets, Mideast response",
+      "summary": "",
+      "url": "https://asia.nikkei.com/politics/japan-pm-urges-new-cabinet-to-focus-on-markets-mideast-response",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-09-19T15:24:52.684Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_d6953b36",
+      "title": "Japan's Prodrone gears up to mass produce 58,000 drones a year",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/aerospace-defense-industries/japan-s-prodrone-gears-up-to-mass-produce-58-000-drones-a-year",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-09-19T15:24:52.684Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_35a36ada",
+      "title": "India's chip ambitions open door for Fujifilm, Tokyo Electron",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/tech/semiconductors/india-s-chip-ambitions-open-door-for-fujifilm-tokyo-electron",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-09-19T15:24:52.684Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_cf2be612",
+      "title": "Indonesia's Bayan shares soar after 30% stake sold to Prabowo-linked tycoon",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/markets/commodities/indonesia-s-bayan-shares-soar-after-30-stake-sold-to-prabowo-linked-tycoon",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-09-19T15:24:52.684Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_341f3751",
+      "title": "Philippines' GCash owner gets nod for 92.32bn peso IPO",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/markets/ipo/philippines-gcash-owner-gets-nod-for-92.32bn-peso-ipo",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-09-19T15:24:52.684Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_ea461a31",
+      "title": "South Korea's Lee rules out any combat deployment to Middle East",
+      "summary": "",
+      "url": "https://asia.nikkei.com/politics/south-korea-s-lee-rules-out-any-combat-deployment-to-middle-east",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-09-19T15:24:52.684Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_f5649e41",
+      "title": "US chip toolmaker Forge Nano bets on Taiwan for production: CEO",
+      "summary": "",
+      "url": "https://asia.nikkei.com/editor-s-picks/interview/us-chip-toolmaker-forge-nano-bets-on-taiwan-for-production-ceo",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-09-19T15:24:52.684Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -288,7 +299,7 @@
       "url": "https://asia.nikkei.com/business/travel-leisure/singapore-eyes-game-changing-attractions-in-sentosa-overhaul",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-09-19T10:21:59.443Z",
+      "publishedDate": "2026-09-19T15:24:52.683Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -299,7 +310,7 @@
       "url": "https://asia.nikkei.com/spotlight/society/crime/north-korean-hackers-disguise-cyberattacks-as-job-interviews-with-ai",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-09-19T10:21:59.443Z",
+      "publishedDate": "2026-09-19T15:24:52.683Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -337,167 +348,13 @@
       "relevanceScore": 0.2917
     },
     {
-      "id": "a_1f8f0d4a",
-      "title": "Spike hazard: Thai farmers go all in to feed China's durian craving",
-      "summary": "",
-      "url": "https://asia.nikkei.com/spotlight/big-in-asia/spike-hazard-thai-farmers-go-all-in-to-feed-china-s-durian-craving",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-09-19T10:21:59.444Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_bb72e869",
-      "title": "Takaichi seeks Trump meeting early next week ahead of US-China summit",
-      "summary": "",
-      "url": "https://asia.nikkei.com/politics/international-relations/takaichi-seeks-trump-meeting-early-next-week-ahead-of-us-china-summit",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-09-19T10:21:59.444Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_c587919c",
-      "title": "Cooperating with China better for US than trading threats: Hasan Piker",
-      "summary": "",
-      "url": "https://asia.nikkei.com/editor-s-picks/interview/cooperating-with-china-better-for-us-than-trading-threats-hasan-piker",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-09-19T10:21:59.444Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_3f2539a9",
-      "title": "BOJ conducts rate check, lifting yen to upper-156 range against dollar",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/markets/currencies/boj-conducts-rate-check-lifting-yen-to-upper-156-range-against-dollar",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-09-19T10:21:59.444Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_6e23038f",
-      "title": "How the BOJ's rate hike became tangled in a 'currency alliance' with the US",
-      "summary": "",
-      "url": "https://asia.nikkei.com/economy/bank-of-japan/how-the-boj-s-rate-hike-became-tangled-in-a-currency-alliance-with-the-us",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-09-19T10:21:59.444Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_780d4c1e",
-      "title": "Inflation draws BOJ, Fed, ECB into historic alignment on rate hikes",
-      "summary": "",
-      "url": "https://asia.nikkei.com/spotlight/comment/inflation-draws-boj-fed-ecb-into-historic-alignment-on-rate-hikes",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-09-19T10:21:59.444Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_5c5b7d9",
-      "title": "China shipbuilding orders nearly triple on Iran war windfall",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/business-trends/china-shipbuilding-orders-nearly-triple-on-iran-war-windfall",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-09-19T10:21:59.444Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_7ed214df",
-      "title": "JAL to buy carbon credits directly ahead of 2027 demand rush",
-      "summary": "",
-      "url": "https://asia.nikkei.com/spotlight/environment/jal-to-buy-carbon-credits-directly-ahead-of-2027-demand-rush",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-09-19T10:21:59.444Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_75089f3d",
-      "title": "BOJ hikes rates to 1.25% as chief Ueda cites shift in policy phase",
-      "summary": "",
-      "url": "https://asia.nikkei.com/economy/bank-of-japan/boj-hikes-rates-to-1.25-as-chief-ueda-cites-shift-in-policy-phase",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-09-19T10:21:59.444Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_8c46c645",
-      "title": "Yen touches 158 to the dollar as market weighs further BOJ tightening pace",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/markets/currencies/yen-touches-158-to-the-dollar-as-market-weighs-further-boj-tightening-pace",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-09-19T10:21:59.444Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_d55e7e1a",
-      "title": "AirAsia expects $1bn financing by January amid fuel cost pressure",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/transportation/airasia-expects-1bn-financing-by-january-amid-fuel-cost-pressure",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-09-19T10:21:59.444Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_a2aa0d9c",
-      "title": "Editor's Choice: 'Global Hawk missing.' On the alert in Nikkei Asia's newsroom",
-      "summary": "",
-      "url": "https://asia.nikkei.com/editor-s-picks/editor-in-chief-s-picks/editor-s-choice-global-hawk-missing.-on-the-alert-in-nikkei-asia-s-newsroom",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-09-19T10:21:59.444Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_9747009a",
-      "title": "China rebuffs AI slowdown calls ahead of Trump-Xi summit: 5 things to know",
-      "summary": "",
-      "url": "https://asia.nikkei.com/politics/international-relations/us-china-tensions/china-rebuffs-ai-slowdown-calls-ahead-of-trump-xi-summit-5-things-to-know",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-09-19T10:21:59.444Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_908732d7",
-      "title": "Baidu-backed DeepWay aims to license its e-truck tech in Europe",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/automobiles/electric-vehicles/baidu-backed-deepway-aims-to-license-its-e-truck-tech-in-europe",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-09-19T10:21:59.444Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
       "id": "a_953cf2f6",
       "title": "Panasonic Energy gets in on AI demand boom",
       "summary": "",
       "url": "https://asia.nikkei.com/business/tech/semiconductors/panasonic-energy-gets-in-on-ai-demand-boom",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-09-19T10:21:59.444Z",
+      "publishedDate": "2026-09-19T15:24:52.685Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -508,7 +365,7 @@
       "url": "https://asia.nikkei.com/business/automobiles/honda-to-move-up-production-of-next-gen-hybrids-in-ev-strategy-overhaul",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-09-19T10:21:59.444Z",
+      "publishedDate": "2026-09-19T15:24:52.685Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -519,7 +376,7 @@
       "url": "https://asia.nikkei.com/business/energy/petronas-woodside-tout-alternatives-to-mideast-lng-for-asian-buyers",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-09-19T10:21:59.444Z",
+      "publishedDate": "2026-09-19T15:24:52.685Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -530,7 +387,7 @@
       "url": "https://asia.nikkei.com/business/media-entertainment/j-pop-artists-lose-out-as-overseas-royalties-slip-through-cracks",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-09-19T10:21:59.444Z",
+      "publishedDate": "2026-09-19T15:24:52.685Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -541,7 +398,7 @@
       "url": "https://asia.nikkei.com/spotlight/comment/with-a-new-cabinet-takaichi-s-base-is-secure.-what-comes-next",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-09-19T10:21:59.444Z",
+      "publishedDate": "2026-09-19T15:24:52.685Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -552,7 +409,7 @@
       "url": "https://asia.nikkei.com/business/retail/ikea-rival-nitori-to-focus-on-kitchenware-over-furniture-in-new-china-stores",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-09-19T10:21:59.444Z",
+      "publishedDate": "2026-09-19T15:24:52.685Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -563,7 +420,7 @@
       "url": "https://asia.nikkei.com/business/tech/semiconductors/huawei-debuts-11-ai-related-chips-in-challenge-to-nvidia-intel-amd",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-09-19T10:21:59.444Z",
+      "publishedDate": "2026-09-19T15:24:52.685Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -574,7 +431,161 @@
       "url": "https://asia.nikkei.com/business/markets/currencies/yen-weakens-to-156-level-as-fed-fulfills-rate-hike-expectations",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-09-19T10:21:59.444Z",
+      "publishedDate": "2026-09-19T15:24:52.685Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_1f8f0d4a",
+      "title": "Spike hazard: Thai farmers go all in to feed China's durian craving",
+      "summary": "",
+      "url": "https://asia.nikkei.com/spotlight/big-in-asia/spike-hazard-thai-farmers-go-all-in-to-feed-china-s-durian-craving",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-09-19T15:24:52.684Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_bb72e869",
+      "title": "Takaichi seeks Trump meeting early next week ahead of US-China summit",
+      "summary": "",
+      "url": "https://asia.nikkei.com/politics/international-relations/takaichi-seeks-trump-meeting-early-next-week-ahead-of-us-china-summit",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-09-19T15:24:52.684Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_c587919c",
+      "title": "Cooperating with China better for US than trading threats: Hasan Piker",
+      "summary": "",
+      "url": "https://asia.nikkei.com/editor-s-picks/interview/cooperating-with-china-better-for-us-than-trading-threats-hasan-piker",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-09-19T15:24:52.684Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_3f2539a9",
+      "title": "BOJ conducts rate check, lifting yen to upper-156 range against dollar",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/markets/currencies/boj-conducts-rate-check-lifting-yen-to-upper-156-range-against-dollar",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-09-19T15:24:52.684Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_6e23038f",
+      "title": "How the BOJ's rate hike became tangled in a 'currency alliance' with the US",
+      "summary": "",
+      "url": "https://asia.nikkei.com/economy/bank-of-japan/how-the-boj-s-rate-hike-became-tangled-in-a-currency-alliance-with-the-us",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-09-19T15:24:52.684Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_780d4c1e",
+      "title": "Inflation draws BOJ, Fed, ECB into historic alignment on rate hikes",
+      "summary": "",
+      "url": "https://asia.nikkei.com/spotlight/comment/inflation-draws-boj-fed-ecb-into-historic-alignment-on-rate-hikes",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-09-19T15:24:52.684Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_5c5b7d9",
+      "title": "China shipbuilding orders nearly triple on Iran war windfall",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/business-trends/china-shipbuilding-orders-nearly-triple-on-iran-war-windfall",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-09-19T15:24:52.684Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_7ed214df",
+      "title": "JAL to buy carbon credits directly ahead of 2027 demand rush",
+      "summary": "",
+      "url": "https://asia.nikkei.com/spotlight/environment/jal-to-buy-carbon-credits-directly-ahead-of-2027-demand-rush",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-09-19T15:24:52.684Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_75089f3d",
+      "title": "BOJ hikes rates to 1.25% as chief Ueda cites shift in policy phase",
+      "summary": "",
+      "url": "https://asia.nikkei.com/economy/bank-of-japan/boj-hikes-rates-to-1.25-as-chief-ueda-cites-shift-in-policy-phase",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-09-19T15:24:52.684Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_8c46c645",
+      "title": "Yen touches 158 to the dollar as market weighs further BOJ tightening pace",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/markets/currencies/yen-touches-158-to-the-dollar-as-market-weighs-further-boj-tightening-pace",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-09-19T15:24:52.684Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_d55e7e1a",
+      "title": "AirAsia expects $1bn financing by January amid fuel cost pressure",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/transportation/airasia-expects-1bn-financing-by-january-amid-fuel-cost-pressure",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-09-19T15:24:52.684Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_a2aa0d9c",
+      "title": "Editor's Choice: 'Global Hawk missing.' On the alert in Nikkei Asia's newsroom",
+      "summary": "",
+      "url": "https://asia.nikkei.com/editor-s-picks/editor-in-chief-s-picks/editor-s-choice-global-hawk-missing.-on-the-alert-in-nikkei-asia-s-newsroom",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-09-19T15:24:52.684Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_9747009a",
+      "title": "China rebuffs AI slowdown calls ahead of Trump-Xi summit: 5 things to know",
+      "summary": "",
+      "url": "https://asia.nikkei.com/politics/international-relations/us-china-tensions/china-rebuffs-ai-slowdown-calls-ahead-of-trump-xi-summit-5-things-to-know",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-09-19T15:24:52.684Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_908732d7",
+      "title": "Baidu-backed DeepWay aims to license its e-truck tech in Europe",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/automobiles/electric-vehicles/baidu-backed-deepway-aims-to-license-its-e-truck-tech-in-europe",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-09-19T15:24:52.684Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -585,7 +596,7 @@
       "url": "https://asia.nikkei.com/spotlight/comment/a-cornered-putin-might-recklessly-provoke-nato",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-09-19T10:21:59.443Z",
+      "publishedDate": "2026-09-19T15:24:52.683Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -596,7 +607,7 @@
       "url": "https://asia.nikkei.com/business/markets/turkey-moves-to-calm-nervous-markets-after-fund-crisis-sparks-selloff",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-09-19T10:21:59.443Z",
+      "publishedDate": "2026-09-19T15:24:52.683Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -607,20 +618,9 @@
       "url": "https://asia.nikkei.com/life-arts/arts/port-fairy-folk-festival-tunes-up-for-its-50th-anniversary",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-09-19T10:21:59.443Z",
+      "publishedDate": "2026-09-19T15:24:52.683Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
-    },
-    {
-      "id": "a_98831c69",
-      "title": "Building the materials foundation for AI",
-      "summary": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semiconductors and data centers are approaching physical limits around performance, the",
-      "url": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
-      "sourceName": "MIT Technology Review",
-      "category": "AI",
-      "publishedDate": "2026-09-16T12:47:34.000Z",
-      "sourcePriority": 1,
-      "relevanceScore": 0.2817
     },
     {
       "id": "a_e5b0c2f5",
@@ -632,28 +632,6 @@
       "publishedDate": "2026-09-18T16:53:00.000Z",
       "sourcePriority": 3,
       "relevanceScore": 0.28
-    },
-    {
-      "id": "a_1a16cb39",
-      "title": "The Download: AI’s extinction risk and bioweapons threat",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Could AI really kill us all? Your questions, answered On Wednesday, MIT Technology Review hosted a live Roundtables event that asked the quest",
-      "url": "https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/",
-      "sourceName": "MIT Technology Review",
-      "category": "AI",
-      "publishedDate": "2026-09-18T12:10:00.000Z",
-      "sourcePriority": 1,
-      "relevanceScore": 0.27
-    },
-    {
-      "id": "a_94c50c3a",
-      "title": "Could AI really kill us all? Your questions, answered.",
-      "summary": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees had so many more questions than we had time to answer in the 30 minute session. So we asked our seni",
-      "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
-      "sourceName": "MIT Technology Review",
-      "category": "AI",
-      "publishedDate": "2026-09-18T11:29:22.000Z",
-      "sourcePriority": 1,
-      "relevanceScore": 0.27
     },
     {
       "id": "a_b97497ef",
@@ -733,6 +711,17 @@
       "relevanceScore": 0.255
     },
     {
+      "id": "a_98831c69",
+      "title": "Building the materials foundation for AI",
+      "summary": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semiconductors and data centers are approaching physical limits around performance, the",
+      "url": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
+      "sourceName": "MIT Technology Review",
+      "category": "AI",
+      "publishedDate": "2026-09-16T12:47:34.000Z",
+      "sourcePriority": 1,
+      "relevanceScore": 0.2442
+    },
+    {
       "id": "a_78333c08",
       "title": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The AI industry has taken a doomer turn. What now? AI chiefs Dario Amodei, Sam Altman, Elon Musk, and Demis Hassabis are suddenly all in agree",
@@ -753,6 +742,28 @@
       "publishedDate": "2026-09-10T07:00:00.000Z",
       "sourcePriority": 3,
       "relevanceScore": 0.2408
+    },
+    {
+      "id": "a_1a16cb39",
+      "title": "The Download: AI’s extinction risk and bioweapons threat",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Could AI really kill us all? Your questions, answered On Wednesday, MIT Technology Review hosted a live Roundtables event that asked the quest",
+      "url": "https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/",
+      "sourceName": "MIT Technology Review",
+      "category": "AI",
+      "publishedDate": "2026-09-18T12:10:00.000Z",
+      "sourcePriority": 1,
+      "relevanceScore": 0.24
+    },
+    {
+      "id": "a_94c50c3a",
+      "title": "Could AI really kill us all? Your questions, answered.",
+      "summary": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees had so many more questions than we had time to answer in the 30 minute session. So we asked our seni",
+      "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
+      "sourceName": "MIT Technology Review",
+      "category": "AI",
+      "publishedDate": "2026-09-18T11:29:22.000Z",
+      "sourcePriority": 1,
+      "relevanceScore": 0.24
     },
     {
       "id": "a_ca357dd1",
@@ -784,28 +795,6 @@
       "sourceName": "MIT Technology Review",
       "category": "AI",
       "publishedDate": "2026-09-17T10:00:00.000Z",
-      "sourcePriority": 1,
-      "relevanceScore": 0.24
-    },
-    {
-      "id": "a_fa8793fb",
-      "title": "Meet a mouse whose brain cortex is made up of human cells",
-      "summary": "Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its position and speed, leaving Pong-like traces on a monitor.  The reason to watch this rodent so carefully? Nearly half its brain volume had been replaced with human cells. The effort to mi",
-      "url": "https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/",
-      "sourceName": "MIT Technology Review",
-      "category": "AI",
-      "publishedDate": "2026-09-16T15:00:00.000Z",
-      "sourcePriority": 1,
-      "relevanceScore": 0.24
-    },
-    {
-      "id": "a_e5eedbd0",
-      "title": "The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What’s at stake in AI’s trillion-dollar gamble When Jessica Wachter, a finance professor at the University of Pennsylvania, wanted to assess A",
-      "url": "https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/",
-      "sourceName": "MIT Technology Review",
-      "category": "AI",
-      "publishedDate": "2026-09-16T12:10:00.000Z",
       "sourcePriority": 1,
       "relevanceScore": 0.24
     },
@@ -920,28 +909,6 @@
       "relevanceScore": 0.225
     },
     {
-      "id": "a_7f6915d3",
-      "title": "Spain gets its first taste of AI-aided cyber attack",
-      "summary": "Data protection chiefs call for 'immediate review' of data protection models",
-      "url": "https://www.theregister.com/cyber-crime/2026/09/16/spain-gets-its-first-taste-of-ai-aided-cyber-attack/5296844",
-      "sourceName": "The Register - Security",
-      "category": "Security",
-      "publishedDate": "2026-09-16T11:56:55.000Z",
-      "sourcePriority": 3,
-      "relevanceScore": 0.225
-    },
-    {
-      "id": "a_d7c6cd6e",
-      "title": "Ministry of Justice apologizes after court staff accessed Southport victims' files",
-      "summary": "Sensitive personal data was involved, but there is no evidence it was shared with third parties",
-      "url": "https://www.theregister.com/security/2026/09/16/ministry-of-justice-apologizes-after-court-staff-accessed-southport-victims-files/5296808",
-      "sourceName": "The Register - Security",
-      "category": "Security",
-      "publishedDate": "2026-09-16T10:42:28.000Z",
-      "sourcePriority": 3,
-      "relevanceScore": 0.225
-    },
-    {
       "id": "a_6c26ac59",
       "title": "Perfect-10 GitLab bug under attack days after patch lands",
       "summary": "CISA confirms active exploitation as watchTowr spots miscreants probing internet-facing servers",
@@ -951,6 +918,28 @@
       "publishedDate": "2026-09-14T14:30:00.000Z",
       "sourcePriority": 3,
       "relevanceScore": 0.2208
+    },
+    {
+      "id": "a_fa8793fb",
+      "title": "Meet a mouse whose brain cortex is made up of human cells",
+      "summary": "Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its position and speed, leaving Pong-like traces on a monitor.  The reason to watch this rodent so carefully? Nearly half its brain volume had been replaced with human cells. The effort to mi",
+      "url": "https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/",
+      "sourceName": "MIT Technology Review",
+      "category": "AI",
+      "publishedDate": "2026-09-16T15:00:00.000Z",
+      "sourcePriority": 1,
+      "relevanceScore": 0.2025
+    },
+    {
+      "id": "a_e5eedbd0",
+      "title": "The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What’s at stake in AI’s trillion-dollar gamble When Jessica Wachter, a finance professor at the University of Pennsylvania, wanted to assess A",
+      "url": "https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/",
+      "sourceName": "MIT Technology Review",
+      "category": "AI",
+      "publishedDate": "2026-09-16T12:10:00.000Z",
+      "sourcePriority": 1,
+      "relevanceScore": 0.2025
     },
     {
       "id": "a_c7bf7d69",
@@ -1028,6 +1017,28 @@
       "publishedDate": "2026-09-09T00:25:22.000Z",
       "sourcePriority": 3,
       "relevanceScore": 0.1908
+    },
+    {
+      "id": "a_7f6915d3",
+      "title": "Spain gets its first taste of AI-aided cyber attack",
+      "summary": "Data protection chiefs call for 'immediate review' of data protection models",
+      "url": "https://www.theregister.com/cyber-crime/2026/09/16/spain-gets-its-first-taste-of-ai-aided-cyber-attack/5296844",
+      "sourceName": "The Register - Security",
+      "category": "Security",
+      "publishedDate": "2026-09-16T11:56:55.000Z",
+      "sourcePriority": 3,
+      "relevanceScore": 0.1875
+    },
+    {
+      "id": "a_d7c6cd6e",
+      "title": "Ministry of Justice apologizes after court staff accessed Southport victims' files",
+      "summary": "Sensitive personal data was involved, but there is no evidence it was shared with third parties",
+      "url": "https://www.theregister.com/security/2026/09/16/ministry-of-justice-apologizes-after-court-staff-accessed-southport-victims-files/5296808",
+      "sourceName": "The Register - Security",
+      "category": "Security",
+      "publishedDate": "2026-09-16T10:42:28.000Z",
+      "sourcePriority": 3,
+      "relevanceScore": 0.1875
     },
     {
       "id": "a_40895aca",
@@ -1202,17 +1213,6 @@
       "sourceName": "The Register - Security",
       "category": "Security",
       "publishedDate": "2026-09-08T12:00:00.000Z",
-      "sourcePriority": 3,
-      "relevanceScore": 0.1575
-    },
-    {
-      "id": "a_82816cfc",
-      "title": "Britain reboots its space strategy with £7.8B already on the launchpad",
-      "summary": "Cross-government plan combines civil ambitions with an increasingly military view of orbit",
-      "url": "https://www.theregister.com/public-sector/2026/09/08/britain-reboots-its-space-strategy-with-78b-already-on-the-launchpad/5294839",
-      "sourceName": "The Register - Security",
-      "category": "Security",
-      "publishedDate": "2026-09-08T09:00:00.000Z",
       "sourcePriority": 3,
       "relevanceScore": 0.1575
     }
