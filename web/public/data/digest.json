@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T04:28:38.681Z",
+  "generatedAt": "2026-10-07T12:42:09.252Z",
   "timeBudgetMinutes": {
     "daily": 10,
     "weekly": 45
@@ -7,13 +7,24 @@
   "total": 110,
   "articles": [
     {
+      "id": "a_fdbff42f",
+      "title": "FortiBleed still a bleeding nuisance as FBI confirms ongoing attacks",
+      "summary": "Tens of thousands more victims and more ransomware groups getting in on the act",
+      "url": "https://www.theregister.com/security/2026/10/07/fortibleed-still-a-bleeding-nuisance-as-fbi-confirms-ongoing-attacks/5301585",
+      "sourceName": "The Register - Security",
+      "category": "Security",
+      "publishedDate": "2026-10-07T10:52:09.000Z",
+      "sourcePriority": 3,
+      "relevanceScore": 0.3525
+    },
+    {
       "id": "a_cf292b81",
       "title": "Japan faces wide language-teaching gap as new immigration scheme looms",
       "summary": "",
       "url": "https://asia.nikkei.com/spotlight/japan-immigration/japan-faces-wide-language-teaching-gap-as-new-immigration-scheme-looms",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-07T04:28:37.608Z",
+      "publishedDate": "2026-10-07T12:42:08.479Z",
       "sourcePriority": 2,
       "relevanceScore": 0.3517
     },
@@ -24,7 +35,7 @@
       "url": "https://asia.nikkei.com/business/tech/semiconductors/samsung-takes-vietnam-up-semiconductor-value-chain-with-5bn-expansion",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-07T04:28:37.607Z",
+      "publishedDate": "2026-10-07T12:42:08.478Z",
       "sourcePriority": 2,
       "relevanceScore": 0.3517
     },
@@ -46,18 +57,18 @@
       "url": "https://asia.nikkei.com/business/automobiles/suzuki-s-mini-ev-bet-exposes-japan-s-battery-vulnerability-to-china",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-07T04:28:37.608Z",
+      "publishedDate": "2026-10-07T12:42:08.479Z",
       "sourcePriority": 2,
       "relevanceScore": 0.3433
     },
     {
-      "id": "a_5bc918ea",
-      "title": "Malaysia's SkyeChip targets Japan, joins Rapidus ecosystem",
+      "id": "a_dbf29234",
+      "title": "Australia's AirTrunk to triple Japan data center investment to up to $30bn",
       "summary": "",
-      "url": "https://asia.nikkei.com/business/tech/semiconductors/malaysia-s-skyechip-targets-japan-joins-rapidus-ecosystem",
+      "url": "https://asia.nikkei.com/editor-s-picks/interview/australia-s-airtrunk-to-triple-japan-data-center-investment-to-up-to-30bn",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-07T04:28:37.608Z",
+      "publishedDate": "2026-10-07T12:42:08.478Z",
       "sourcePriority": 2,
       "relevanceScore": 0.335
     },
@@ -68,7 +79,7 @@
       "url": "https://asia.nikkei.com/spotlight/cybersecurity/cyberattacks-sweep-japan-and-south-korea-businesses",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-07T04:28:37.607Z",
+      "publishedDate": "2026-10-07T12:42:08.478Z",
       "sourcePriority": 2,
       "relevanceScore": 0.335
     },
@@ -79,64 +90,9 @@
       "url": "https://asia.nikkei.com/spotlight/environment/japan-s-marubeni-sumitomo-forestry-help-combat-indonesian-forest-fires",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-07T04:28:37.607Z",
+      "publishedDate": "2026-10-07T12:42:08.478Z",
       "sourcePriority": 2,
       "relevanceScore": 0.335
-    },
-    {
-      "id": "a_65276099",
-      "title": "Anthropic reconfigures its cool kids security program",
-      "summary": "Company's Project Glasswing and Cyber Verification Program metamorphose into triple tier threat hunting club",
-      "url": "https://www.theregister.com/security/2026/10/07/anthropic-reconfigures-its-cool-kids-security-program/5301509",
-      "sourceName": "The Register - Security",
-      "category": "Security",
-      "publishedDate": "2026-10-06T23:29:27.000Z",
-      "sourcePriority": 3,
-      "relevanceScore": 0.3192
-    },
-    {
-      "id": "a_967750d6",
-      "title": "Form Energy and its iron batteries",
-      "summary": "Form Energy is building iron-based batteries that can store energy for multiple days. The company is ramping up supply at its factory and signing deals for commercial projects. New solar and wind installations produce electricity more affordably than fossil fuels in most places, ",
-      "url": "https://www.technologyreview.com/2026/10/06/1145020/2026-climate-tech-companies-to-watch-form-energy-iron-batteries/",
-      "sourceName": "MIT Technology Review",
-      "category": "AI",
-      "publishedDate": "2026-10-06T10:35:00.000Z",
-      "sourcePriority": 1,
-      "relevanceScore": 0.3117
-    },
-    {
-      "id": "a_b039baa1",
-      "title": "X-energy and its helium-cooled nuclear reactors",
-      "summary": "X-energy is developing small modular reactors to satisfy some of the planet’s most power-hungry users: industrial manufacturers that need high temperatures to produce billions of tons of concrete, plastics, fibers, and chemicals. Solar panels and wind turbines are great at produc",
-      "url": "https://www.technologyreview.com/2026/10/06/1145025/2026-climate-tech-companies-to-watch-x-energy-helium-cooled-nuclear-reactors/",
-      "sourceName": "MIT Technology Review",
-      "category": "AI",
-      "publishedDate": "2026-10-06T10:35:00.000Z",
-      "sourcePriority": 1,
-      "relevanceScore": 0.3117
-    },
-    {
-      "id": "a_458b326b",
-      "title": "OpenAI steps up safety, promises earlier disclosure after Australian hack",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/openai-steps-up-safety-promises-earlier-disclosure-after-australian-hack",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-10-07T04:28:37.608Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_f643dc1c",
-      "title": "Taiwan's top diplomat launches new mission in Arizona",
-      "summary": "",
-      "url": "https://asia.nikkei.com/politics/international-relations/taiwan-s-top-diplomat-launches-new-mission-in-arizona",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-10-07T04:28:37.608Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
     },
     {
       "id": "a_9ca059f1",
@@ -145,7 +101,7 @@
       "url": "https://asia.nikkei.com/business/finance/australiansuper-to-more-than-double-private-equity-investment-in-asia",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-07T04:28:37.608Z",
+      "publishedDate": "2026-10-07T12:42:08.479Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -156,7 +112,7 @@
       "url": "https://asia.nikkei.com/business/retail/reliance-closes-all-7-eleven-stores-in-india",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-07T04:28:37.608Z",
+      "publishedDate": "2026-10-07T12:42:08.479Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -167,7 +123,7 @@
       "url": "https://asia.nikkei.com/politics/international-relations/south-korea-cautious-over-deal-trump-says-keeps-getting-better",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-07T04:28:37.608Z",
+      "publishedDate": "2026-10-07T12:42:08.479Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -178,7 +134,7 @@
       "url": "https://asia.nikkei.com/business/energy/vietnam-extends-fuel-tax-breaks-as-energy-supply-disruptions-drag-on",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-07T04:28:37.608Z",
+      "publishedDate": "2026-10-07T12:42:08.479Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -189,7 +145,7 @@
       "url": "https://asia.nikkei.com/business/markets/equities/late-filings-by-situational-awareness-expose-gap-in-japan-disclosure-rules",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-07T04:28:37.608Z",
+      "publishedDate": "2026-10-07T12:42:08.479Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -200,7 +156,7 @@
       "url": "https://asia.nikkei.com/economy/demography/elderly-outnumber-children-in-nearly-all-japan-prefectures",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-07T04:28:37.608Z",
+      "publishedDate": "2026-10-07T12:42:08.479Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -211,7 +167,7 @@
       "url": "https://asia.nikkei.com/opinion/time-to-get-off-the-roller-coaster-south-korea-markets-must-deliver-stability",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-07T04:28:37.608Z",
+      "publishedDate": "2026-10-07T12:42:08.479Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -222,7 +178,7 @@
       "url": "https://asia.nikkei.com/business/automobiles/electric-vehicles/suzuki-undercuts-byd-in-japan-with-cheapest-in-class-mini-ev",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-07T04:28:37.608Z",
+      "publishedDate": "2026-10-07T12:42:08.479Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -233,7 +189,7 @@
       "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/mitsui-fudosan-to-build-data-center-in-abandoned-tunnel-in-japan",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-07T04:28:37.608Z",
+      "publishedDate": "2026-10-07T12:42:08.479Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -244,7 +200,40 @@
       "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-s-tepco-to-tap-ai-to-speed-nuclear-restarts",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-07T04:28:37.608Z",
+      "publishedDate": "2026-10-07T12:42:08.479Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_64066627",
+      "title": "Indonesia's new labor law soothes workers, worries businesses",
+      "summary": "",
+      "url": "https://asia.nikkei.com/politics/indonesia-s-new-labor-law-soothes-workers-worries-businesses2",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-10-07T12:42:08.478Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_890dc660",
+      "title": "India's central bank delivers first rate hike since 2023 as inflation bites",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/markets/india-s-central-bank-delivers-first-rate-hike-since-2023-as-inflation-bites",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-10-07T12:42:08.478Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_294bcec5",
+      "title": "India's opposition protests pile pressure on Modi government",
+      "summary": "",
+      "url": "https://asia.nikkei.com/politics/india-s-opposition-protests-pile-pressure-on-modi-government",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-10-07T12:42:08.478Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -255,7 +244,7 @@
       "url": "https://asia.nikkei.com/business/travel-leisure/japan-demand-draws-entry-of-home-exchange-service-for-wealthy-owners",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-07T04:28:37.607Z",
+      "publishedDate": "2026-10-07T12:42:08.478Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -266,7 +255,7 @@
       "url": "https://asia.nikkei.com/business/media-entertainment/bts-architect-steers-global-expansion-at-japan-record-label-avex",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-07T04:28:37.607Z",
+      "publishedDate": "2026-10-07T12:42:08.478Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -277,7 +266,7 @@
       "url": "https://asia.nikkei.com/business/business-asia/uncertainty-mounts-in-singapore-after-china-tightens-offshore-trust-rules",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-07T04:28:37.607Z",
+      "publishedDate": "2026-10-07T12:42:08.478Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -288,7 +277,7 @@
       "url": "https://asia.nikkei.com/opinion/can-india-turn-ai-disruption-into-job-growth",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-07T04:28:37.607Z",
+      "publishedDate": "2026-10-07T12:42:08.478Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -299,7 +288,7 @@
       "url": "https://asia.nikkei.com/business/business-trends/tsmc-and-other-taiwan-players-boost-ai-spending-in-us-southeast-asia",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-07T04:28:37.607Z",
+      "publishedDate": "2026-10-07T12:42:08.478Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -310,7 +299,7 @@
       "url": "https://asia.nikkei.com/business/tech/semiconductors/towa-plans-chipmaking-tool-plant-for-japanese-supply-chain-ceo",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-07T04:28:37.607Z",
+      "publishedDate": "2026-10-07T12:42:08.478Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -321,7 +310,7 @@
       "url": "https://asia.nikkei.com/business/finance/japan-to-open-bank-data-to-researchers-in-evidence-based-policy-push",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-07T04:28:37.607Z",
+      "publishedDate": "2026-10-07T12:42:08.478Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -332,7 +321,7 @@
       "url": "https://asia.nikkei.com/politics/international-relations/japan-china-tensions/xi-leaves-japan-uncertain-on-china-summit-at-apec",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-07T04:28:37.607Z",
+      "publishedDate": "2026-10-07T12:42:08.478Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -343,7 +332,7 @@
       "url": "https://asia.nikkei.com/business/media-entertainment/china-s-passion-for-japan-arts-behind-record-smashing-tea-bowl-auction",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-07T04:28:37.607Z",
+      "publishedDate": "2026-10-07T12:42:08.478Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -354,7 +343,7 @@
       "url": "https://asia.nikkei.com/business/materials/taiwan-s-auo-innolux-bet-on-glass-as-next-gen-ai-chip-material",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-07T04:28:37.607Z",
+      "publishedDate": "2026-10-07T12:42:08.478Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -365,7 +354,51 @@
       "url": "https://asia.nikkei.com/business/companies/malaysia-s-top-glove-triples-net-profit-despite-high-material-costs",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-07T04:28:37.607Z",
+      "publishedDate": "2026-10-07T12:42:08.478Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_458b326b",
+      "title": "OpenAI steps up safety, promises earlier disclosure after Australian hack",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/openai-steps-up-safety-promises-earlier-disclosure-after-australian-hack",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-10-07T12:42:08.478Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_f643dc1c",
+      "title": "Taiwan's top diplomat launches new mission in Arizona",
+      "summary": "",
+      "url": "https://asia.nikkei.com/politics/international-relations/taiwan-s-top-diplomat-launches-new-mission-in-arizona",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-10-07T12:42:08.478Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_10b2277b",
+      "title": "Japan's TOPIX stock index revamp: 5 things to know",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/markets/japan-s-topix-stock-index-revamp-5-things-to-know",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-10-07T12:42:08.477Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_c6703d3b",
+      "title": "Japan's Kenso Soai and France's Henri Kagan win Nobel chemistry prize",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/science/japan-s-kenso-soai-and-france-s-henri-kagan-win-nobel-chemistry-prize",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-10-07T12:42:08.477Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -379,17 +412,6 @@
       "publishedDate": "2026-09-28T20:30:00.000Z",
       "sourcePriority": 3,
       "relevanceScore": 0.3075
-    },
-    {
-      "id": "a_bcbd1e91",
-      "title": "Brimstone and its one-stop process for making cleaner cement and critical minerals",
-      "summary": "Brimstone is making strides on two industrial problems, reducing the emissions from cement and providing a way to produce more critical minerals within the US. If the company can do both, with the same rocks in the same plant, it would unlock a cleaner and more efficient process ",
-      "url": "https://www.technologyreview.com/2026/10/06/1145172/2026-climate-tech-companies-to-watch-brimstone-one-stop-process-making-cleaner-cement-critical-minerals/",
-      "sourceName": "MIT Technology Review",
-      "category": "AI",
-      "publishedDate": "2026-10-06T10:35:00.000Z",
-      "sourcePriority": 1,
-      "relevanceScore": 0.3033
     },
     {
       "id": "a_bc0d1412",
@@ -414,48 +436,26 @@
       "relevanceScore": 0.3
     },
     {
-      "id": "a_6c1a3157",
-      "title": "Weight-loss drugs show signs of slowing biological aging, say drugmakers",
-      "summary": "Popular weight-loss drugs may do more than help people shed pounds. They might also melt away the years. Drug giants Eli Lilly and Novo Nordisk say patients taking their drugs age less quickly, according to readouts from molecular “aging clocks.” Such clocks assess a person’s bio",
-      "url": "https://www.technologyreview.com/2026/10/06/1145836/weight-loss-drugs-glp1-lilly-novo-aging-clocks/",
+      "id": "a_65276099",
+      "title": "Anthropic reconfigures its cool kids security program",
+      "summary": "Company's Project Glasswing and Cyber Verification Program metamorphose into triple tier threat hunting club",
+      "url": "https://www.theregister.com/security/2026/10/07/anthropic-reconfigures-its-cool-kids-security-program/5301509",
+      "sourceName": "The Register - Security",
+      "category": "Security",
+      "publishedDate": "2026-10-06T23:29:27.000Z",
+      "sourcePriority": 3,
+      "relevanceScore": 0.2967
+    },
+    {
+      "id": "a_fc8c2eba",
+      "title": "The Download: weight-loss drugs slowing aging and carbon dioxide batteries",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Weight-loss drugs show signs of slowing biological aging, say drugmakers Popular weight-loss drugs may do more than help people shed pounds. T",
+      "url": "https://www.technologyreview.com/2026/10/07/1145895/the-download-weight-loss-drugs-slow-aging-carbon-dioxide-batteries/",
       "sourceName": "MIT Technology Review",
       "category": "AI",
-      "publishedDate": "2026-10-06T16:40:36.000Z",
+      "publishedDate": "2026-10-07T12:10:00.000Z",
       "sourcePriority": 1,
       "relevanceScore": 0.2925
-    },
-    {
-      "id": "a_8a135309",
-      "title": "HK Express CEO says airline 'firmly on path to turnaround'",
-      "summary": "",
-      "url": "https://asia.nikkei.com/editor-s-picks/interview/hk-express-ceo-says-airline-firmly-on-path-to-turnaround2",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-10-07T04:28:37.608Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_9305969d",
-      "title": "JGB yield rises despite 30-year-high coupon",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/markets/jgb-yield-rises-despite-30-year-high-coupon",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-10-07T04:28:37.608Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_3f02c098",
-      "title": "China's Q3 growth estimated below target at 4.4% despite AI boom",
-      "summary": "",
-      "url": "https://asia.nikkei.com/economy/china-s-q3-growth-estimated-below-target-at-4.4-despite-ai-boom",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-10-07T04:28:37.608Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
     },
     {
       "id": "a_9cd7656e",
@@ -464,7 +464,7 @@
       "url": "https://asia.nikkei.com/spotlight/huawei-crackdown/qualcomm-to-pay-huawei-for-first-time-in-5g-ai-patent-breakthrough",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-07T04:28:37.608Z",
+      "publishedDate": "2026-10-07T12:42:08.479Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -475,7 +475,7 @@
       "url": "https://asia.nikkei.com/spotlight/podcasts/podcast-tech-latest/is-it-possible-to-slow-down-ai-development",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-07T04:28:37.608Z",
+      "publishedDate": "2026-10-07T12:42:08.479Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -486,7 +486,7 @@
       "url": "https://asia.nikkei.com/spotlight/my-personal-history/harriman-experience-stephen-schwarzman-6",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-07T04:28:37.608Z",
+      "publishedDate": "2026-10-07T12:42:08.479Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -497,7 +497,7 @@
       "url": "https://asia.nikkei.com/business/markets/equities/kioxia-sell-date-looms-for-retail-investors-who-joined-boom-on-margin",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-07T04:28:37.608Z",
+      "publishedDate": "2026-10-07T12:42:08.479Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -508,139 +508,7 @@
       "url": "https://asia.nikkei.com/spotlight/asean-money/myanmar-property-market-booms-as-prices-soar-on-regime-policies-inflation",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-07T04:28:37.608Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_ff42e739",
-      "title": "Toyota partners with Isuzu to launch updated hydrogen fuel cell bus",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/automobiles/toyota-partners-with-isuzu-to-launch-updated-hydrogen-fuel-cell-bus",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-10-07T04:28:37.608Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_c1bde73e",
-      "title": "Shionogi to buy US-based IntraBio for $2bn to expand rare disease drug business",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/pharmaceuticals/shionogi-to-buy-us-based-intrabio-for-2bn-to-expand-rare-disease-drug-business",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-10-07T04:28:37.608Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_8b12ce2c",
-      "title": "Honda to test EV recharging at highway speeds",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/automobiles/electric-vehicles/honda-to-test-ev-recharging-at-highway-speeds",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-10-07T04:28:37.608Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_710e1272",
-      "title": "China's convenience stores lose customers to cheap instant delivery apps",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/retail/china-s-convenience-stores-lose-customers-to-cheap-instant-delivery-apps",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-10-07T04:28:37.608Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_dbd02539",
-      "title": "Nippon Paint clinches Dulux brand with deal for Akzo Nobel's Southeast Asia business",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/business-deals/nippon-paint-clinches-dulux-brand-with-deal-for-akzo-nobel-s-southeast-asia-business",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-10-07T04:28:37.608Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_df6b2a52",
-      "title": "UK universities review China ties after MI5 espionage alert",
-      "summary": "",
-      "url": "https://asia.nikkei.com/politics/international-relations/uk-universities-review-china-ties-after-mi5-espionage-alert",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-10-07T04:28:37.607Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_24b2db31",
-      "title": "My doorway to Wall Street: Stephen Schwarzman (7)",
-      "summary": "",
-      "url": "https://asia.nikkei.com/spotlight/my-personal-history/my-doorway-to-wall-street-stephen-schwarzman-7",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-10-07T04:28:37.607Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_8c95fa0a",
-      "title": "Honda delays next-gen CR-V hybrid production several months in US, Canada",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/automobiles/honda-delays-next-gen-cr-v-hybrid-production-several-months-in-us-canada",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-10-07T04:28:37.607Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_3c375aa5",
-      "title": "Tokyo's 37 straight days of rain drive up fresh vegetable prices",
-      "summary": "",
-      "url": "https://asia.nikkei.com/spotlight/environment/climate-change/tokyo-s-37-straight-days-of-rain-drive-up-fresh-vegetable-prices",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-10-07T04:28:37.607Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_d87075dd",
-      "title": "Tokyo Electron poised to log record profit on AI momentum: CFO",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/tech/semiconductors/tokyo-electron-poised-to-log-record-profit-on-ai-momentum-cfo",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-10-07T04:28:37.607Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_c3a169ee",
-      "title": "China's DeepSeek, peers launch 16 AI models in month despite Anthropic warning",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/china-s-deepseek-peers-launch-16-ai-models-in-month-despite-anthropic-warning",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-10-07T04:28:37.607Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_a0122c5f",
-      "title": "Honda, Nissan each team with US AI startup on next-gen vehicle software",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/automobiles/honda-nissan-each-team-with-us-ai-startup-on-next-gen-vehicle-software",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-10-07T04:28:37.607Z",
+      "publishedDate": "2026-10-07T12:42:08.479Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -651,20 +519,152 @@
       "url": "https://asia.nikkei.com/politics/defense/france-showcases-long-range-air-power-to-bolster-indo-pacific-deterrence",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-07T04:28:37.606Z",
+      "publishedDate": "2026-10-07T12:42:08.478Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
     {
-      "id": "a_b83a5c72",
-      "title": "Trump Mobile customers' data dumped - and some never even received their gold device",
-      "summary": "All that glitters …",
-      "url": "https://www.theregister.com/security/2026/10/06/trump-mobile-customers-data-dumped-and-some-never-even-received-their-gold-device/5301433",
-      "sourceName": "The Register - Security",
-      "category": "Security",
-      "publishedDate": "2026-10-06T17:32:25.000Z",
-      "sourcePriority": 3,
-      "relevanceScore": 0.2775
+      "id": "a_df6b2a52",
+      "title": "UK universities review China ties after MI5 espionage alert",
+      "summary": "",
+      "url": "https://asia.nikkei.com/politics/international-relations/uk-universities-review-china-ties-after-mi5-espionage-alert",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-10-07T12:42:08.478Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_24b2db31",
+      "title": "My doorway to Wall Street: Stephen Schwarzman (7)",
+      "summary": "",
+      "url": "https://asia.nikkei.com/spotlight/my-personal-history/my-doorway-to-wall-street-stephen-schwarzman-7",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-10-07T12:42:08.478Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_8c95fa0a",
+      "title": "Honda delays next-gen CR-V hybrid production several months in US, Canada",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/automobiles/honda-delays-next-gen-cr-v-hybrid-production-several-months-in-us-canada",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-10-07T12:42:08.478Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_3c375aa5",
+      "title": "Tokyo's 37 straight days of rain drive up fresh vegetable prices",
+      "summary": "",
+      "url": "https://asia.nikkei.com/spotlight/environment/climate-change/tokyo-s-37-straight-days-of-rain-drive-up-fresh-vegetable-prices",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-10-07T12:42:08.478Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_d87075dd",
+      "title": "Tokyo Electron poised to log record profit on AI momentum: CFO",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/tech/semiconductors/tokyo-electron-poised-to-log-record-profit-on-ai-momentum-cfo",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-10-07T12:42:08.478Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_c3a169ee",
+      "title": "China's DeepSeek, peers launch 16 AI models in month despite Anthropic warning",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/china-s-deepseek-peers-launch-16-ai-models-in-month-despite-anthropic-warning",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-10-07T12:42:08.478Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_a0122c5f",
+      "title": "Honda, Nissan each team with US AI startup on next-gen vehicle software",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/automobiles/honda-nissan-each-team-with-us-ai-startup-on-next-gen-vehicle-software",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-10-07T12:42:08.478Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_8a135309",
+      "title": "HK Express CEO says airline 'firmly on path to turnaround'",
+      "summary": "",
+      "url": "https://asia.nikkei.com/editor-s-picks/interview/hk-express-ceo-says-airline-firmly-on-path-to-turnaround2",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-10-07T12:42:08.478Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_9305969d",
+      "title": "JGB yield rises despite 30-year-high coupon",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/markets/jgb-yield-rises-despite-30-year-high-coupon",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-10-07T12:42:08.478Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_3f02c098",
+      "title": "China's Q3 growth estimated below target at 4.4% despite AI boom",
+      "summary": "",
+      "url": "https://asia.nikkei.com/economy/china-s-q3-growth-estimated-below-target-at-4.4-despite-ai-boom",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-10-07T12:42:08.478Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_967750d6",
+      "title": "Form Energy and its iron batteries",
+      "summary": "Form Energy is building iron-based batteries that can store energy for multiple days. The company is ramping up supply at its factory and signing deals for commercial projects. New solar and wind installations produce electricity more affordably than fossil fuels in most places, ",
+      "url": "https://www.technologyreview.com/2026/10/06/1145020/2026-climate-tech-companies-to-watch-form-energy-iron-batteries/",
+      "sourceName": "MIT Technology Review",
+      "category": "AI",
+      "publishedDate": "2026-10-06T10:35:00.000Z",
+      "sourcePriority": 1,
+      "relevanceScore": 0.2817
+    },
+    {
+      "id": "a_b039baa1",
+      "title": "X-energy and its helium-cooled nuclear reactors",
+      "summary": "X-energy is developing small modular reactors to satisfy some of the planet’s most power-hungry users: industrial manufacturers that need high temperatures to produce billions of tons of concrete, plastics, fibers, and chemicals. Solar panels and wind turbines are great at produc",
+      "url": "https://www.technologyreview.com/2026/10/06/1145025/2026-climate-tech-companies-to-watch-x-energy-helium-cooled-nuclear-reactors/",
+      "sourceName": "MIT Technology Review",
+      "category": "AI",
+      "publishedDate": "2026-10-06T10:35:00.000Z",
+      "sourcePriority": 1,
+      "relevanceScore": 0.2817
+    },
+    {
+      "id": "a_bcbd1e91",
+      "title": "Brimstone and its one-stop process for making cleaner cement and critical minerals",
+      "summary": "Brimstone is making strides on two industrial problems, reducing the emissions from cement and providing a way to produce more critical minerals within the US. If the company can do both, with the same rocks in the same plant, it would unlock a cleaner and more efficient process ",
+      "url": "https://www.technologyreview.com/2026/10/06/1145172/2026-climate-tech-companies-to-watch-brimstone-one-stop-process-making-cleaner-cement-critical-minerals/",
+      "sourceName": "MIT Technology Review",
+      "category": "AI",
+      "publishedDate": "2026-10-06T10:35:00.000Z",
+      "sourcePriority": 1,
+      "relevanceScore": 0.2733
     },
     {
       "id": "a_ffdf8640",
@@ -678,68 +678,13 @@
       "relevanceScore": 0.2708
     },
     {
-      "id": "a_6ecc0a21",
-      "title": "The Download: 10 climate tech companies to watch",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. 10 climate tech companies to watch Each year, MIT Technology Review puts together a list of the most promising climate tech companies in the w",
-      "url": "https://www.technologyreview.com/2026/10/06/1145796/the-download-10-climate-tech-companies-to-watch/",
+      "id": "a_6c1a3157",
+      "title": "Weight-loss drugs show signs of slowing biological aging, say drugmakers",
+      "summary": "Popular weight-loss drugs may do more than help people shed pounds. They might also melt away the years. Drug giants Eli Lilly and Novo Nordisk say patients taking their drugs age less quickly, according to readouts from molecular “aging clocks.” Such clocks assess a person’s bio",
+      "url": "https://www.technologyreview.com/2026/10/06/1145836/weight-loss-drugs-glp1-lilly-novo-aging-clocks/",
       "sourceName": "MIT Technology Review",
       "category": "AI",
-      "publishedDate": "2026-10-06T12:10:00.000Z",
-      "sourcePriority": 1,
-      "relevanceScore": 0.27
-    },
-    {
-      "id": "a_1a88176d",
-      "title": "2026 Climate Tech Companies to Watch",
-      "summary": "",
-      "url": "https://www.technologyreview.com/2026/10/06/1143800/2026-climate-tech-companies-to-watch/",
-      "sourceName": "MIT Technology Review",
-      "category": "AI",
-      "publishedDate": "2026-10-06T10:35:00.000Z",
-      "sourcePriority": 1,
-      "relevanceScore": 0.27
-    },
-    {
-      "id": "a_8baba769",
-      "title": "Here’s how our climate team picked 10 promising companies to watch",
-      "summary": "As the team at MIT Technology Review set out to choose companies for this year’s edition of our annual list of Climate Tech Companies to Watch, the challenge felt more daunting than any year since we started compiling the list in 2023.  This year is shaping up to be one of the ho",
-      "url": "https://www.technologyreview.com/2026/10/06/1144978/2026-climate-tech-companies-to-watch-how-we-chose/",
-      "sourceName": "MIT Technology Review",
-      "category": "AI",
-      "publishedDate": "2026-10-06T10:35:00.000Z",
-      "sourcePriority": 1,
-      "relevanceScore": 0.27
-    },
-    {
-      "id": "a_890a3584",
-      "title": "WeLion New Energy and its semi-solid-state batteries",
-      "summary": "WeLion New Energy is on a quest to make safer, better batteries. The company’s semi-solid-state cells could improve safety and offer greater energy density than lithium-ion batteries to power electric cars, boats, and drones. From the EVs that carry commuters home to the ships th",
-      "url": "https://www.technologyreview.com/2026/10/06/1144987/2026-climate-tech-companies-to-watch-welion-semi-solid-state-batteries/",
-      "sourceName": "MIT Technology Review",
-      "category": "AI",
-      "publishedDate": "2026-10-06T10:35:00.000Z",
-      "sourcePriority": 1,
-      "relevanceScore": 0.27
-    },
-    {
-      "id": "a_e3469234",
-      "title": "Energy Dome and its carbon dioxide batteries",
-      "summary": "There’s a growing need for long-duration storage to meet energy demand and balance out renewables on the grid. Energy Dome uses compressed carbon dioxide gas in its massive grid batteries, which can deliver power for up to 24 hours.  As the world races to meet growing electricity",
-      "url": "https://www.technologyreview.com/2026/10/06/1145032/2026-climate-tech-companies-to-watch-energy-dome-carbon-dioxide-batteries/",
-      "sourceName": "MIT Technology Review",
-      "category": "AI",
-      "publishedDate": "2026-10-06T10:35:00.000Z",
-      "sourcePriority": 1,
-      "relevanceScore": 0.27
-    },
-    {
-      "id": "a_a0321402",
-      "title": "WaveSave and its portable rubber dam",
-      "summary": "As sea levels rise and flood risks worsen due to global warming, WaveSave’s easy-to-erect portable dam offers a quick-response tool. People can use the dam to protect themselves and their property, and it can also store freshwater for later use. Communities in Europe, Africa, and",
-      "url": "https://www.technologyreview.com/2026/10/06/1145208/2026-climate-tech-companies-to-watch-wavesave-portable-rubber-dam/",
-      "sourceName": "MIT Technology Review",
-      "category": "AI",
-      "publishedDate": "2026-10-06T10:35:00.000Z",
+      "publishedDate": "2026-10-06T16:40:36.000Z",
       "sourcePriority": 1,
       "relevanceScore": 0.27
     },
@@ -777,6 +722,17 @@
       "relevanceScore": 0.2583
     },
     {
+      "id": "a_b83a5c72",
+      "title": "Trump Mobile customers' data dumped - and some never even received their gold device",
+      "summary": "All that glitters …",
+      "url": "https://www.theregister.com/security/2026/10/06/trump-mobile-customers-data-dumped-and-some-never-even-received-their-gold-device/5301433",
+      "sourceName": "The Register - Security",
+      "category": "Security",
+      "publishedDate": "2026-10-06T17:32:25.000Z",
+      "sourcePriority": 3,
+      "relevanceScore": 0.255
+    },
+    {
       "id": "a_12ccb6ce",
       "title": "Microsoft extends the Outlook naughty step with two more file types",
       "summary": "You didn't really want to be sending around .msix and .msixbundle files, did you?",
@@ -795,39 +751,6 @@
       "sourceName": "The Register - Security",
       "category": "Security",
       "publishedDate": "2026-10-06T13:00:00.000Z",
-      "sourcePriority": 3,
-      "relevanceScore": 0.255
-    },
-    {
-      "id": "a_85fe970e",
-      "title": "Asos app delivers a data leak threat instead of fast fashion",
-      "summary": "Rogue notification claims Snowflake instance compromised, but customer info theft remains unverified",
-      "url": "https://www.theregister.com/security/2026/10/06/asos-app-delivers-a-data-leak-threat-instead-of-fast-fashion/5301332",
-      "sourceName": "The Register - Security",
-      "category": "Security",
-      "publishedDate": "2026-10-06T11:51:36.000Z",
-      "sourcePriority": 3,
-      "relevanceScore": 0.255
-    },
-    {
-      "id": "a_a31bcfbf",
-      "title": "Denmark's ID register spills more people's details than the country has residents",
-      "summary": "Abuse of private firm's access exposed 8.8M records, including those of people who had died or moved abroad",
-      "url": "https://www.theregister.com/security/2026/10/06/denmarks-id-register-spills-more-peoples-details-than-the-country-has-residents/5301307",
-      "sourceName": "The Register - Security",
-      "category": "Security",
-      "publishedDate": "2026-10-06T11:46:48.000Z",
-      "sourcePriority": 3,
-      "relevanceScore": 0.255
-    },
-    {
-      "id": "a_bd0591fd",
-      "title": "Legacy sign-on service comes back to bite school software provider Bromcom",
-      "summary": "Intruders retrieved email addresses from superseded tech kept running for an internal system",
-      "url": "https://www.theregister.com/security/2026/10/06/legacy-sign-on-service-comes-back-to-bite-school-software-provider-bromcom/5301156",
-      "sourceName": "The Register - Security",
-      "category": "Security",
-      "publishedDate": "2026-10-06T09:30:00.000Z",
       "sourcePriority": 3,
       "relevanceScore": 0.255
     },
@@ -852,6 +775,61 @@
       "publishedDate": "2026-10-01T14:44:00.000Z",
       "sourcePriority": 3,
       "relevanceScore": 0.2542
+    },
+    {
+      "id": "a_6ecc0a21",
+      "title": "The Download: 10 climate tech companies to watch",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. 10 climate tech companies to watch Each year, MIT Technology Review puts together a list of the most promising climate tech companies in the w",
+      "url": "https://www.technologyreview.com/2026/10/06/1145796/the-download-10-climate-tech-companies-to-watch/",
+      "sourceName": "MIT Technology Review",
+      "category": "AI",
+      "publishedDate": "2026-10-06T12:10:00.000Z",
+      "sourcePriority": 1,
+      "relevanceScore": 0.24
+    },
+    {
+      "id": "a_1a88176d",
+      "title": "2026 Climate Tech Companies to Watch",
+      "summary": "",
+      "url": "https://www.technologyreview.com/2026/10/06/1143800/2026-climate-tech-companies-to-watch/",
+      "sourceName": "MIT Technology Review",
+      "category": "AI",
+      "publishedDate": "2026-10-06T10:35:00.000Z",
+      "sourcePriority": 1,
+      "relevanceScore": 0.24
+    },
+    {
+      "id": "a_8baba769",
+      "title": "Here’s how our climate team picked 10 promising companies to watch",
+      "summary": "As the team at MIT Technology Review set out to choose companies for this year’s edition of our annual list of Climate Tech Companies to Watch, the challenge felt more daunting than any year since we started compiling the list in 2023.  This year is shaping up to be one of the ho",
+      "url": "https://www.technologyreview.com/2026/10/06/1144978/2026-climate-tech-companies-to-watch-how-we-chose/",
+      "sourceName": "MIT Technology Review",
+      "category": "AI",
+      "publishedDate": "2026-10-06T10:35:00.000Z",
+      "sourcePriority": 1,
+      "relevanceScore": 0.24
+    },
+    {
+      "id": "a_890a3584",
+      "title": "WeLion New Energy and its semi-solid-state batteries",
+      "summary": "WeLion New Energy is on a quest to make safer, better batteries. The company’s semi-solid-state cells could improve safety and offer greater energy density than lithium-ion batteries to power electric cars, boats, and drones. From the EVs that carry commuters home to the ships th",
+      "url": "https://www.technologyreview.com/2026/10/06/1144987/2026-climate-tech-companies-to-watch-welion-semi-solid-state-batteries/",
+      "sourceName": "MIT Technology Review",
+      "category": "AI",
+      "publishedDate": "2026-10-06T10:35:00.000Z",
+      "sourcePriority": 1,
+      "relevanceScore": 0.24
+    },
+    {
+      "id": "a_e3469234",
+      "title": "Energy Dome and its carbon dioxide batteries",
+      "summary": "There’s a growing need for long-duration storage to meet energy demand and balance out renewables on the grid. Energy Dome uses compressed carbon dioxide gas in its massive grid batteries, which can deliver power for up to 24 hours.  As the world races to meet growing electricity",
+      "url": "https://www.technologyreview.com/2026/10/06/1145032/2026-climate-tech-companies-to-watch-energy-dome-carbon-dioxide-batteries/",
+      "sourceName": "MIT Technology Review",
+      "category": "AI",
+      "publishedDate": "2026-10-06T10:35:00.000Z",
+      "sourcePriority": 1,
+      "relevanceScore": 0.24
     },
     {
       "id": "a_5ffebbbb",
@@ -918,6 +896,39 @@
       "publishedDate": "2026-09-30T21:36:00.000Z",
       "sourcePriority": 3,
       "relevanceScore": 0.2292
+    },
+    {
+      "id": "a_85fe970e",
+      "title": "Asos app delivers a data leak threat instead of fast fashion",
+      "summary": "Rogue notification claims Snowflake instance compromised, but customer info theft remains unverified",
+      "url": "https://www.theregister.com/security/2026/10/06/asos-app-delivers-a-data-leak-threat-instead-of-fast-fashion/5301332",
+      "sourceName": "The Register - Security",
+      "category": "Security",
+      "publishedDate": "2026-10-06T11:51:36.000Z",
+      "sourcePriority": 3,
+      "relevanceScore": 0.225
+    },
+    {
+      "id": "a_a31bcfbf",
+      "title": "Denmark's ID register spills more people's details than the country has residents",
+      "summary": "Abuse of private firm's access exposed 8.8M records, including those of people who had died or moved abroad",
+      "url": "https://www.theregister.com/security/2026/10/06/denmarks-id-register-spills-more-peoples-details-than-the-country-has-residents/5301307",
+      "sourceName": "The Register - Security",
+      "category": "Security",
+      "publishedDate": "2026-10-06T11:46:48.000Z",
+      "sourcePriority": 3,
+      "relevanceScore": 0.225
+    },
+    {
+      "id": "a_bd0591fd",
+      "title": "Legacy sign-on service comes back to bite school software provider Bromcom",
+      "summary": "Intruders retrieved email addresses from superseded tech kept running for an internal system",
+      "url": "https://www.theregister.com/security/2026/10/06/legacy-sign-on-service-comes-back-to-bite-school-software-provider-bromcom/5301156",
+      "sourceName": "The Register - Security",
+      "category": "Security",
+      "publishedDate": "2026-10-06T09:30:00.000Z",
+      "sourcePriority": 3,
+      "relevanceScore": 0.225
     },
     {
       "id": "a_b4e9fa2f",
@@ -1096,6 +1107,17 @@
       "relevanceScore": 0.1875
     },
     {
+      "id": "a_d07c5425",
+      "title": "Bitget blames North Korea for $387.5M crypto wallet raid",
+      "summary": "Familiar fingerprints point to Kim’s regime … to the surprise of nobody",
+      "url": "https://www.theregister.com/cyber-crime/2026/09/25/bitget-blames-north-korea-for-3875m-crypto-wallet-raid/5299218",
+      "sourceName": "The Register - Security",
+      "category": "Security",
+      "publishedDate": "2026-09-25T17:04:07.000Z",
+      "sourcePriority": 3,
+      "relevanceScore": 0.1825
+    },
+    {
       "id": "a_30757978",
       "title": "More than half of UK businesses lack confidence in basic cyber skills",
       "summary": "Government survey puts the figure at 808k, says detecting and removing malware most common weakness",
@@ -1104,7 +1126,7 @@
       "category": "Security",
       "publishedDate": "2026-09-30T10:04:53.000Z",
       "sourcePriority": 3,
-      "relevanceScore": 0.1875
+      "relevanceScore": 0.1575
     },
     {
       "id": "a_69be2b4",
@@ -1115,7 +1137,7 @@
       "category": "Security",
       "publishedDate": "2026-09-30T08:30:00.000Z",
       "sourcePriority": 3,
-      "relevanceScore": 0.1875
+      "relevanceScore": 0.1575
     },
     {
       "id": "a_b8d1214",
@@ -1126,18 +1148,7 @@
       "category": "Security",
       "publishedDate": "2026-09-30T07:01:00.000Z",
       "sourcePriority": 3,
-      "relevanceScore": 0.1875
-    },
-    {
-      "id": "a_d07c5425",
-      "title": "Bitget blames North Korea for $387.5M crypto wallet raid",
-      "summary": "Familiar fingerprints point to Kim’s regime … to the surprise of nobody",
-      "url": "https://www.theregister.com/cyber-crime/2026/09/25/bitget-blames-north-korea-for-3875m-crypto-wallet-raid/5299218",
-      "sourceName": "The Register - Security",
-      "category": "Security",
-      "publishedDate": "2026-09-25T17:04:07.000Z",
-      "sourcePriority": 3,
-      "relevanceScore": 0.1825
+      "relevanceScore": 0.1575
     },
     {
       "id": "a_4c23aec2",
@@ -1202,17 +1213,6 @@
       "sourceName": "The Register - Security",
       "category": "Security",
       "publishedDate": "2026-09-25T15:00:00.000Z",
-      "sourcePriority": 3,
-      "relevanceScore": 0.1575
-    },
-    {
-      "id": "a_910ae06a",
-      "title": "Crook used three open source agents to break into a Fortune 500 hospitality company, a major US airline and 25+ other orgs",
-      "summary": "Operator’s AI bill averaged just $25 per completed scan",
-      "url": "https://www.theregister.com/security/2026/09/25/crook-used-three-open-source-agents-to-break-into-a-fortune-500-hospitality-company-a-major-us-airline-and-25-other-orgs/5299012",
-      "sourceName": "The Register - Security",
-      "category": "Security",
-      "publishedDate": "2026-09-24T23:32:15.000Z",
       "sourcePriority": 3,
       "relevanceScore": 0.1575
     }
