@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T20:08:17.259Z",
+  "generatedAt": "2026-10-19T03:23:13.564Z",
   "timeBudgetMinutes": {
     "daily": 10,
     "weekly": 45
@@ -13,9 +13,20 @@
       "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/anthropic-co-founder-backs-common-sense-standards-for-ai-regulation",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-18T20:08:16.803Z",
+      "publishedDate": "2026-10-19T03:23:12.914Z",
       "sourcePriority": 2,
       "relevanceScore": 0.36
+    },
+    {
+      "id": "a_e439fbc0",
+      "title": "Linux KVM guest-host escape rated critical, may represent a new way to attack penguin-powered networking",
+      "summary": "Party like it’s CVE-2026-99999 – a 9.3-rated nasty called PwnEscape",
+      "url": "https://www.theregister.com/virtualization/2026/10/19/linux-kvm-guest-host-escape-rated-critical-may-represent-a-new-way-to-attack-penguin-powered-networking/5303744",
+      "sourceName": "The Register - Security",
+      "category": "Security",
+      "publishedDate": "2026-10-19T00:33:00.000Z",
+      "sourcePriority": 3,
+      "relevanceScore": 0.3442
     },
     {
       "id": "a_7f2b8336",
@@ -24,7 +35,7 @@
       "url": "https://asia.nikkei.com/spotlight/supply-chain/optical-parts-maker-to-triple-malaysian-capacity-to-tackle-ai-supply-crunch",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-18T20:08:16.803Z",
+      "publishedDate": "2026-10-19T03:23:12.914Z",
       "sourcePriority": 2,
       "relevanceScore": 0.335
     },
@@ -35,31 +46,20 @@
       "url": "https://asia.nikkei.com/politics/international-relations/japan-to-allow-taiwan-as-place-of-origin-in-some-national-records",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-18T20:08:16.801Z",
+      "publishedDate": "2026-10-19T03:23:12.913Z",
       "sourcePriority": 2,
       "relevanceScore": 0.335
     },
     {
-      "id": "a_64579e6d",
-      "title": "IMF warns global food security worsening amid El Nino",
+      "id": "a_47faff32",
+      "title": "Taiwan, Philippines kindle maritime cooperation in face of Chinese pressure",
       "summary": "",
-      "url": "https://asia.nikkei.com/spotlight/environment/climate-change/imf-warns-global-food-security-worsening-amid-el-nino",
+      "url": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/taiwan-philippines-kindle-maritime-cooperation-in-face-of-chinese-pressure",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-18T20:08:16.803Z",
+      "publishedDate": "2026-10-19T03:23:12.912Z",
       "sourcePriority": 2,
-      "relevanceScore": 0.3267
-    },
-    {
-      "id": "a_68f31cb5",
-      "title": "Intel chief says White House will not meddle in its semiconductor business",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/tech/semiconductors/intel-chief-says-white-house-will-not-meddle-in-its-semiconductor-business",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-10-18T20:08:16.802Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.3267
+      "relevanceScore": 0.335
     },
     {
       "id": "a_4ea9a8fa",
@@ -68,7 +68,7 @@
       "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/calpers-other-institutional-investors-step-up-scrutiny-of-ai-governance",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-18T20:08:16.802Z",
+      "publishedDate": "2026-10-19T03:23:12.914Z",
       "sourcePriority": 2,
       "relevanceScore": 0.3267
     },
@@ -79,7 +79,18 @@
       "url": "https://asia.nikkei.com/opinion/takaichi-s-diy-governance-could-be-her-achilles-heel",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-18T20:08:16.801Z",
+      "publishedDate": "2026-10-19T03:23:12.913Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.3267
+    },
+    {
+      "id": "a_68f31cb5",
+      "title": "Intel chief says White House will not meddle in its semiconductor business",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/tech/semiconductors/intel-chief-says-white-house-will-not-meddle-in-its-semiconductor-business",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-10-19T03:23:12.913Z",
       "sourcePriority": 2,
       "relevanceScore": 0.3267
     },
@@ -90,141 +101,9 @@
       "url": "https://asia.nikkei.com/opinion/asian-countries-should-consider-sanctions-on-the-houthis",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-18T20:08:16.803Z",
+      "publishedDate": "2026-10-19T03:23:12.914Z",
       "sourcePriority": 2,
       "relevanceScore": 0.3183
-    },
-    {
-      "id": "a_53e1a114",
-      "title": "Japan's Toho Gas to generate solar power in US with Texas investment",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/energy/japan-s-toho-gas-to-generate-solar-power-in-us-with-texas-investment",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-10-18T20:08:16.803Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_6a2ff04a",
-      "title": "Indonesia stocks post largest drop in 28 years after MSCI warns of downgrade",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/markets/indonesia-stocks-post-largest-drop-in-28-years-after-msci-warns-of-downgrade",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-10-18T20:08:16.803Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_82b4a60e",
-      "title": "Japan bullet trains to raise super express fares in 2027",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/transportation/japan-bullet-trains-to-raise-super-express-fares-in-2027",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-10-18T20:08:16.803Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_ccd2a5a7",
-      "title": "Chinese tech companies strive to crack Japan market despite tensions",
-      "summary": "",
-      "url": "https://asia.nikkei.com/politics/international-relations/japan-china-tensions/chinese-tech-companies-strive-to-crack-japan-market-despite-tensions",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-10-18T20:08:16.803Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_6fcf8eaa",
-      "title": "China's BYD turns to local assembler in Malaysia after shelving plant plan",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/automobiles/electric-vehicles/china-s-byd-turns-to-local-assembler-in-malaysia-after-shelving-plant-plan",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-10-18T20:08:16.803Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_98b9947d",
-      "title": "Australian lithium miner PLS green-lights expansion",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/markets/commodities/australian-lithium-miner-pls-green-lights-expansion",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-10-18T20:08:16.803Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_f0b30ac5",
-      "title": "Through the Lens: China opens biggest gateway to Korean Peninsula in 80 years",
-      "summary": "",
-      "url": "https://asia.nikkei.com/photos/through-the-lens-china-opens-biggest-gateway-to-korean-peninsula-in-80-years",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-10-18T20:08:16.803Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_696be444",
-      "title": "Vietnam weighs barring foreign purchases of houses",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/markets/property/vietnam-weighs-barring-foreign-purchases-of-houses",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-10-18T20:08:16.803Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_bf51422c",
-      "title": "Japan to prohibit untraced gold exports, clamping down on tax evasion",
-      "summary": "",
-      "url": "https://asia.nikkei.com/economy/trade/japan-to-prohibit-untraced-gold-exports-clamping-down-on-tax-evasion",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-10-18T20:08:16.802Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_d8a386f9",
-      "title": "Japan set to move forward with Bangladesh's first economic pact",
-      "summary": "",
-      "url": "https://asia.nikkei.com/economy/trade/japan-set-to-move-forward-with-bangladesh-s-first-economic-pact",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-10-18T20:08:16.802Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_14f383ed",
-      "title": "Taiwan bulks up on protein-packed bentos as obesity rates rise",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/food-beverage/taiwan-bulks-up-on-protein-packed-bentos-as-obesity-rates-rise",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-10-18T20:08:16.802Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_f65d806",
-      "title": "Delhi crackdown fosters Gen Z defenders of Indian democracy",
-      "summary": "",
-      "url": "https://asia.nikkei.com/politics/delhi-crackdown-fosters-gen-z-defenders-of-indian-democracy",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-10-18T20:08:16.802Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
     },
     {
       "id": "a_18e1ec3c",
@@ -233,7 +112,7 @@
       "url": "https://asia.nikkei.com/business/transportation/japan-s-sumitomo-hankyu-to-test-philippine-power-saving-rail-system",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-18T20:08:16.802Z",
+      "publishedDate": "2026-10-19T03:23:12.914Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -244,7 +123,7 @@
       "url": "https://asia.nikkei.com/spotlight/big-in-asia/south-korea-s-cj-cgv-is-putting-motion-back-into-motion-pictures",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-18T20:08:16.802Z",
+      "publishedDate": "2026-10-19T03:23:12.914Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -255,7 +134,7 @@
       "url": "https://asia.nikkei.com/politics/international-relations/japan-s-icc-rift-with-us-limits-options-in-handling-china-russia-pressure",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-18T20:08:16.802Z",
+      "publishedDate": "2026-10-19T03:23:12.914Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -266,7 +145,73 @@
       "url": "https://asia.nikkei.com/spotlight/cybersecurity/japan-s-power-grid-at-risk-to-hackers-through-100m-home-devices",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-18T20:08:16.802Z",
+      "publishedDate": "2026-10-19T03:23:12.914Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_53e1a114",
+      "title": "Japan's Toho Gas to generate solar power in US with Texas investment",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/energy/japan-s-toho-gas-to-generate-solar-power-in-us-with-texas-investment",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-10-19T03:23:12.914Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_6a2ff04a",
+      "title": "Indonesia stocks post largest drop in 28 years after MSCI warns of downgrade",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/markets/indonesia-stocks-post-largest-drop-in-28-years-after-msci-warns-of-downgrade",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-10-19T03:23:12.914Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_82b4a60e",
+      "title": "Japan bullet trains to raise super express fares in 2027",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/transportation/japan-bullet-trains-to-raise-super-express-fares-in-2027",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-10-19T03:23:12.914Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_ccd2a5a7",
+      "title": "Chinese tech companies strive to crack Japan market despite tensions",
+      "summary": "",
+      "url": "https://asia.nikkei.com/politics/international-relations/japan-china-tensions/chinese-tech-companies-strive-to-crack-japan-market-despite-tensions",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-10-19T03:23:12.914Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_8ecb3ada",
+      "title": "Japan's regional banks log record growth in property lending",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/finance/japan-s-regional-banks-log-record-growth-in-property-lending",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-10-19T03:23:12.913Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_bacf0e4d",
+      "title": "Japan's investors gear up for 23-hour US trading",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/markets/trading-asia/japan-s-investors-gear-up-for-23-hour-us-trading",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-10-19T03:23:12.913Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -277,7 +222,7 @@
       "url": "https://asia.nikkei.com/business/aerospace-defense-industries/mitsubishi-heavy-to-revive-shipbuilding-line-for-japan-resupply-vessel",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-18T20:08:16.801Z",
+      "publishedDate": "2026-10-19T03:23:12.913Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -288,7 +233,62 @@
       "url": "https://asia.nikkei.com/business/markets/property/australian-home-prices-tumble-as-tax-rules-rate-hikes-bite",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-18T20:08:16.801Z",
+      "publishedDate": "2026-10-19T03:23:12.913Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_bf51422c",
+      "title": "Japan to prohibit untraced gold exports, clamping down on tax evasion",
+      "summary": "",
+      "url": "https://asia.nikkei.com/economy/trade/japan-to-prohibit-untraced-gold-exports-clamping-down-on-tax-evasion",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-10-19T03:23:12.913Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_d8a386f9",
+      "title": "Japan set to move forward with Bangladesh's first economic pact",
+      "summary": "",
+      "url": "https://asia.nikkei.com/economy/trade/japan-set-to-move-forward-with-bangladesh-s-first-economic-pact",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-10-19T03:23:12.913Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_14f383ed",
+      "title": "Taiwan bulks up on protein-packed bentos as obesity rates rise",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/food-beverage/taiwan-bulks-up-on-protein-packed-bentos-as-obesity-rates-rise",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-10-19T03:23:12.913Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_f65d806",
+      "title": "Delhi crackdown fosters Gen Z defenders of Indian democracy",
+      "summary": "",
+      "url": "https://asia.nikkei.com/politics/delhi-crackdown-fosters-gen-z-defenders-of-indian-democracy",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-10-19T03:23:12.913Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_e75d506d",
+      "title": "Russia wants something in return for Japan journalist, ex-detainee says",
+      "summary": "",
+      "url": "https://asia.nikkei.com/editor-s-picks/interview/russia-wants-something-in-return-for-japan-journalist-ex-detainee-says",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-10-19T03:23:12.912Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -315,167 +315,13 @@
       "relevanceScore": 0.3
     },
     {
-      "id": "a_1679176a",
-      "title": "China's DeepSeek hit by 5-hour AI service outage",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/china-s-deepseek-hit-by-5-hour-ai-service-outage",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-10-18T20:08:16.803Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_3473eaa3",
-      "title": "BOJ's Ueda says inflation can't be allowed to rise further",
-      "summary": "",
-      "url": "https://asia.nikkei.com/economy/bank-of-japan/boj-s-ueda-says-inflation-can-t-be-allowed-to-rise-further",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-10-18T20:08:16.803Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_227b3a1a",
-      "title": "GCash parent prices Philippine IPO at record $966m",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/markets/ipo/gcash-parent-prices-philippine-ipo-at-record-966m",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-10-18T20:08:16.803Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_fda6989d",
-      "title": "China to add AI, biopharma and solar tech to export control list",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/china-to-add-ai-biopharma-and-solar-tech-to-export-control-list",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-10-18T20:08:16.803Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_8556254f",
-      "title": "Fed's Warsh warns of financial stability risk as investment rises",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/markets/fed-s-warsh-warns-of-financial-stability-risk-as-investment-rises",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-10-18T20:08:16.803Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_f15c3a0f",
-      "title": "Editor's Choice: In divided world, Western schools bring classrooms closer to Asian students",
-      "summary": "",
-      "url": "https://asia.nikkei.com/editor-s-picks/editor-in-chief-s-picks/editor-s-choice-in-divided-world-western-schools-bring-classrooms-closer-to-asian-students",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-10-18T20:08:16.803Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_21922646",
-      "title": "Robot dolls, chip shortages and Apple's soft sales",
-      "summary": "",
-      "url": "https://asia.nikkei.com/techasia/robot-dolls-chip-shortages-and-apple-s-soft-sales2",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-10-18T20:08:16.803Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_d886eff3",
-      "title": "Pakistan companies move into lithium battery assembly with China partners",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/business-trends/pakistan-companies-move-into-lithium-battery-assembly-with-china-partners",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-10-18T20:08:16.803Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_8883e3c",
-      "title": "China's Canton Fair showcases tech push as trade frictions persist",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/business-trends/china-s-canton-fair-showcases-tech-push-as-trade-frictions-persist",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-10-18T20:08:16.803Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_6a02b334",
-      "title": "The Entrepreneurial Spirit: Stephen Schwarzman (17)",
-      "summary": "",
-      "url": "https://asia.nikkei.com/spotlight/my-personal-history/the-entrepreneurial-spirit-stephen-schwarzman-17",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-10-18T20:08:16.802Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_8b814d34",
-      "title": "US and China must ensure AI dialogue is more than just hot air",
-      "summary": "",
-      "url": "https://asia.nikkei.com/opinion/us-and-china-must-ensure-ai-dialogue-is-more-than-just-hot-air",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-10-18T20:08:16.802Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_e238f3cc",
-      "title": "Toyota to build next-gen Corolla in China from 2028",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/automobiles/toyota-to-build-next-gen-corolla-in-china-from-2028",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-10-18T20:08:16.802Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_87ea0c7b",
-      "title": "Saudi finance minister says Middle East economies divided by crisis",
-      "summary": "",
-      "url": "https://asia.nikkei.com/economy/saudi-finance-minister-says-middle-east-economies-divided-by-crisis",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-10-18T20:08:16.802Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_c5481837",
-      "title": "Southeast Asia caught amid competing US and Chinese AI blocs",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/southeast-asia-caught-amid-competing-us-and-chinese-ai-blocs",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-10-18T20:08:16.802Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
       "id": "a_74f3cbe8",
       "title": "Mr. Abe: Stephen Schwarzman (16)",
       "summary": "",
       "url": "https://asia.nikkei.com/spotlight/my-personal-history/mr.-abe-stephen-schwarzman-16",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-18T20:08:16.802Z",
+      "publishedDate": "2026-10-19T03:23:12.914Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -486,7 +332,7 @@
       "url": "https://asia.nikkei.com/business/electronics/sony-walkman-is-coming-back-pricier-but-with-better-sound-quality",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-18T20:08:16.802Z",
+      "publishedDate": "2026-10-19T03:23:12.914Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -497,7 +343,7 @@
       "url": "https://asia.nikkei.com/editor-s-picks/interview/us-has-full-confidence-in-takaichi-s-fiscal-discipline-treasury-official",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-18T20:08:16.802Z",
+      "publishedDate": "2026-10-19T03:23:12.914Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -508,7 +354,7 @@
       "url": "https://asia.nikkei.com/economy/trade/eu-seeks-faster-china-de-risking-with-new-diversification-tool",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-18T20:08:16.802Z",
+      "publishedDate": "2026-10-19T03:23:12.914Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -519,7 +365,73 @@
       "url": "https://asia.nikkei.com/business/automobiles/toyota-to-turn-all-50-models-into-software-defined-vehicles-by-2030",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-18T20:08:16.802Z",
+      "publishedDate": "2026-10-19T03:23:12.914Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_1679176a",
+      "title": "China's DeepSeek hit by 5-hour AI service outage",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/china-s-deepseek-hit-by-5-hour-ai-service-outage",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-10-19T03:23:12.914Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_3473eaa3",
+      "title": "BOJ's Ueda says inflation can't be allowed to rise further",
+      "summary": "",
+      "url": "https://asia.nikkei.com/economy/bank-of-japan/boj-s-ueda-says-inflation-can-t-be-allowed-to-rise-further",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-10-19T03:23:12.914Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_227b3a1a",
+      "title": "GCash parent prices Philippine IPO at record $966m",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/markets/ipo/gcash-parent-prices-philippine-ipo-at-record-966m",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-10-19T03:23:12.914Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_fda6989d",
+      "title": "China to add AI, biopharma and solar tech to export control list",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/china-to-add-ai-biopharma-and-solar-tech-to-export-control-list",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-10-19T03:23:12.914Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_8556254f",
+      "title": "Fed's Warsh warns of financial stability risk as investment rises",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/markets/fed-s-warsh-warns-of-financial-stability-risk-as-investment-rises",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-10-19T03:23:12.914Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_f15c3a0f",
+      "title": "Editor's Choice: In divided world, Western schools bring classrooms closer to Asian students",
+      "summary": "",
+      "url": "https://asia.nikkei.com/editor-s-picks/editor-in-chief-s-picks/editor-s-choice-in-divided-world-western-schools-bring-classrooms-closer-to-asian-students",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-10-19T03:23:12.914Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -530,7 +442,7 @@
       "url": "https://asia.nikkei.com/business/automobiles/subaru-to-launch-software-defined-vehicles-in-late-2020s",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-18T20:08:16.801Z",
+      "publishedDate": "2026-10-19T03:23:12.913Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -541,7 +453,7 @@
       "url": "https://asia.nikkei.com/spotlight/comment/the-us-china-grand-bargain-remains-out-of-reach",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-18T20:08:16.801Z",
+      "publishedDate": "2026-10-19T03:23:12.913Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -552,7 +464,7 @@
       "url": "https://asia.nikkei.com/economy/ai-climate-and-private-capital-reveal-asia-s-diverging-fortunes",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-18T20:08:16.801Z",
+      "publishedDate": "2026-10-19T03:23:12.913Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -563,7 +475,7 @@
       "url": "https://asia.nikkei.com/editor-s-picks/interview/ai-and-us-china-rivalry-put-universities-to-the-test-vanderbilt-head",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-18T20:08:16.801Z",
+      "publishedDate": "2026-10-19T03:23:12.913Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -574,7 +486,106 @@
       "url": "https://asia.nikkei.com/life-arts/life/destinations/on-the-ganges-the-river-sets-the-itinerary",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-18T20:08:16.801Z",
+      "publishedDate": "2026-10-19T03:23:12.913Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_6a02b334",
+      "title": "The Entrepreneurial Spirit: Stephen Schwarzman (17)",
+      "summary": "",
+      "url": "https://asia.nikkei.com/spotlight/my-personal-history/the-entrepreneurial-spirit-stephen-schwarzman-17",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-10-19T03:23:12.913Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_8b814d34",
+      "title": "US and China must ensure AI dialogue is more than just hot air",
+      "summary": "",
+      "url": "https://asia.nikkei.com/opinion/us-and-china-must-ensure-ai-dialogue-is-more-than-just-hot-air",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-10-19T03:23:12.913Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_e238f3cc",
+      "title": "Toyota to build next-gen Corolla in China from 2028",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/automobiles/toyota-to-build-next-gen-corolla-in-china-from-2028",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-10-19T03:23:12.913Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_87ea0c7b",
+      "title": "Saudi finance minister says Middle East economies divided by crisis",
+      "summary": "",
+      "url": "https://asia.nikkei.com/economy/saudi-finance-minister-says-middle-east-economies-divided-by-crisis",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-10-19T03:23:12.913Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_c5481837",
+      "title": "Southeast Asia caught amid competing US and Chinese AI blocs",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/southeast-asia-caught-amid-competing-us-and-chinese-ai-blocs",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-10-19T03:23:12.913Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_9528b27f",
+      "title": "China's Q3 GDP narrowly beats forecasts as strong exports buoy growth",
+      "summary": "",
+      "url": "https://asia.nikkei.com/economy/china-s-q3-gdp-narrowly-beats-forecasts-as-strong-exports-buoy-growth",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-10-19T03:23:12.912Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_80fc714b",
+      "title": "Oasis may seek extraordinary general meeting to revamp Nidec board",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/companies/oasis-may-seek-extraordinary-general-meeting-to-revamp-nidec-board",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-10-19T03:23:12.912Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_c7e20a",
+      "title": "Flooding tests Ho Chi Minh City's growth ambitions",
+      "summary": "",
+      "url": "https://asia.nikkei.com/economy/natural-disasters/flooding-tests-ho-chi-minh-city-s-growth-ambitions",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-10-19T03:23:12.912Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_c9dd7395",
+      "title": "Edgcomb: Stephen Schwarzman (18)",
+      "summary": "",
+      "url": "https://asia.nikkei.com/spotlight/my-personal-history/edgcomb-stephen-schwarzman-18",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-10-19T03:23:12.912Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -1202,17 +1213,6 @@
       "sourceName": "The Register - Security",
       "category": "Security",
       "publishedDate": "2026-10-06T15:06:00.000Z",
-      "sourcePriority": 3,
-      "relevanceScore": 0.1575
-    },
-    {
-      "id": "a_6ecfc749",
-      "title": "Zombie instructions on carefully constructed web pages could trick GitHub Copilot CLI into sharing secrets",
-      "summary": "Run the CLI in autopilot mode and take your chances",
-      "url": "https://www.theregister.com/ai-and-ml/2026/10/06/zombie-instructions-on-carefully-constructed-web-pages-could-trick-github-copilot-cli-into-sharing-secrets/5301206",
-      "sourceName": "The Register - Security",
-      "category": "Security",
-      "publishedDate": "2026-10-06T13:00:00.000Z",
       "sourcePriority": 3,
       "relevanceScore": 0.1575
     }
