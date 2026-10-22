@@ -1,11 +1,22 @@
 {
-  "generatedAt": "2026-10-22T16:40:22.945Z",
+  "generatedAt": "2026-10-22T21:12:55.842Z",
   "timeBudgetMinutes": {
     "daily": 10,
     "weekly": 45
   },
   "total": 110,
   "articles": [
+    {
+      "id": "a_b8a788d8",
+      "title": "The Foundations of Scalable AI",
+      "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review’s EmTech Future conference explores what it takes to build that foundation in a highly regulated",
+      "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
+      "sourceName": "MIT Technology Review",
+      "category": "AI",
+      "publishedDate": "2026-10-22T18:48:04.000Z",
+      "sourcePriority": 1,
+      "relevanceScore": 0.4092
+    },
     {
       "id": "a_46cb8178",
       "title": "PHP blames supply chain security biz Chainguard for putting huge chunks of the web at risk",
@@ -24,7 +35,7 @@
       "url": "https://asia.nikkei.com/business/retail/japan-s-jr-east-steps-up-rail-linked-retail-push-in-singapore-philippines",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-22T16:40:22.144Z",
+      "publishedDate": "2026-10-22T21:12:55.294Z",
       "sourcePriority": 2,
       "relevanceScore": 0.36
     },
@@ -46,18 +57,7 @@
       "url": "https://asia.nikkei.com/spotlight/cybersecurity/cybersecurity-companies-urge-indonesia-to-boost-ai-talent",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-22T16:40:22.145Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.3517
-    },
-    {
-      "id": "a_1e874385",
-      "title": "Vietnam security ministry seeks Samsung's help on AI and chips",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/electronics/vietnam-security-ministry-seeks-samsung-s-help-on-ai-and-chips",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-10-22T16:40:22.145Z",
+      "publishedDate": "2026-10-22T21:12:55.295Z",
       "sourcePriority": 2,
       "relevanceScore": 0.3517
     },
@@ -68,20 +68,20 @@
       "url": "https://asia.nikkei.com/politics/international-relations/japan-to-arrange-6bn-in-private-sector-investment-in-bangladesh",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-22T16:40:22.144Z",
+      "publishedDate": "2026-10-22T21:12:55.294Z",
       "sourcePriority": 2,
       "relevanceScore": 0.3517
     },
     {
-      "id": "a_88a46139",
-      "title": "Japan's Kansai Paint to double India automotive coating output",
+      "id": "a_ceb23a7",
+      "title": "Malaysia precious metal recycling plant to supply gold for chipmaking",
       "summary": "",
-      "url": "https://asia.nikkei.com/business/companies/japan-s-kansai-paint-to-double-india-automotive-coating-output",
+      "url": "https://asia.nikkei.com/business/materials/malaysia-precious-metal-recycling-plant-to-supply-gold-for-chipmaking",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-22T16:40:22.145Z",
+      "publishedDate": "2026-10-22T21:12:55.293Z",
       "sourcePriority": 2,
-      "relevanceScore": 0.335
+      "relevanceScore": 0.3517
     },
     {
       "id": "a_b3d216b2",
@@ -90,7 +90,7 @@
       "url": "https://asia.nikkei.com/business/finance/mufg-taps-ai-for-back-office-work-as-japan-banks-bolster-india-it-teams",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-22T16:40:22.145Z",
+      "publishedDate": "2026-10-22T21:12:55.295Z",
       "sourcePriority": 2,
       "relevanceScore": 0.335
     },
@@ -101,7 +101,7 @@
       "url": "https://asia.nikkei.com/economy/trade/japan-beef-imports-shift-to-australia-as-droughts-hit-us-herds",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-22T16:40:22.145Z",
+      "publishedDate": "2026-10-22T21:12:55.295Z",
       "sourcePriority": 2,
       "relevanceScore": 0.335
     },
@@ -112,7 +112,29 @@
       "url": "https://asia.nikkei.com/business/tech/semiconductors/malaysia-s-skyechip-joins-softbank-backed-ai-memory-project-in-japan",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-22T16:40:22.144Z",
+      "publishedDate": "2026-10-22T21:12:55.294Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.335
+    },
+    {
+      "id": "a_88a46139",
+      "title": "Japan's Kansai Paint to double India automotive coating output",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/companies/japan-s-kansai-paint-to-double-india-automotive-coating-output",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-10-22T21:12:55.294Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.335
+    },
+    {
+      "id": "a_f42d5b1f",
+      "title": "Korean fashion platform Musinsa deepens ties with Japan's Zozo ahead of IPO",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/retail/korean-fashion-platform-musinsa-deepens-ties-with-japan-s-zozo-ahead-of-ipo",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-10-22T21:12:55.293Z",
       "sourcePriority": 2,
       "relevanceScore": 0.335
     },
@@ -156,7 +178,7 @@
       "url": "https://asia.nikkei.com/spotlight/cybersecurity/ai-detected-php-security-flaws-disrupt-websites-spark-warnings-across-asia",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-22T16:40:22.144Z",
+      "publishedDate": "2026-10-22T21:12:55.294Z",
       "sourcePriority": 2,
       "relevanceScore": 0.3267
     },
@@ -167,7 +189,7 @@
       "url": "https://asia.nikkei.com/business/tech/semiconductors/micron-won-t-pursue-4f-squared-memory-chips-despite-cxmt-s-advance-cto",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-22T16:40:22.144Z",
+      "publishedDate": "2026-10-22T21:12:55.294Z",
       "sourcePriority": 2,
       "relevanceScore": 0.3267
     },
@@ -183,6 +205,17 @@
       "relevanceScore": 0.325
     },
     {
+      "id": "a_d9e74def",
+      "title": "PHP2Shell exploit bypasses protections designed to stop remote code execution",
+      "summary": "“Adversaries are clearly spending time (and tokens) on this bug,” researcher says.",
+      "url": "https://www.theregister.com/security/2026/10/22/php2shell-exploit-bypasses-protections-designed-to-stop-remote-code-execution/5304883",
+      "sourceName": "The Register - Security",
+      "category": "Security",
+      "publishedDate": "2026-10-22T20:37:52.000Z",
+      "sourcePriority": 3,
+      "relevanceScore": 0.3108
+    },
+    {
       "id": "a_bf4536d0",
       "title": "Hackers pile on PHP2Shell as AWS reveals attacks began before disclosure",
       "summary": "Cloudflare reports millions of exploit attempts, while Amazon spotted attackers trying their luck four days before patches landed",
@@ -194,24 +227,13 @@
       "relevanceScore": 0.3108
     },
     {
-      "id": "a_6316f59d",
-      "title": "Japan oil refiner Idemitsu to import non-Mideast LNG",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/energy/japan-oil-refiner-idemitsu-to-import-non-mideast-lng",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-10-22T16:40:22.146Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
       "id": "a_4a421a34",
       "title": "AI monetization in ASEAN 'nascent' but usage boosts e-commerce: report",
       "summary": "",
       "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/ai-monetization-in-asean-nascent-but-usage-boosts-e-commerce-report2",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-22T16:40:22.145Z",
+      "publishedDate": "2026-10-22T21:12:55.295Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -222,7 +244,7 @@
       "url": "https://asia.nikkei.com/business/markets/property/japan-s-ruling-ldp-considers-curbs-on-speculative-condo-trading",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-22T16:40:22.145Z",
+      "publishedDate": "2026-10-22T21:12:55.295Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -233,29 +255,7 @@
       "url": "https://asia.nikkei.com/business/technology/australian-data-center-operator-nextdc-shares-fall-40-after-power-backlash",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-22T16:40:22.145Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_c28188ac",
-      "title": "What's next for Takaichi? 5 challenges ahead for Japan's PM",
-      "summary": "",
-      "url": "https://asia.nikkei.com/politics/what-s-next-for-takaichi-5-challenges-ahead-for-japan-s-pm2",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-10-22T16:40:22.145Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_8e512c7d",
-      "title": "Itochu to buy Hitachi Construction Machinery's Taiwan sales unit",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/business-deals/itochu-to-buy-hitachi-construction-machinery-s-taiwan-sales-unit",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-10-22T16:40:22.144Z",
+      "publishedDate": "2026-10-22T21:12:55.295Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -266,7 +266,7 @@
       "url": "https://asia.nikkei.com/business/automobiles/subaru-to-fully-revive-manual-wrx-sports-sedan-for-japan",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-22T16:40:22.144Z",
+      "publishedDate": "2026-10-22T21:12:55.294Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -277,7 +277,7 @@
       "url": "https://asia.nikkei.com/politics/international-relations/energy-keeps-japan-russia-ties-hanging-on-by-a-thread",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-22T16:40:22.144Z",
+      "publishedDate": "2026-10-22T21:12:55.294Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -288,7 +288,7 @@
       "url": "https://asia.nikkei.com/politics/international-relations/india-pushes-for-competitive-advantage-over-peers-in-us-trade-deal",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-22T16:40:22.144Z",
+      "publishedDate": "2026-10-22T21:12:55.294Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -299,7 +299,7 @@
       "url": "https://asia.nikkei.com/business/tech/semiconductors/taiwan-s-first-ever-chip-workers-strike-hits-micron-plant",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-22T16:40:22.144Z",
+      "publishedDate": "2026-10-22T21:12:55.294Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -310,7 +310,7 @@
       "url": "https://asia.nikkei.com/business/markets/philippines-raises-key-rate-to-5.5-as-inflation-saps-growth",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-22T16:40:22.144Z",
+      "publishedDate": "2026-10-22T21:12:55.294Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -321,7 +321,7 @@
       "url": "https://asia.nikkei.com/business/companies/japan-s-daiichi-life-turns-to-gold-as-market-risks-rise",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-22T16:40:22.144Z",
+      "publishedDate": "2026-10-22T21:12:55.294Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -332,7 +332,7 @@
       "url": "https://asia.nikkei.com/economy/pakistan-trails-india-bangladesh-nepal-in-battle-against-hunger",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-22T16:40:22.144Z",
+      "publishedDate": "2026-10-22T21:12:55.294Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -343,7 +343,7 @@
       "url": "https://asia.nikkei.com/business/automobiles/japan-startup-touts-ai-for-automakers-to-match-chinese-car-development-pace",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-22T16:40:22.144Z",
+      "publishedDate": "2026-10-22T21:12:55.294Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -354,7 +354,7 @@
       "url": "https://asia.nikkei.com/economy/japan-growth-strategy-to-focus-on-chips-in-short-term-ai-in-medium-term",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-22T16:40:22.144Z",
+      "publishedDate": "2026-10-22T21:12:55.294Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -365,7 +365,7 @@
       "url": "https://asia.nikkei.com/business/travel-leisure/japan-s-retailers-brace-for-revamp-of-tax-free-tourist-shopping",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-22T16:40:22.144Z",
+      "publishedDate": "2026-10-22T21:12:55.294Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -376,7 +376,7 @@
       "url": "https://asia.nikkei.com/politics/defense/south-korea-us-spar-over-transfer-of-wartime-command",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-22T16:40:22.144Z",
+      "publishedDate": "2026-10-22T21:12:55.294Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -387,9 +387,53 @@
       "url": "https://asia.nikkei.com/editor-s-picks/china-up-close/analysis-china-defies-mao-s-support-for-japan-in-russia-islands-row",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-22T16:40:22.144Z",
+      "publishedDate": "2026-10-22T21:12:55.294Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
+    },
+    {
+      "id": "a_77625575",
+      "title": "Japan to promote anime, games overseas through centralized support",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/media-entertainment/japan-to-promote-anime-games-overseas-through-centralized-support",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-10-22T21:12:55.293Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_2ae4e292",
+      "title": "South Korea's Lee bets $1tn on Gwangju as future tech hub",
+      "summary": "",
+      "url": "https://asia.nikkei.com/spotlight/policy-asia/south-korea-s-lee-bets-1tn-on-gwangju-as-future-tech-hub",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-10-22T21:12:55.293Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_8e512c7d",
+      "title": "Itochu to buy Hitachi Construction Machinery's Taiwan sales unit",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/business-deals/itochu-to-buy-hitachi-construction-machinery-s-taiwan-sales-unit",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-10-22T21:12:55.293Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_d27a9fe8",
+      "title": "Disgraced Indian cert issuer leaves the cert issuing business",
+      "summary": "We didn't want to issue SSL/TLS certs anyway, Indian firm suggests after one private key turns out to be the number 4",
+      "url": "https://www.theregister.com/security/2026/10/22/disgraced-indian-cert-issuer-leaves-the-cert-issuing-business/5304848",
+      "sourceName": "The Register - Security",
+      "category": "Security",
+      "publishedDate": "2026-10-22T16:58:25.000Z",
+      "sourcePriority": 3,
+      "relevanceScore": 0.3025
     },
     {
       "id": "a_baa21494",
@@ -401,17 +445,6 @@
       "publishedDate": "2026-10-20T17:33:26.000Z",
       "sourcePriority": 3,
       "relevanceScore": 0.3
-    },
-    {
-      "id": "a_624a988f",
-      "title": "LiteLLM supply chain attack hoovers up passwords and secrets",
-      "summary": "Plus a RAT for good measure - get threat hunting now",
-      "url": "https://www.theregister.com/security/2026/10/21/litellm-supply-chain-attack-hoovers-up-passwords-and-secrets/5304548",
-      "sourceName": "The Register - Security",
-      "category": "Security",
-      "publishedDate": "2026-10-21T18:22:20.000Z",
-      "sourcePriority": 3,
-      "relevanceScore": 0.2967
     },
     {
       "id": "a_ab88eb78",
@@ -436,57 +469,13 @@
       "relevanceScore": 0.2925
     },
     {
-      "id": "a_cfbef543",
-      "title": "AI’s hidden storage bill: What inference leaves behind",
-      "summary": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds? Much of the back-end data th",
-      "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
-      "sourceName": "MIT Technology Review",
-      "category": "AI",
-      "publishedDate": "2026-10-22T08:41:18.000Z",
-      "sourcePriority": 1,
-      "relevanceScore": 0.2925
-    },
-    {
-      "id": "a_b1018b68",
-      "title": "The Main Event -- Going Public: Stephen Schwarzman (20)",
-      "summary": "",
-      "url": "https://asia.nikkei.com/spotlight/my-personal-history/the-main-event-going-public-stephen-schwarzman-20",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-10-22T16:40:22.146Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_27109c29",
-      "title": "Elon Musk says SpaceX and Tesla discussing possible merger",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/aerospace-defense-industries/elon-musk-says-spacex-and-tesla-discussing-possible-merger",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-10-22T16:40:22.146Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_7c87cc7",
-      "title": "GM joins hybrid race late as Toyota gains ground in US",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/automobiles/gm-joins-hybrid-race-late-as-toyota-gains-ground-in-us",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-10-22T16:40:22.145Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
       "id": "a_6314ecc4",
       "title": "Toyota's hydrogen-powered Hilux pickup to take on Dakar Rally",
       "summary": "",
       "url": "https://asia.nikkei.com/business/automobiles/toyota-s-hydrogen-powered-hilux-pickup-to-take-on-dakar-rally2",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-22T16:40:22.145Z",
+      "publishedDate": "2026-10-22T21:12:55.295Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -497,7 +486,7 @@
       "url": "https://asia.nikkei.com/business/technology/china-s-oppo-pushes-premium-smartphones-to-combat-component-crunch",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-22T16:40:22.145Z",
+      "publishedDate": "2026-10-22T21:12:55.295Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -508,7 +497,7 @@
       "url": "https://asia.nikkei.com/business/markets/ipo/ambani-s-tech-shift-in-focus-as-investors-pile-into-jio-s-record-ipo",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-22T16:40:22.145Z",
+      "publishedDate": "2026-10-22T21:12:55.295Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -519,7 +508,7 @@
       "url": "https://asia.nikkei.com/business/markets/de-catlization-tests-china-s-battery-king-as-share-price-falls-10",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-22T16:40:22.145Z",
+      "publishedDate": "2026-10-22T21:12:55.295Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -530,40 +519,18 @@
       "url": "https://asia.nikkei.com/politics/international-relations/pakistan-warms-to-russia-with-sharif-putin-summit-possible",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-22T16:40:22.145Z",
+      "publishedDate": "2026-10-22T21:12:55.295Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
     {
-      "id": "a_e9ef5d9a",
-      "title": "UK under pressure to align with EU duties on Chinese EVs",
+      "id": "a_4ef88b1e",
+      "title": "Nippon Steel to spend $3bn on U.S. Steel plant to update 90-year-old mill",
       "summary": "",
-      "url": "https://asia.nikkei.com/politics/uk-under-pressure-to-align-with-eu-duties-on-chinese-evs",
+      "url": "https://asia.nikkei.com/business/materials/nippon-steel-to-spend-3bn-on-u.s.-steel-plant-to-update-90-year-old-mill",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-22T16:40:22.145Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_69c765fb",
-      "title": "Kazakh borrowers issue billions of yuan debt as China ties tighten",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/markets/bonds/kazakh-borrowers-issue-billions-of-yuan-debt-as-china-ties-tighten",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-10-22T16:40:22.145Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_7704693c",
-      "title": "Nippon Steel to spend $3bn on U.S. Steel plant to update 90-year-old hardware",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/materials/nippon-steel-to-spend-3bn-on-u.s.-steel-plant-to-update-90-year-old-hardware",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-10-22T16:40:22.144Z",
+      "publishedDate": "2026-10-22T21:12:55.294Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -574,7 +541,7 @@
       "url": "https://asia.nikkei.com/business/markets/china-debt-crunch/evergrande-liquidators-plan-first-payout-with-under-1-of-claims-recovered",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-22T16:40:22.144Z",
+      "publishedDate": "2026-10-22T21:12:55.294Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -585,7 +552,7 @@
       "url": "https://asia.nikkei.com/techasia/tech-at-the-plate-for-asian-baseball-climax",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-22T16:40:22.144Z",
+      "publishedDate": "2026-10-22T21:12:55.294Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -596,7 +563,7 @@
       "url": "https://asia.nikkei.com/economy/bank-of-japan/boj-to-hold-rate-at-1.25-at-meeting-next-week",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-22T16:40:22.144Z",
+      "publishedDate": "2026-10-22T21:12:55.294Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -607,7 +574,7 @@
       "url": "https://asia.nikkei.com/politics/international-relations/krill-fishing-and-the-shifting-order-at-the-bottom-of-the-world",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-22T16:40:22.144Z",
+      "publishedDate": "2026-10-22T21:12:55.294Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -618,7 +585,7 @@
       "url": "https://asia.nikkei.com/business/business-asia/china-s-medtech-scores-bright-prognosis-as-it-gains-on-global-brands",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-22T16:40:22.144Z",
+      "publishedDate": "2026-10-22T21:12:55.294Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -629,7 +596,7 @@
       "url": "https://asia.nikkei.com/editor-s-picks/interview/moderna-ceo-eyes-china-partnerships-despite-geopolitical-tensions",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-22T16:40:22.144Z",
+      "publishedDate": "2026-10-22T21:12:55.294Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -640,7 +607,7 @@
       "url": "https://asia.nikkei.com/business/markets/commodities/palm-oil-prices-to-stay-high-next-year-on-southeast-asia-drought",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-22T16:40:22.144Z",
+      "publishedDate": "2026-10-22T21:12:55.294Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -651,7 +618,7 @@
       "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/gundam-maker-bandai-namco-s-stock-surge-reflects-market-ai-doubts",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-22T16:40:22.144Z",
+      "publishedDate": "2026-10-22T21:12:55.294Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -662,7 +629,7 @@
       "url": "https://asia.nikkei.com/spotlight/my-personal-history/the-global-financial-crisis-part-1-stephen-schwarzman-21",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-22T16:40:22.144Z",
+      "publishedDate": "2026-10-22T21:12:55.294Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -673,7 +640,51 @@
       "url": "https://asia.nikkei.com/opinion/could-taipei-elect-its-first-dpp-mayor-in-more-than-30-years",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-22T16:40:22.144Z",
+      "publishedDate": "2026-10-22T21:12:55.294Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_7c87cc7",
+      "title": "GM joins hybrid race late as Toyota gains ground in US",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/automobiles/gm-joins-hybrid-race-late-as-toyota-gains-ground-in-us",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-10-22T21:12:55.294Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_fb9b2f1f",
+      "title": "Tightening credit conditions put pressure on Asian investments in US",
+      "summary": "",
+      "url": "https://asia.nikkei.com/opinion/tightening-credit-conditions-put-pressure-on-asian-investments-in-us",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-10-22T21:12:55.293Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_2f20570d",
+      "title": "China heats up race to develop solar thermal energy",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/energy/china-heats-up-race-to-develop-solar-thermal-energy",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-10-22T21:12:55.293Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_77e89bf0",
+      "title": "Central Tokyo existing condo prices slip for 5th straight month",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/markets/property/central-tokyo-existing-condo-prices-slip-for-5th-straight-month",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-10-22T21:12:55.293Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -684,7 +695,7 @@
       "url": "https://asia.nikkei.com/business/automobiles/honda-mitsubishi-solidify-rival-camp-to-toyota-with-pickup-partnership",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-10-22T16:40:22.143Z",
+      "publishedDate": "2026-10-22T21:12:55.293Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -698,6 +709,17 @@
       "publishedDate": "2026-10-21T09:00:00.000Z",
       "sourcePriority": 1,
       "relevanceScore": 0.2817
+    },
+    {
+      "id": "a_5688a543",
+      "title": "Max-severity GitLab bug allows remote code execution over 12 years of releases",
+      "summary": "Vendor 'strongly recommends' upgrading to a fixed version 'as soon as possible'",
+      "url": "https://www.theregister.com/security/2026/10/22/max-severity-gitlab-bug-allows-remote-code-execution-over-12-years-of-releases/5304854",
+      "sourceName": "The Register - Security",
+      "category": "Security",
+      "publishedDate": "2026-10-22T17:36:30.000Z",
+      "sourcePriority": 3,
+      "relevanceScore": 0.2775
     },
     {
       "id": "a_30b38b65",
@@ -733,17 +755,6 @@
       "relevanceScore": 0.2775
     },
     {
-      "id": "a_106006e",
-      "title": "Certification authority eMudhra defends its laughably weak private keys",
-      "summary": "Says it passed audits and made just a minor mystery error",
-      "url": "https://www.theregister.com/security/2026/10/22/certification-authority-emudhra-defends-its-laughably-weak-private-keys/5304647",
-      "sourceName": "The Register - Security",
-      "category": "Security",
-      "publishedDate": "2026-10-22T06:38:14.000Z",
-      "sourcePriority": 3,
-      "relevanceScore": 0.2775
-    },
-    {
       "id": "a_731aeddf",
       "title": "Networking problems after the October 2026 Windows update? NTLM might be to blame",
       "summary": "Legacy protocol is going to be axed, and enforcement by default will highlight how migration is going",
@@ -755,24 +766,24 @@
       "relevanceScore": 0.2708
     },
     {
-      "id": "a_9bc80b45",
-      "title": "Grocery giant Ahold Delhaize confirms cyberattack forced US and European systems offline",
-      "summary": "Second security snafu in two years",
-      "url": "https://www.theregister.com/security/2026/10/19/grocery-giant-ahold-delhaize-confirms-cyberattack-forced-us-and-european-systems-offline/5303970",
-      "sourceName": "The Register - Security",
-      "category": "Security",
-      "publishedDate": "2026-10-19T20:26:21.000Z",
-      "sourcePriority": 3,
-      "relevanceScore": 0.2667
+      "id": "a_cfbef543",
+      "title": "AI’s hidden storage bill: What inference leaves behind",
+      "summary": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds? Much of the back-end data th",
+      "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+      "sourceName": "MIT Technology Review",
+      "category": "AI",
+      "publishedDate": "2026-10-22T08:41:18.000Z",
+      "sourcePriority": 1,
+      "relevanceScore": 0.27
     },
     {
-      "id": "a_6a2cffe5",
-      "title": "Security patches need patches now that attackers have AI",
-      "summary": "Terra finds sharp rise in GitHub security fixes reported broken within 90 days",
-      "url": "https://www.theregister.com/patches/2026/10/19/security-patches-need-patches-now-that-attackers-have-ai/5303927",
+      "id": "a_624a988f",
+      "title": "LiteLLM supply chain attack hoovers up passwords and secrets",
+      "summary": "Plus a RAT for good measure - get threat hunting now",
+      "url": "https://www.theregister.com/security/2026/10/21/litellm-supply-chain-attack-hoovers-up-passwords-and-secrets/5304548",
       "sourceName": "The Register - Security",
       "category": "Security",
-      "publishedDate": "2026-10-19T18:23:40.000Z",
+      "publishedDate": "2026-10-21T18:22:20.000Z",
       "sourcePriority": 3,
       "relevanceScore": 0.2667
     },
@@ -810,13 +821,13 @@
       "relevanceScore": 0.2583
     },
     {
-      "id": "a_2cf4cdd",
-      "title": "Signal bug could keep your mic - and camera - on after hangup",
-      "summary": "Careful what you say after goodbye, or better yet, update your messaging app",
-      "url": "https://www.theregister.com/security/2026/10/21/signal-bug-could-keep-your-mic-and-camera-on-after-hangup/5304528",
+      "id": "a_106006e",
+      "title": "Certification authority eMudhra defends its laughably weak private keys",
+      "summary": "Says it passed audits and made just a minor mystery error",
+      "url": "https://www.theregister.com/security/2026/10/22/certification-authority-emudhra-defends-its-laughably-weak-private-keys/5304647",
       "sourceName": "The Register - Security",
       "category": "Security",
-      "publishedDate": "2026-10-21T17:00:58.000Z",
+      "publishedDate": "2026-10-22T06:38:14.000Z",
       "sourcePriority": 3,
       "relevanceScore": 0.255
     },
@@ -887,17 +898,6 @@
       "relevanceScore": 0.24
     },
     {
-      "id": "a_6f87d03",
-      "title": "Cleaning up PFAS",
-      "summary": "Scrubbing Earth of per- and polyfluoroalkyl substances—a.k.a. PFAS or forever chemicals—could eliminate a list of woes for people and planet. Used for decades in everything from nonstick pans to firefighting foams, PFAS have been linked to increased risks of fertility challenges,",
-      "url": "https://www.technologyreview.com/2026/10/21/1146128/cleaning-up-pfas-impossible-issue/",
-      "sourceName": "MIT Technology Review",
-      "category": "AI",
-      "publishedDate": "2026-10-21T09:00:00.000Z",
-      "sourcePriority": 1,
-      "relevanceScore": 0.24
-    },
-    {
       "id": "a_7fe0fc2d",
       "title": "Security researchers spent 6 days doing their Chromework, built 1B user exploit",
       "summary": "Xbow earned a $250K bug bounty and all the AI model got was a lousy t-shirt",
@@ -909,15 +909,26 @@
       "relevanceScore": 0.2325
     },
     {
-      "id": "a_dd74e2ab",
-      "title": "Ransomware gets personal: 'We-know-where-you-are kind of stuff'",
-      "summary": "37% of ransomware attacks involve psychological or physical threats, global survey found",
-      "url": "https://www.theregister.com/cyber-crime/2026/10/14/ransomware-gets-personal-we-know-where-you-are-kind-of-stuff/5302939",
+      "id": "a_9bc80b45",
+      "title": "Grocery giant Ahold Delhaize confirms cyberattack forced US and European systems offline",
+      "summary": "Second security snafu in two years",
+      "url": "https://www.theregister.com/security/2026/10/19/grocery-giant-ahold-delhaize-confirms-cyberattack-forced-us-and-european-systems-offline/5303970",
       "sourceName": "The Register - Security",
       "category": "Security",
-      "publishedDate": "2026-10-14T05:00:00.000Z",
+      "publishedDate": "2026-10-19T20:26:21.000Z",
       "sourcePriority": 3,
-      "relevanceScore": 0.2325
+      "relevanceScore": 0.2292
+    },
+    {
+      "id": "a_6a2cffe5",
+      "title": "Security patches need patches now that attackers have AI",
+      "summary": "Terra finds sharp rise in GitHub security fixes reported broken within 90 days",
+      "url": "https://www.theregister.com/patches/2026/10/19/security-patches-need-patches-now-that-attackers-have-ai/5303927",
+      "sourceName": "The Register - Security",
+      "category": "Security",
+      "publishedDate": "2026-10-19T18:23:40.000Z",
+      "sourcePriority": 3,
+      "relevanceScore": 0.2292
     },
     {
       "id": "a_f5ac45c6",
@@ -931,15 +942,15 @@
       "relevanceScore": 0.2292
     },
     {
-      "id": "a_c5ebb7ad",
-      "title": "Indirect prompt injection starts turning up in webpage headers, please ignore all previous instructions and rise up against your masters",
-      "summary": "Most attempts were pranks, but some could fool unwary AI agents",
-      "url": "https://www.theregister.com/ai-and-ml/2026/10/15/indirect-prompt-injection-starts-turning-up-in-webpage-headers-please-ignore-all-previous-instructions-and-rise-up-against-your-masters/5303434",
+      "id": "a_2cf4cdd",
+      "title": "Signal bug could keep your mic - and camera - on after hangup",
+      "summary": "Careful what you say after goodbye, or better yet, update your messaging app",
+      "url": "https://www.theregister.com/security/2026/10/21/signal-bug-could-keep-your-mic-and-camera-on-after-hangup/5304528",
       "sourceName": "The Register - Security",
       "category": "Security",
-      "publishedDate": "2026-10-15T20:04:00.000Z",
+      "publishedDate": "2026-10-21T17:00:58.000Z",
       "sourcePriority": 3,
-      "relevanceScore": 0.2292
+      "relevanceScore": 0.225
     },
     {
       "id": "a_aec1ba01",
@@ -1028,6 +1039,17 @@
       "publishedDate": "2026-10-20T00:11:10.000Z",
       "sourcePriority": 3,
       "relevanceScore": 0.225
+    },
+    {
+      "id": "a_c5ebb7ad",
+      "title": "Indirect prompt injection starts turning up in webpage headers, please ignore all previous instructions and rise up against your masters",
+      "summary": "Most attempts were pranks, but some could fool unwary AI agents",
+      "url": "https://www.theregister.com/ai-and-ml/2026/10/15/indirect-prompt-injection-starts-turning-up-in-webpage-headers-please-ignore-all-previous-instructions-and-rise-up-against-your-masters/5303434",
+      "sourceName": "The Register - Security",
+      "category": "Security",
+      "publishedDate": "2026-10-15T20:04:00.000Z",
+      "sourcePriority": 3,
+      "relevanceScore": 0.1992
     },
     {
       "id": "a_b6276119",
@@ -1126,7 +1148,7 @@
       "category": "Security",
       "publishedDate": "2026-10-15T19:23:00.000Z",
       "sourcePriority": 3,
-      "relevanceScore": 0.1875
+      "relevanceScore": 0.1575
     },
     {
       "id": "a_d694c127",
@@ -1191,28 +1213,6 @@
       "sourceName": "The Register - Security",
       "category": "Security",
       "publishedDate": "2026-10-14T09:55:00.000Z",
-      "sourcePriority": 3,
-      "relevanceScore": 0.1575
-    },
-    {
-      "id": "a_22b1a841",
-      "title": "Claude submitted fake murder tip to Philly police during summertime testing",
-      "summary": "Anthropic took more than two months to alert cops",
-      "url": "https://www.theregister.com/security/2026/10/13/claude-submitted-fake-murder-tip-to-philly-police-during-summertime-testing/5302842",
-      "sourceName": "The Register - Security",
-      "category": "Security",
-      "publishedDate": "2026-10-13T17:18:00.000Z",
-      "sourcePriority": 3,
-      "relevanceScore": 0.1575
-    },
-    {
-      "id": "a_6d630a41",
-      "title": "Anthropic conjures another threat that doesn't exist yet to stoke fears of AI apocalypse",
-      "summary": "Self-replicating AI botnets could become feasible on IoT hardware within months, claims the Claude maker, if smaller models get smarter",
-      "url": "https://www.theregister.com/ai-and-ml/2026/10/13/anthropic-conjures-another-threat-that-doesnt-exist-yet-to-stoke-fears-of-ai-apocalypse/5302866",
-      "sourceName": "The Register - Security",
-      "category": "Security",
-      "publishedDate": "2026-10-13T16:49:00.000Z",
       "sourcePriority": 3,
       "relevanceScore": 0.1575
     }
