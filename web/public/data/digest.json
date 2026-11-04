@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T04:56:49.622Z",
+  "generatedAt": "2026-11-04T13:48:59.314Z",
   "timeBudgetMinutes": {
     "daily": 10,
     "weekly": 45
@@ -7,26 +7,26 @@
   "total": 110,
   "articles": [
     {
-      "id": "a_7af64e31",
-      "title": "Britain on notice: AI-powered ransomware attacks to arrive by 2028",
-      "summary": "Cyber agency warns critical infrastructure is a likely target as chief urges bosses to stop doing 'tech on the cheap'",
-      "url": "https://www.theregister.com/security/2026/11/03/britain-on-notice-ai-powered-ransomware-attacks-to-arrive-by-2028/5307200",
-      "sourceName": "The Register - Security",
-      "category": "Security",
-      "publishedDate": "2026-11-03T12:39:25.000Z",
-      "sourcePriority": 3,
-      "relevanceScore": 0.3633
+      "id": "a_4eb3f895",
+      "title": "Securing the agentic enterprise with data lineage",
+      "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal fo",
+      "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+      "sourceName": "MIT Technology Review",
+      "category": "AI",
+      "publishedDate": "2026-11-04T13:00:00.000Z",
+      "sourcePriority": 1,
+      "relevanceScore": 0.4508
     },
     {
-      "id": "a_f870dc7e",
-      "title": "AI policy wonks declare 'sovereign agents' a threat to civilization",
-      "summary": "These are AI agents that operate outside of human control and 'pursue open-ended, evolving survival'",
-      "url": "https://www.theregister.com/security/2026/11/03/ai-policy-wonks-declare-sovereign-agents-a-threat-to-civilization/5307354",
-      "sourceName": "The Register - Security",
-      "category": "Security",
-      "publishedDate": "2026-11-03T19:33:01.000Z",
-      "sourcePriority": 3,
-      "relevanceScore": 0.3608
+      "id": "a_68ee7af5",
+      "title": "The Download: blended meat, restored sight, and the agentic web",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. These startups hope “blended” food will cut our appetite for red meat  In the fall of 2025, Jeff Dodge served hungry students steaming marinar",
+      "url": "https://www.technologyreview.com/2026/11/04/1148001/the-download-blended-meat-sight-restoring-implant-agentic-web/",
+      "sourceName": "MIT Technology Review",
+      "category": "AI",
+      "publishedDate": "2026-11-04T13:10:00.000Z",
+      "sourcePriority": 1,
+      "relevanceScore": 0.3675
     },
     {
       "id": "a_b7cf0d27",
@@ -46,7 +46,7 @@
       "url": "https://asia.nikkei.com/spotlight/cybersecurity/japan-regional-banks-form-united-front-on-cybersecurity2",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-11-04T04:56:49.390Z",
+      "publishedDate": "2026-11-04T13:48:58.816Z",
       "sourcePriority": 2,
       "relevanceScore": 0.3517
     },
@@ -73,35 +73,24 @@
       "relevanceScore": 0.3483
     },
     {
-      "id": "a_6b31b195",
-      "title": "North Korean fake job interview led to $6.3B Binance heist",
-      "summary": "'It was not a single isolated breach or a simple phishing incident,' exchange says",
-      "url": "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398",
+      "id": "a_f870dc7e",
+      "title": "AI policy wonks declare 'sovereign agents' a threat to civilization",
+      "summary": "These are AI agents that operate outside of human control and 'pursue open-ended, evolving survival'",
+      "url": "https://www.theregister.com/security/2026/11/03/ai-policy-wonks-declare-sovereign-agents-a-threat-to-civilization/5307354",
       "sourceName": "The Register - Security",
       "category": "Security",
-      "publishedDate": "2026-11-03T22:04:45.000Z",
+      "publishedDate": "2026-11-03T19:33:01.000Z",
       "sourcePriority": 3,
-      "relevanceScore": 0.3358
+      "relevanceScore": 0.3383
     },
     {
-      "id": "a_2df6d03a",
-      "title": "Taiwan and Japan eye trade deal akin to Taipei-London pact, sources say",
+      "id": "a_df8bc954",
+      "title": "China's cable-cutting threat reaches Taiwan and the Philippines",
       "summary": "",
-      "url": "https://asia.nikkei.com/economy/trade/taiwan-and-japan-eye-trade-deal-akin-to-taipei-london-pact-sources-say",
+      "url": "https://asia.nikkei.com/opinion/china-s-cable-cutting-threat-reaches-taiwan-and-the-philippines",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-11-04T04:56:49.394Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.335
-    },
-    {
-      "id": "a_90207768",
-      "title": "EU steps up subsea cable buildout to Japan and South Korea",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/telecommunication/eu-steps-up-subsea-cable-buildout-to-japan-and-south-korea",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-11-04T04:56:49.394Z",
+      "publishedDate": "2026-11-04T13:48:58.816Z",
       "sourcePriority": 2,
       "relevanceScore": 0.335
     },
@@ -112,31 +101,42 @@
       "url": "https://asia.nikkei.com/business/startups/singapore-s-insignia-ventures-backs-rural-japan-for-davos-inspired-academy",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-11-04T04:56:49.391Z",
+      "publishedDate": "2026-11-04T13:48:58.816Z",
       "sourcePriority": 2,
       "relevanceScore": 0.335
     },
     {
-      "id": "a_df8bc954",
-      "title": "China's cable-cutting threat reaches Taiwan and the Philippines",
+      "id": "a_2df6d03a",
+      "title": "Taiwan and Japan eye trade deal akin to Taipei-London pact, sources say",
       "summary": "",
-      "url": "https://asia.nikkei.com/opinion/china-s-cable-cutting-threat-reaches-taiwan-and-the-philippines",
+      "url": "https://asia.nikkei.com/economy/trade/taiwan-and-japan-eye-trade-deal-akin-to-taipei-london-pact-sources-say",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-11-04T04:56:49.390Z",
+      "publishedDate": "2026-11-04T13:48:58.816Z",
       "sourcePriority": 2,
       "relevanceScore": 0.335
     },
     {
-      "id": "a_2038a415",
-      "title": "Japan, South Korea stocks fall over 4% as Democrats lead in US midterms",
+      "id": "a_90207768",
+      "title": "EU steps up subsea cable buildout to Japan and South Korea",
       "summary": "",
-      "url": "https://asia.nikkei.com/business/markets/japan-south-korea-stocks-fall-over-4-as-democrats-lead-in-us-midterms",
+      "url": "https://asia.nikkei.com/business/telecommunication/eu-steps-up-subsea-cable-buildout-to-japan-and-south-korea",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-11-04T04:56:49.389Z",
+      "publishedDate": "2026-11-04T13:48:58.816Z",
       "sourcePriority": 2,
       "relevanceScore": 0.335
+    },
+    {
+      "id": "a_7af64e31",
+      "title": "Britain on notice: AI-powered ransomware attacks to arrive by 2028",
+      "summary": "Cyber agency warns critical infrastructure is a likely target as chief urges bosses to stop doing 'tech on the cheap'",
+      "url": "https://www.theregister.com/security/2026/11/03/britain-on-notice-ai-powered-ransomware-attacks-to-arrive-by-2028/5307200",
+      "sourceName": "The Register - Security",
+      "category": "Security",
+      "publishedDate": "2026-11-03T12:39:25.000Z",
+      "sourcePriority": 3,
+      "relevanceScore": 0.3333
     },
     {
       "id": "a_8a2611d7",
@@ -145,194 +145,40 @@
       "url": "https://asia.nikkei.com/spotlight/esg/bangladesh-garment-factories-become-second-schools-for-women",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-11-04T04:56:49.390Z",
+      "publishedDate": "2026-11-04T13:48:58.816Z",
       "sourcePriority": 2,
       "relevanceScore": 0.3267
     },
     {
-      "id": "a_16686cae",
-      "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How “reverse game theory” could keep AI agents in check A new approach known as “reverse game theory” aims to control powerful AI models by de",
-      "url": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
-      "sourceName": "MIT Technology Review",
-      "category": "AI",
-      "publishedDate": "2026-11-03T13:10:00.000Z",
-      "sourcePriority": 1,
-      "relevanceScore": 0.3117
-    },
-    {
-      "id": "a_d367ad0b",
-      "title": "How “reverse game theory” could keep AI agents in check",
-      "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in ",
-      "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
-      "sourceName": "MIT Technology Review",
-      "category": "AI",
-      "publishedDate": "2026-11-03T10:43:41.000Z",
-      "sourcePriority": 1,
-      "relevanceScore": 0.3117
-    },
-    {
-      "id": "a_144d07c0",
-      "title": "Japan's Don Quijote drops refund fees for tourists to boost spending",
+      "id": "a_4bb0c87b",
+      "title": "US midterms live: Trump says Democrat victories not a 'hit on me'",
       "summary": "",
-      "url": "https://asia.nikkei.com/business/travel-leisure/japan-s-don-quijote-drops-refund-fees-for-tourists-to-boost-spending",
+      "url": "https://asia.nikkei.com/politics/u.s.-midterm-elections/us-midterms-live-trump-says-democrat-victories-not-a-hit-on-me",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-11-04T04:56:49.394Z",
+      "publishedDate": "2026-11-04T13:48:58.815Z",
       "sourcePriority": 2,
-      "relevanceScore": 0.31
+      "relevanceScore": 0.3267
     },
     {
-      "id": "a_7ab988a",
-      "title": "Vietnam solar success prompts rethink of power pricing",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/energy/vietnam-solar-success-prompts-rethink-of-power-pricing",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-11-04T04:56:49.394Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
+      "id": "a_6b31b195",
+      "title": "North Korean fake job interview led to $6.3B Binance heist",
+      "summary": "'It was not a single isolated breach or a simple phishing incident,' exchange says",
+      "url": "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398",
+      "sourceName": "The Register - Security",
+      "category": "Security",
+      "publishedDate": "2026-11-03T22:04:45.000Z",
+      "sourcePriority": 3,
+      "relevanceScore": 0.3133
     },
     {
-      "id": "a_30e5b2f5",
-      "title": "Global legal body opens Hong Kong office, boosts city's law hub push",
+      "id": "a_5fa75bfa",
+      "title": "Petrovietnam CEO sees a future of nuclear and wind power",
       "summary": "",
-      "url": "https://asia.nikkei.com/politics/international-relations/global-legal-body-opens-hong-kong-office-boosts-city-s-law-hub-push",
+      "url": "https://asia.nikkei.com/business/energy/petrovietnam-ceo-sees-a-future-of-nuclear-and-wind-power",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-11-04T04:56:49.394Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_ecfed6dd",
-      "title": "Will Japanese insurers bring money home? 5 things to know",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/markets/bonds/will-japanese-insurers-bring-money-home-5-things-to-know",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-11-04T04:56:49.394Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_26475043",
-      "title": "Japan weighs standards for self-driving cars without steering wheels",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/automobiles/japan-weighs-standards-for-self-driving-cars-without-steering-wheels",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-11-04T04:56:49.393Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_87a416f3",
-      "title": "Japan's SBI to invest in US digital bank Erebor, eyeing blockchain settlements",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/finance/japan-s-sbi-to-invest-in-us-digital-bank-erebor-eyeing-blockchain-settlements",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-11-04T04:56:49.393Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_7fa91521",
-      "title": "Anthropic seeks to raise up to $3.5bn from Japanese investors in IPO",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/markets/ipo/anthropic-seeks-to-raise-up-to-3.5bn-from-japanese-investors-in-ipo",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-11-04T04:56:49.393Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_921d2c1d",
-      "title": "Japan can build defense edge on AI, Palantir CEO says",
-      "summary": "",
-      "url": "https://asia.nikkei.com/editor-s-picks/interview/japan-can-build-defense-edge-on-ai-palantir-ceo-says",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-11-04T04:56:49.393Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_29aa597a",
-      "title": "Australia gold miner Northern Star lifts output amid investor pressure",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/materials/australia-gold-miner-northern-star-lifts-output-amid-investor-pressure",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-11-04T04:56:49.391Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_d5927f84",
-      "title": "Malaysia transport minister still plans to quit, says megaprojects safe",
-      "summary": "",
-      "url": "https://asia.nikkei.com/politics/malaysia-transport-minister-still-plans-to-quit-says-megaprojects-safe",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-11-04T04:56:49.391Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_31278f2b",
-      "title": "Japan's Aisin develops new type of AI chip that cuts energy use 98%",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/tech/semiconductors/japan-s-aisin-develops-new-type-of-ai-chip-that-cuts-energy-use-98",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-11-04T04:56:49.391Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_60a71147",
-      "title": "Cyber insurance inquiries surge at Japan's nonlife insurers",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/insurance/cyber-insurance-inquiries-surge-at-japan-s-nonlife-insurers",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-11-04T04:56:49.391Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_336fb52b",
-      "title": "North Korea leans on China and Russia to drive 3% economic growth",
-      "summary": "",
-      "url": "https://asia.nikkei.com/economy/north-korea-leans-on-china-and-russia-to-drive-3-economic-growth",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-11-04T04:56:49.391Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_61dc975c",
-      "title": "Japan's IHI wins key role in Westinghouse's new Poland nuclear plant",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/energy/japan-s-ihi-wins-key-role-in-westinghouse-s-new-poland-nuclear-plant",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-11-04T04:56:49.391Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_c79c3619",
-      "title": "US experts warm to Japanese nuclear subs as check on China in Asian waters",
-      "summary": "",
-      "url": "https://asia.nikkei.com/politics/defense/us-experts-warm-to-japanese-nuclear-subs-as-check-on-china-in-asian-waters",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-11-04T04:56:49.391Z",
+      "publishedDate": "2026-11-04T13:48:58.816Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -343,7 +189,7 @@
       "url": "https://asia.nikkei.com/politics/international-relations/taiwan-airlines-continue-flights-over-russia-rattling-europeans",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-11-04T04:56:49.390Z",
+      "publishedDate": "2026-11-04T13:48:58.816Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -354,7 +200,7 @@
       "url": "https://asia.nikkei.com/business/business-asia/nidec-s-rise-and-fall-fuels-calls-for-sweeping-overhaul-of-japanese-company",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-11-04T04:56:49.390Z",
+      "publishedDate": "2026-11-04T13:48:58.816Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -365,7 +211,7 @@
       "url": "https://asia.nikkei.com/editor-s-picks/interview/japan-s-yamato-targets-leaner-delivery-service-in-push-for-profit-president",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-11-04T04:56:49.390Z",
+      "publishedDate": "2026-11-04T13:48:58.816Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -376,7 +222,7 @@
       "url": "https://asia.nikkei.com/politics/defense/japan-to-bolster-defenses-with-unified-missile-artillery-systems",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-11-04T04:56:49.390Z",
+      "publishedDate": "2026-11-04T13:48:58.816Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -387,7 +233,7 @@
       "url": "https://asia.nikkei.com/spotlight/cybersecurity/ntt-to-help-japanese-companies-update-at-risk-aging-it-with-ai",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-11-04T04:56:49.390Z",
+      "publishedDate": "2026-11-04T13:48:58.816Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -398,7 +244,7 @@
       "url": "https://asia.nikkei.com/business/automobiles/electric-vehicles/thailand-to-raise-tax-on-imported-evs-to-35-as-chinese-brands-gain-ground",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-11-04T04:56:49.390Z",
+      "publishedDate": "2026-11-04T13:48:58.816Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -409,7 +255,161 @@
       "url": "https://asia.nikkei.com/business/technology/grab-eyes-more-ai-investment-after-taiwan-deal-blocked",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-11-04T04:56:49.390Z",
+      "publishedDate": "2026-11-04T13:48:58.816Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_29aa597a",
+      "title": "Australia gold miner Northern Star lifts output amid investor pressure",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/materials/australia-gold-miner-northern-star-lifts-output-amid-investor-pressure",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-11-04T13:48:58.816Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_d5927f84",
+      "title": "Malaysia transport minister still plans to quit, says megaprojects safe",
+      "summary": "",
+      "url": "https://asia.nikkei.com/politics/malaysia-transport-minister-still-plans-to-quit-says-megaprojects-safe",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-11-04T13:48:58.816Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_31278f2b",
+      "title": "Japan's Aisin develops new type of AI chip that cuts energy use 98%",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/tech/semiconductors/japan-s-aisin-develops-new-type-of-ai-chip-that-cuts-energy-use-98",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-11-04T13:48:58.816Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_60a71147",
+      "title": "Cyber insurance inquiries surge at Japan's nonlife insurers",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/insurance/cyber-insurance-inquiries-surge-at-japan-s-nonlife-insurers",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-11-04T13:48:58.816Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_336fb52b",
+      "title": "North Korea leans on China and Russia to drive 3% economic growth",
+      "summary": "",
+      "url": "https://asia.nikkei.com/economy/north-korea-leans-on-china-and-russia-to-drive-3-economic-growth",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-11-04T13:48:58.816Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_61dc975c",
+      "title": "Japan's IHI wins key role in Westinghouse's new Poland nuclear plant",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/energy/japan-s-ihi-wins-key-role-in-westinghouse-s-new-poland-nuclear-plant",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-11-04T13:48:58.816Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_c79c3619",
+      "title": "US experts warm to Japanese nuclear subs as check on China in Asian waters",
+      "summary": "",
+      "url": "https://asia.nikkei.com/politics/defense/us-experts-warm-to-japanese-nuclear-subs-as-check-on-china-in-asian-waters",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-11-04T13:48:58.816Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_26475043",
+      "title": "Japan weighs standards for self-driving cars without steering wheels",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/automobiles/japan-weighs-standards-for-self-driving-cars-without-steering-wheels",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-11-04T13:48:58.816Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_87a416f3",
+      "title": "Japan's SBI to invest in US digital bank Erebor, eyeing blockchain settlements",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/finance/japan-s-sbi-to-invest-in-us-digital-bank-erebor-eyeing-blockchain-settlements",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-11-04T13:48:58.816Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_7fa91521",
+      "title": "Anthropic seeks to raise up to $3.5bn from Japanese investors in IPO",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/markets/ipo/anthropic-seeks-to-raise-up-to-3.5bn-from-japanese-investors-in-ipo",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-11-04T13:48:58.816Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_921d2c1d",
+      "title": "Japan can build defense edge on AI, Palantir CEO says",
+      "summary": "",
+      "url": "https://asia.nikkei.com/editor-s-picks/interview/japan-can-build-defense-edge-on-ai-palantir-ceo-says",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-11-04T13:48:58.816Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_e4eb50d8",
+      "title": "Japan's trading house chiefs warn of uncertainty after US midterms",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/companies/japan-s-trading-house-chiefs-warn-of-uncertainty-after-us-midterms",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-11-04T13:48:58.815Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_b1307cb5",
+      "title": "Indonesia chief of staff sacked for allegedly wiretapping President Prabowo",
+      "summary": "",
+      "url": "https://asia.nikkei.com/politics/indonesia-chief-of-staff-sacked-for-allegedly-wiretapping-president-prabowo",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-11-04T13:48:58.815Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_a432bb77",
+      "title": "ASEAN auto sales rose 13% in Q3 on EV and hybrid demand in key markets",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/automobiles/asean-auto-sales-rose-13-in-q3-on-ev-and-hybrid-demand-in-key-markets",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-11-04T13:48:58.815Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -420,130 +420,9 @@
       "url": "https://asia.nikkei.com/business/business-deals/mitsui-chemicals-to-buy-japan-chip-material-maker-jsr-for-over-8.2bn2",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-11-04T04:56:49.389Z",
+      "publishedDate": "2026-11-04T13:48:58.815Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
-    },
-    {
-      "id": "a_5fa75bfa",
-      "title": "Petrovietnam CEO sees a future of nuclear and wind power",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/energy/petrovietnam-ceo-sees-a-future-of-nuclear-and-wind-power",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-11-04T04:56:49.389Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_38853a5d",
-      "title": "The Download: AI agent tracking and climate feedback loops",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: We urgently need to monitor AI agents’ actions in real time —Madhulika Srikumar and Claire Leibowicz from the Partnership on AI, a no",
-      "url": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
-      "sourceName": "MIT Technology Review",
-      "category": "AI",
-      "publishedDate": "2026-10-29T12:10:00.000Z",
-      "sourcePriority": 1,
-      "relevanceScore": 0.2858
-    },
-    {
-      "id": "a_5f839515",
-      "title": "Chinese steel industry losses snowball as demand falls and costs rise",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/materials/chinese-steel-industry-losses-snowball-as-demand-falls-and-costs-rise",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-11-04T04:56:49.394Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_a82469c1",
-      "title": "Surging costs and China trade war test US farmers' loyalty to Trump",
-      "summary": "",
-      "url": "https://asia.nikkei.com/politics/u.s.-midterm-elections/surging-costs-and-china-trade-war-test-us-farmers-loyalty-to-trump",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-11-04T04:56:49.394Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_51b751fb",
-      "title": "DRAM prices double in 2026 as AI focus squeezes PC makers",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/tech/semiconductors/dram-prices-double-in-2026-as-ai-focus-squeezes-pc-makers",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-11-04T04:56:49.393Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_8ef9f43f",
-      "title": "Mitsubishi to sell part of stake in Canada LNG project to Blackstone funds",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/energy/mitsubishi-to-sell-part-of-stake-in-canada-lng-project-to-blackstone-funds",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-11-04T04:56:49.393Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_9199fd29",
-      "title": "Why PC makers are turning back to China",
-      "summary": "",
-      "url": "https://asia.nikkei.com/spotlight/podcasts/podcast-tech-latest/why-pc-makers-are-turning-back-to-china",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-11-04T04:56:49.391Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_db26b244",
-      "title": "Apple's new CEO delivers first earnings as sales hit record",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/technology/apple-s-new-ceo-delivers-first-earnings-as-sales-hit-record",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-11-04T04:56:49.391Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_ada1d15c",
-      "title": "Ethics drive Wardah to pinnacle of Southeast Asia's beauty brands",
-      "summary": "",
-      "url": "https://asia.nikkei.com/spotlight/asean-money/ethics-drive-wardah-to-pinnacle-of-southeast-asia-s-beauty-brands",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-11-04T04:56:49.391Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_c7a25055",
-      "title": "The great yen rebalancing",
-      "summary": "",
-      "url": "https://asia.nikkei.com/opinion/the-great-yen-rebalancing",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-11-04T04:56:49.391Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_f69e6d55",
-      "title": "Nintendo's Mario creator Miyamoto sees 'things we can do' even in AI era",
-      "summary": "",
-      "url": "https://asia.nikkei.com/editor-s-picks/interview/nintendo-s-mario-creator-miyamoto-sees-things-we-can-do-even-in-ai-era",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-11-04T04:56:49.391Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
     },
     {
       "id": "a_28158a7c",
@@ -552,7 +431,7 @@
       "url": "https://asia.nikkei.com/economy/debt-costs-curb-growth-for-developing-nations-rockefeller-official-says",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-11-04T04:56:49.390Z",
+      "publishedDate": "2026-11-04T13:48:58.816Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -563,7 +442,7 @@
       "url": "https://asia.nikkei.com/business/retail/china-s-temu-jd.com-revamp-business-models-amid-tariff-headwinds",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-11-04T04:56:49.390Z",
+      "publishedDate": "2026-11-04T13:48:58.816Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -574,7 +453,7 @@
       "url": "https://asia.nikkei.com/politics/international-relations/apec-host-china-to-keep-cars-off-street-close-schools-during-shenzhen-summit",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-11-04T04:56:49.390Z",
+      "publishedDate": "2026-11-04T13:48:58.816Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -585,7 +464,7 @@
       "url": "https://asia.nikkei.com/opinion/the-best-is-yet-to-come-asia-s-chance-to-reimagine-ai",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-11-04T04:56:49.390Z",
+      "publishedDate": "2026-11-04T13:48:58.816Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -596,7 +475,7 @@
       "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-11-04T04:56:49.390Z",
+      "publishedDate": "2026-11-04T13:48:58.816Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -607,7 +486,7 @@
       "url": "https://asia.nikkei.com/business/startups/fukushima-tries-to-reinvent-itself-as-hub-for-drones-robots-and-rockets",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-11-04T04:56:49.390Z",
+      "publishedDate": "2026-11-04T13:48:58.816Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -618,7 +497,7 @@
       "url": "https://asia.nikkei.com/business/finance/new-mufg-digital-bank-to-forgo-atm-cards-in-cybercrime-safeguard",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-11-04T04:56:49.390Z",
+      "publishedDate": "2026-11-04T13:48:58.816Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -629,7 +508,7 @@
       "url": "https://asia.nikkei.com/politics/u.s.-midterm-elections/5-things-to-know-about-the-us-midterms-and-what-they-mean-for-asia",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-11-04T04:56:49.390Z",
+      "publishedDate": "2026-11-04T13:48:58.816Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -640,20 +519,152 @@
       "url": "https://asia.nikkei.com/politics/vienna-entrepreneur-takes-leaders-on-lux-train-to-china-to-foster-ties",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-11-04T04:56:49.390Z",
+      "publishedDate": "2026-11-04T13:48:58.816Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
     {
-      "id": "a_2e3ceeba",
-      "title": "US midterms live: Democrats flip Texas, near Senate control",
+      "id": "a_9199fd29",
+      "title": "Why PC makers are turning back to China",
       "summary": "",
-      "url": "https://asia.nikkei.com/politics/u.s.-midterm-elections/us-midterms-live-democrats-flip-texas-near-senate-control",
+      "url": "https://asia.nikkei.com/spotlight/podcasts/podcast-tech-latest/why-pc-makers-are-turning-back-to-china",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-11-04T04:56:49.389Z",
+      "publishedDate": "2026-11-04T13:48:58.816Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
+    },
+    {
+      "id": "a_db26b244",
+      "title": "Apple's new CEO delivers first earnings as sales hit record",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/technology/apple-s-new-ceo-delivers-first-earnings-as-sales-hit-record",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-11-04T13:48:58.816Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_ada1d15c",
+      "title": "Ethics drive Wardah to pinnacle of Southeast Asia's beauty brands",
+      "summary": "",
+      "url": "https://asia.nikkei.com/spotlight/asean-money/ethics-drive-wardah-to-pinnacle-of-southeast-asia-s-beauty-brands",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-11-04T13:48:58.816Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_c7a25055",
+      "title": "The great yen rebalancing",
+      "summary": "",
+      "url": "https://asia.nikkei.com/opinion/the-great-yen-rebalancing",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-11-04T13:48:58.816Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_f69e6d55",
+      "title": "Nintendo's Mario creator Miyamoto sees 'things we can do' even in AI era",
+      "summary": "",
+      "url": "https://asia.nikkei.com/editor-s-picks/interview/nintendo-s-mario-creator-miyamoto-sees-things-we-can-do-even-in-ai-era",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-11-04T13:48:58.816Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_51b751fb",
+      "title": "DRAM prices double in 2026 as AI focus squeezes PC makers",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/tech/semiconductors/dram-prices-double-in-2026-as-ai-focus-squeezes-pc-makers",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-11-04T13:48:58.816Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_8ef9f43f",
+      "title": "Mitsubishi to sell part of stake in Canada LNG project to Blackstone funds",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/energy/mitsubishi-to-sell-part-of-stake-in-canada-lng-project-to-blackstone-funds",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-11-04T13:48:58.816Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_f37aab45",
+      "title": "Tencent says its Hy4 joins 'top-tier' of open-source AI models",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/tencent-says-its-hy4-joins-top-tier-of-open-source-ai-models",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-11-04T13:48:58.815Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_9ab79ddb",
+      "title": "Asian stocks face volatility as Democratic blue wave sweeps US",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/markets/asian-stocks-face-volatility-as-democratic-blue-wave-sweeps-us",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-11-04T13:48:58.815Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_1e9ec68c",
+      "title": "China's slumping state airlines pin hopes on overseas demand like exporters",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/transportation/china-s-slumping-state-airlines-pin-hopes-on-overseas-demand-like-exporters",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-11-04T13:48:58.815Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_4c833321",
+      "title": "Democrats win control of Congress in sharp rebuke to Trump",
+      "summary": "",
+      "url": "https://asia.nikkei.com/politics/u.s.-midterm-elections/democrats-win-control-of-congress-in-sharp-rebuke-to-trump",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-11-04T13:48:58.815Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_16686cae",
+      "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How “reverse game theory” could keep AI agents in check A new approach known as “reverse game theory” aims to control powerful AI models by de",
+      "url": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
+      "sourceName": "MIT Technology Review",
+      "category": "AI",
+      "publishedDate": "2026-11-03T13:10:00.000Z",
+      "sourcePriority": 1,
+      "relevanceScore": 0.2817
+    },
+    {
+      "id": "a_d367ad0b",
+      "title": "How “reverse game theory” could keep AI agents in check",
+      "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in ",
+      "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+      "sourceName": "MIT Technology Review",
+      "category": "AI",
+      "publishedDate": "2026-11-03T10:43:41.000Z",
+      "sourcePriority": 1,
+      "relevanceScore": 0.2817
     },
     {
       "id": "a_6b6a9853",
@@ -665,6 +676,17 @@
       "publishedDate": "2026-11-02T13:10:32.000Z",
       "sourcePriority": 1,
       "relevanceScore": 0.2817
+    },
+    {
+      "id": "a_974d2bdb",
+      "title": "Cyberattack on French plasma stores is enough to make your blood boil",
+      "summary": "Attackers reportedly set cold-room controls to 110°C, but safeguards prevented stock losses",
+      "url": "https://www.theregister.com/security/2026/11/04/cyberattack-on-french-plasma-stores-is-enough-to-make-your-blood-boil/5307519",
+      "sourceName": "The Register - Security",
+      "category": "Security",
+      "publishedDate": "2026-11-04T11:56:54.000Z",
+      "sourcePriority": 3,
+      "relevanceScore": 0.2775
     },
     {
       "id": "a_17174e35",
@@ -733,17 +755,6 @@
       "relevanceScore": 0.25
     },
     {
-      "id": "a_e8e70eb",
-      "title": "123 Reg discloses 'AI cyberattack' on customer data, suspects China nexus",
-      "summary": "Company chiefs believe the attackers could be the same as those who used ARTEX to breach South Korea’s financial giants",
-      "url": "https://www.theregister.com/cyber-crime/2026/10/28/123-reg-discloses-ai-cyberattack-on-customer-data-suspects-china-nexus/5305936",
-      "sourceName": "The Register - Security",
-      "category": "Security",
-      "publishedDate": "2026-10-28T11:45:00.000Z",
-      "sourcePriority": 3,
-      "relevanceScore": 0.2458
-    },
-    {
       "id": "a_c0d1c0dd",
       "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand ",
@@ -795,17 +806,6 @@
       "sourceName": "The Register - Security",
       "category": "Security",
       "publishedDate": "2026-10-28T19:56:56.000Z",
-      "sourcePriority": 3,
-      "relevanceScore": 0.2292
-    },
-    {
-      "id": "a_33b1af86",
-      "title": "Cisco open sources tool for detecting AI agents on hacking sprees",
-      "summary": "Project Quarry aims to provide a 'shared language' for evaluating agent behavior",
-      "url": "https://www.theregister.com/security/2026/10/28/cisco-open-sources-tool-for-detecting-ai-agents-on-hacking-sprees/5305867",
-      "sourceName": "The Register - Security",
-      "category": "Security",
-      "publishedDate": "2026-10-28T12:00:00.000Z",
       "sourcePriority": 3,
       "relevanceScore": 0.2292
     },
@@ -887,6 +887,17 @@
       "relevanceScore": 0.2208
     },
     {
+      "id": "a_e8e70eb",
+      "title": "123 Reg discloses 'AI cyberattack' on customer data, suspects China nexus",
+      "summary": "Company chiefs believe the attackers could be the same as those who used ARTEX to breach South Korea’s financial giants",
+      "url": "https://www.theregister.com/cyber-crime/2026/10/28/123-reg-discloses-ai-cyberattack-on-customer-data-suspects-china-nexus/5305936",
+      "sourceName": "The Register - Security",
+      "category": "Security",
+      "publishedDate": "2026-10-28T11:45:00.000Z",
+      "sourcePriority": 3,
+      "relevanceScore": 0.2158
+    },
+    {
       "id": "a_dbd0f5dc",
       "title": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Eating disorders are on the rise. GLP-1s could make things worse. GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the ",
@@ -898,15 +909,15 @@
       "relevanceScore": 0.2025
     },
     {
-      "id": "a_cb387302",
-      "title": "Eating disorders are on the rise. GLP-1s could make things worse.",
-      "summary": "GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade. But to some clinical psychologists, they can represent something more sinister—a potential trigger for eating disorders. A new report suggests that the global incidence of anorexia nervosa an",
-      "url": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/",
-      "sourceName": "MIT Technology Review",
-      "category": "AI",
-      "publishedDate": "2026-10-30T09:00:00.000Z",
-      "sourcePriority": 1,
-      "relevanceScore": 0.2025
+      "id": "a_33b1af86",
+      "title": "Cisco open sources tool for detecting AI agents on hacking sprees",
+      "summary": "Project Quarry aims to provide a 'shared language' for evaluating agent behavior",
+      "url": "https://www.theregister.com/security/2026/10/28/cisco-open-sources-tool-for-detecting-ai-agents-on-hacking-sprees/5305867",
+      "sourceName": "The Register - Security",
+      "category": "Security",
+      "publishedDate": "2026-10-28T12:00:00.000Z",
+      "sourcePriority": 3,
+      "relevanceScore": 0.1992
     },
     {
       "id": "a_185fd74",
@@ -1202,17 +1213,6 @@
       "sourceName": "The Register - Security",
       "category": "Security",
       "publishedDate": "2026-10-23T09:29:00.000Z",
-      "sourcePriority": 3,
-      "relevanceScore": 0.1575
-    },
-    {
-      "id": "a_5688a543",
-      "title": "Max-severity GitLab bug allows remote code execution over 12 years of releases",
-      "summary": "Vendor 'strongly recommends' upgrading to a fixed version 'as soon as possible'",
-      "url": "https://www.theregister.com/security/2026/10/22/max-severity-gitlab-bug-allows-remote-code-execution-over-12-years-of-releases/5304854",
-      "sourceName": "The Register - Security",
-      "category": "Security",
-      "publishedDate": "2026-10-22T17:36:30.000Z",
       "sourcePriority": 3,
       "relevanceScore": 0.1575
     }
