@@ -1,11 +1,22 @@
 {
-  "generatedAt": "2026-11-07T12:29:55.280Z",
+  "generatedAt": "2026-11-07T21:28:11.054Z",
   "timeBudgetMinutes": {
     "daily": 10,
     "weekly": 45
   },
   "total": 110,
   "articles": [
+    {
+      "id": "a_47c34bbb",
+      "title": "Japan to back Vietnam's small-reactor push in revived nuclear cooperation",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/energy/japan-to-back-vietnam-s-small-reactor-push-in-revived-nuclear-cooperation",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-11-07T21:28:10.264Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.3767
+    },
     {
       "id": "a_4eb3f895",
       "title": "Securing the agentic enterprise with data lineage",
@@ -15,29 +26,7 @@
       "category": "AI",
       "publishedDate": "2026-11-04T13:00:00.000Z",
       "sourcePriority": 1,
-      "relevanceScore": 0.3983
-    },
-    {
-      "id": "a_47c34bbb",
-      "title": "Japan to back Vietnam's small-reactor push in revived nuclear cooperation",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/energy/japan-to-back-vietnam-s-small-reactor-push-in-revived-nuclear-cooperation",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-11-07T12:29:53.944Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.3767
-    },
-    {
-      "id": "a_13ddb077",
-      "title": "Taiwan, South Korea, Japan stock markets hit hard by AI sell-off",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/markets/taiwan-south-korea-japan-stock-markets-hit-hard-by-ai-sell-off",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-11-07T12:29:53.944Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.36
+      "relevanceScore": 0.3608
     },
     {
       "id": "a_e85311d2",
@@ -46,7 +35,18 @@
       "url": "https://asia.nikkei.com/politics/u.s.-midterm-elections/us-midterms-live-nasdaq-plunges-5.5-on-ai-regulation-fears",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-11-07T12:29:53.944Z",
+      "publishedDate": "2026-11-07T21:28:10.264Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.36
+    },
+    {
+      "id": "a_13ddb077",
+      "title": "Taiwan, South Korea, Japan stock markets hit hard by AI sell-off",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/markets/taiwan-south-korea-japan-stock-markets-hit-hard-by-ai-sell-off",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-11-07T21:28:10.263Z",
       "sourcePriority": 2,
       "relevanceScore": 0.36
     },
@@ -57,7 +57,7 @@
       "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-contractor-s-ai-guided-tunnel-boring-outperforms-human-operators",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-11-07T12:29:53.945Z",
+      "publishedDate": "2026-11-07T21:28:10.264Z",
       "sourcePriority": 2,
       "relevanceScore": 0.3517
     },
@@ -68,7 +68,7 @@
       "url": "https://asia.nikkei.com/spotlight/cybersecurity/japan-s-takaichi-pushes-for-tougher-cybersecurity-laws-as-attacks-surge",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-11-07T12:29:53.944Z",
+      "publishedDate": "2026-11-07T21:28:10.263Z",
       "sourcePriority": 2,
       "relevanceScore": 0.3517
     },
@@ -79,7 +79,7 @@
       "url": "https://asia.nikkei.com/politics/international-relations/putin-exploits-takaichi-s-diplomatic-opening-with-japan-tobacco-grab",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-11-07T12:29:53.944Z",
+      "publishedDate": "2026-11-07T21:28:10.263Z",
       "sourcePriority": 2,
       "relevanceScore": 0.3433
     },
@@ -106,24 +106,13 @@
       "relevanceScore": 0.3417
     },
     {
-      "id": "a_f8d247f3",
-      "title": "Japan convenience store chain Lawson details first India store in Mumbai",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/retail/japan-convenience-store-chain-lawson-details-first-india-store-in-mumbai",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-11-07T12:29:53.944Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.335
-    },
-    {
       "id": "a_ddb9effa",
       "title": "China-Japan row over Takaichi's Taiwan comment enters 2nd year",
       "summary": "",
       "url": "https://asia.nikkei.com/politics/international-relations/japan-china-tensions/china-japan-row-over-takaichi-s-taiwan-comment-enters-2nd-year",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-11-07T12:29:53.944Z",
+      "publishedDate": "2026-11-07T21:28:10.264Z",
       "sourcePriority": 2,
       "relevanceScore": 0.335
     },
@@ -134,7 +123,18 @@
       "url": "https://asia.nikkei.com/spotlight/policy-asia/how-japan-and-thailand-lay-bare-asia-s-electrification-challenge",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-11-07T12:29:53.944Z",
+      "publishedDate": "2026-11-07T21:28:10.264Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.335
+    },
+    {
+      "id": "a_f8d247f3",
+      "title": "Japan convenience store chain Lawson details first India store in Mumbai",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/retail/japan-convenience-store-chain-lawson-details-first-india-store-in-mumbai",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-11-07T21:28:10.263Z",
       "sourcePriority": 2,
       "relevanceScore": 0.335
     },
@@ -145,7 +145,7 @@
       "url": "https://asia.nikkei.com/politics/activist-au-kam-san-jailed-12.5-years-in-1st-macao-national-security-case",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-11-07T12:29:53.943Z",
+      "publishedDate": "2026-11-07T21:28:10.262Z",
       "sourcePriority": 2,
       "relevanceScore": 0.3267
     },
@@ -156,20 +156,9 @@
       "url": "https://asia.nikkei.com/spotlight/society/crime/us-slaps-sanctions-on-cambodia-s-prince-group-over-online-scams",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-11-07T12:29:53.943Z",
+      "publishedDate": "2026-11-07T21:28:10.263Z",
       "sourcePriority": 2,
       "relevanceScore": 0.3183
-    },
-    {
-      "id": "a_68ee7af5",
-      "title": "The Download: blended meat, restored sight, and the agentic web",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. These startups hope “blended” food will cut our appetite for red meat  In the fall of 2025, Jeff Dodge served hungry students steaming marinar",
-      "url": "https://www.technologyreview.com/2026/11/04/1148001/the-download-blended-meat-sight-restoring-implant-agentic-web/",
-      "sourceName": "MIT Technology Review",
-      "category": "AI",
-      "publishedDate": "2026-11-04T13:10:00.000Z",
-      "sourcePriority": 1,
-      "relevanceScore": 0.315
     },
     {
       "id": "a_6ba47a4a",
@@ -183,189 +172,13 @@
       "relevanceScore": 0.3108
     },
     {
-      "id": "a_6287fe5f",
-      "title": "Putin seizes control of Japan Tobacco units as Moscow-Tokyo ties fray",
-      "summary": "",
-      "url": "https://asia.nikkei.com/politics/international-relations/putin-seizes-control-of-japan-tobacco-units-as-moscow-tokyo-ties-fray",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-11-07T12:29:53.945Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_37ce3b7d",
-      "title": "Indonesia's GDP grows 5.5% in Q3, helped by government spending",
-      "summary": "",
-      "url": "https://asia.nikkei.com/economy/indonesia-s-gdp-grows-5.5-in-q3-helped-by-government-spending",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-11-07T12:29:53.945Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_5c0bb473",
-      "title": "Taiwan's chipmakers shine brightest in living memory",
-      "summary": "",
-      "url": "https://asia.nikkei.com/techasia/taiwan-s-chipmakers-shine-brightest-in-living-memory",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-11-07T12:29:53.945Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_7ec5d751",
-      "title": "Hong Kong activist Joshua Wong sentenced to 10 years for foreign collusion",
-      "summary": "",
-      "url": "https://asia.nikkei.com/spotlight/hong-kong-security-law/hong-kong-activist-joshua-wong-sentenced-to-10-years-for-foreign-collusion",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-11-07T12:29:53.945Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_aec4a425",
-      "title": "Japanese companies caught in crossfire of Beijing-Tokyo rift",
-      "summary": "",
-      "url": "https://asia.nikkei.com/politics/international-relations/japanese-companies-caught-in-crossfire-of-beijing-tokyo-rift",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-11-07T12:29:53.944Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_beeb81ad",
-      "title": "Japan's new whisky breed chases export elixir",
-      "summary": "",
-      "url": "https://asia.nikkei.com/spotlight/big-in-asia/japan-s-new-whisky-breed-chases-export-elixir",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-11-07T12:29:53.944Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_527d30fd",
-      "title": "Democrats' midterm gains hang over data centers, Japanese US investment",
-      "summary": "",
-      "url": "https://asia.nikkei.com/politics/u.s.-midterm-elections/democrats-midterm-gains-hang-over-data-centers-japanese-us-investment",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-11-07T12:29:53.944Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_7265809",
-      "title": "Russia took a Japanese journalist. Tokyo should speak up",
-      "summary": "",
-      "url": "https://asia.nikkei.com/opinion/russia-took-a-japanese-journalist.-tokyo-should-speak-up",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-11-07T12:29:53.944Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_e14728b8",
-      "title": "Grab to cut maximum take on Vietnam rides to 32% from 40%",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/startups/grab-to-cut-maximum-take-on-vietnam-rides-to-32-from-40",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-11-07T12:29:53.944Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_9f90703a",
-      "title": "Singapore banks struggle with bond yield and interest rate tensions",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/finance/singapore-banks-struggle-with-bond-yield-and-interest-rate-tensions",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-11-07T12:29:53.944Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_de590bfd",
-      "title": "Malaysian palm oil producer turns to solar for steadier income",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/markets/commodities/malaysian-palm-oil-producer-turns-to-solar-for-steadier-income",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-11-07T12:29:53.944Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_bc4aa907",
-      "title": "Hong Kong's Joshua Wong sentence sparks war of words with US, Europe",
-      "summary": "",
-      "url": "https://asia.nikkei.com/spotlight/hong-kong-security-law/hong-kong-s-joshua-wong-sentence-sparks-war-of-words-with-us-europe",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-11-07T12:29:53.944Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_c3fd3818",
-      "title": "Japan's Don Quijote owner reshapes Toys R Us, tripling product lineup",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/retail/japan-s-don-quijote-owner-reshapes-toys-r-us-tripling-product-lineup",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-11-07T12:29:53.944Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_68d2ab11",
-      "title": "In Focus: Salmon disappearing as Japan's catch just 3% of 2003 peak",
-      "summary": "",
-      "url": "https://asia.nikkei.com/photos/in-focus-salmon-disappearing-as-japan-s-catch-just-3-of-2003-peak",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-11-07T12:29:53.944Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_5f3daa21",
-      "title": "Japan demands Russia reverse seizure of Japan Tobacco units",
-      "summary": "",
-      "url": "https://asia.nikkei.com/politics/international-relations/japan-demands-russia-reverse-seizure-of-japan-tobacco-units",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-11-07T12:29:53.944Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
-      "id": "a_167aa72b",
-      "title": "India's IT lobby chief warns grads could struggle to find jobs due to AI",
-      "summary": "",
-      "url": "https://asia.nikkei.com/editor-s-picks/interview/india-s-it-lobby-chief-warns-grads-could-struggle-to-find-jobs-due-to-ai",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-11-07T12:29:53.944Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.31
-    },
-    {
       "id": "a_74a5feb1",
       "title": "Major South Korean newspaper lines up rescue by tech, food companies",
       "summary": "",
       "url": "https://asia.nikkei.com/business/business-deals/major-south-korean-newspaper-lines-up-rescue-by-tech-food-companies",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-11-07T12:29:53.944Z",
+      "publishedDate": "2026-11-07T21:28:10.264Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -376,7 +189,7 @@
       "url": "https://asia.nikkei.com/politics/data-centers-rare-earths-among-top-priorities-in-japan-s-growth-strategy",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-11-07T12:29:53.944Z",
+      "publishedDate": "2026-11-07T21:28:10.264Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -387,7 +200,7 @@
       "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-s-fuji-tv-goes-all-in-with-ai-for-drama-production",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-11-07T12:29:53.944Z",
+      "publishedDate": "2026-11-07T21:28:10.264Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -398,29 +211,29 @@
       "url": "https://asia.nikkei.com/business/education/foreign-student-spending-in-japan-hits-4.3bn-amid-soft-yen",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-11-07T12:29:53.944Z",
+      "publishedDate": "2026-11-07T21:28:10.264Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
     {
-      "id": "a_89f70789",
-      "title": "Prep schools help Chinese students get into Japan's top universities",
+      "id": "a_6287fe5f",
+      "title": "Putin seizes control of Japan Tobacco units as Moscow-Tokyo ties fray",
       "summary": "",
-      "url": "https://asia.nikkei.com/business/education/prep-schools-help-chinese-students-get-into-japan-s-top-universities",
+      "url": "https://asia.nikkei.com/politics/international-relations/putin-seizes-control-of-japan-tobacco-units-as-moscow-tokyo-ties-fray",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-11-07T12:29:53.943Z",
+      "publishedDate": "2026-11-07T21:28:10.264Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
     {
-      "id": "a_dbaf8a8f",
-      "title": "Japan's unprotected deposits hit $890bn as inheritances inflate accounts",
+      "id": "a_37ce3b7d",
+      "title": "Indonesia's GDP grows 5.5% in Q3, helped by government spending",
       "summary": "",
-      "url": "https://asia.nikkei.com/business/finance/japan-s-unprotected-deposits-hit-890bn-as-inheritances-inflate-accounts",
+      "url": "https://asia.nikkei.com/economy/indonesia-s-gdp-grows-5.5-in-q3-helped-by-government-spending",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-11-07T12:29:53.943Z",
+      "publishedDate": "2026-11-07T21:28:10.264Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -431,7 +244,183 @@
       "url": "https://asia.nikkei.com/politics/taiwan-s-kmt-old-guard-fights-for-power-base-in-tight-taipei-mayoral-races",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-11-07T12:29:53.943Z",
+      "publishedDate": "2026-11-07T21:28:10.263Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_aec4a425",
+      "title": "Japanese companies caught in crossfire of Beijing-Tokyo rift",
+      "summary": "",
+      "url": "https://asia.nikkei.com/politics/international-relations/japanese-companies-caught-in-crossfire-of-beijing-tokyo-rift",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-11-07T21:28:10.263Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_beeb81ad",
+      "title": "Japan's new whisky breed chases export elixir",
+      "summary": "",
+      "url": "https://asia.nikkei.com/spotlight/big-in-asia/japan-s-new-whisky-breed-chases-export-elixir",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-11-07T21:28:10.263Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_527d30fd",
+      "title": "Democrats' midterm gains hang over data centers, Japanese US investment",
+      "summary": "",
+      "url": "https://asia.nikkei.com/politics/u.s.-midterm-elections/democrats-midterm-gains-hang-over-data-centers-japanese-us-investment",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-11-07T21:28:10.263Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_7265809",
+      "title": "Russia took a Japanese journalist. Tokyo should speak up",
+      "summary": "",
+      "url": "https://asia.nikkei.com/opinion/russia-took-a-japanese-journalist.-tokyo-should-speak-up",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-11-07T21:28:10.263Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_e14728b8",
+      "title": "Grab to cut maximum take on Vietnam rides to 32% from 40%",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/startups/grab-to-cut-maximum-take-on-vietnam-rides-to-32-from-40",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-11-07T21:28:10.263Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_9f90703a",
+      "title": "Singapore banks struggle with bond yield and interest rate tensions",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/finance/singapore-banks-struggle-with-bond-yield-and-interest-rate-tensions",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-11-07T21:28:10.263Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_de590bfd",
+      "title": "Malaysian palm oil producer turns to solar for steadier income",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/markets/commodities/malaysian-palm-oil-producer-turns-to-solar-for-steadier-income",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-11-07T21:28:10.263Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_bc4aa907",
+      "title": "Hong Kong's Joshua Wong sentence sparks war of words with US, Europe",
+      "summary": "",
+      "url": "https://asia.nikkei.com/spotlight/hong-kong-security-law/hong-kong-s-joshua-wong-sentence-sparks-war-of-words-with-us-europe",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-11-07T21:28:10.263Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_c3fd3818",
+      "title": "Japan's Don Quijote owner reshapes Toys R Us, tripling product lineup",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/retail/japan-s-don-quijote-owner-reshapes-toys-r-us-tripling-product-lineup",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-11-07T21:28:10.263Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_68d2ab11",
+      "title": "In Focus: Salmon disappearing as Japan's catch just 3% of 2003 peak",
+      "summary": "",
+      "url": "https://asia.nikkei.com/photos/in-focus-salmon-disappearing-as-japan-s-catch-just-3-of-2003-peak",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-11-07T21:28:10.263Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_5f3daa21",
+      "title": "Japan demands Russia reverse seizure of Japan Tobacco units",
+      "summary": "",
+      "url": "https://asia.nikkei.com/politics/international-relations/japan-demands-russia-reverse-seizure-of-japan-tobacco-units",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-11-07T21:28:10.263Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_167aa72b",
+      "title": "India's IT lobby chief warns grads could struggle to find jobs due to AI",
+      "summary": "",
+      "url": "https://asia.nikkei.com/editor-s-picks/interview/india-s-it-lobby-chief-warns-grads-could-struggle-to-find-jobs-due-to-ai",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-11-07T21:28:10.263Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_65912bff",
+      "title": "US sports investment fund RedBird hunts for tie-ups in Japan",
+      "summary": "",
+      "url": "https://asia.nikkei.com/spotlight/sports/us-sports-investment-fund-redbird-hunts-for-tie-ups-in-japan",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-11-07T21:28:10.262Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_89f70789",
+      "title": "Prep schools help Chinese students get into Japan's top universities",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/education/prep-schools-help-chinese-students-get-into-japan-s-top-universities",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-11-07T21:28:10.262Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_dbaf8a8f",
+      "title": "Japan's unprotected deposits hit $890bn as inheritances inflate accounts",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/finance/japan-s-unprotected-deposits-hit-890bn-as-inheritances-inflate-accounts",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-11-07T21:28:10.262Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.31
+    },
+    {
+      "id": "a_42d46242",
+      "title": "Japan manufacturers lift profit outlooks on price hikes, weak yen",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/business-trends/japan-manufacturers-lift-profit-outlooks-on-price-hikes-weak-yen",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-11-07T21:28:10.261Z",
       "sourcePriority": 2,
       "relevanceScore": 0.31
     },
@@ -458,17 +447,6 @@
       "relevanceScore": 0.3
     },
     {
-      "id": "a_bec36119",
-      "title": "DigiCert admits 16-month security lapse exposed customer information",
-      "summary": "Botched server move left the door open, and DigiCert took months to notice someone had wandered in",
-      "url": "https://www.theregister.com/security/2026/11/06/digicert-admits-16-month-security-lapse-exposed-customer-information/5308097",
-      "sourceName": "The Register - Security",
-      "category": "Security",
-      "publishedDate": "2026-11-06T13:15:00.000Z",
-      "sourcePriority": 3,
-      "relevanceScore": 0.2967
-    },
-    {
       "id": "a_7af64e31",
       "title": "Britain on notice: AI-powered ransomware attacks to arrive by 2028",
       "summary": "Cyber agency warns critical infrastructure is a likely target as chief urges bosses to stop doing 'tech on the cheap'",
@@ -491,134 +469,13 @@
       "relevanceScore": 0.2917
     },
     {
-      "id": "a_5bf198c6",
-      "title": "Democratic 'blue wave' may buoy yen if AI trade reverses: FX traders",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/markets/currencies/democratic-blue-wave-may-buoy-yen-if-ai-trade-reverses-fx-traders",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-11-07T12:29:53.945Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_3e1fca60",
-      "title": "Sony raises annual profit forecast on Spider-Man hit, gaming gains",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/companies/sony-raises-annual-profit-forecast-on-spider-man-hit-gaming-gains",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-11-07T12:29:53.945Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_d921bb34",
-      "title": "Toyota ready to 'regain market share' in China on expanded local sourcing",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/automobiles/toyota-ready-to-regain-market-share-in-china-on-expanded-local-sourcing",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-11-07T12:29:53.945Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_5e7f2523",
-      "title": "Asian stock markets drop as Democratic win stokes fears over AI scrutiny",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/markets/asian-stock-markets-drop-as-democratic-win-stokes-fears-over-ai-scrutiny",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-11-07T12:29:53.945Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_c63f98c6",
-      "title": "China says trade barriers block tech imports, fueling its surplus",
-      "summary": "",
-      "url": "https://asia.nikkei.com/economy/trade/china-says-trade-barriers-block-tech-imports-fueling-its-surplus",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-11-07T12:29:53.945Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_a3bb7b42",
-      "title": "China enacts law to hunt down corrupt officials who escape overseas",
-      "summary": "",
-      "url": "https://asia.nikkei.com/politics/china-enacts-law-to-hunt-down-corrupt-officials-who-escape-overseas",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-11-07T12:29:53.944Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_d2f2f3fd",
-      "title": "Editor's Choice: US anti-data center sentiment spreads, hitting Asian markets",
-      "summary": "",
-      "url": "https://asia.nikkei.com/editor-s-picks/editor-in-chief-s-picks/editor-s-choice-us-anti-data-center-sentiment-spreads-hitting-asian-markets",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-11-07T12:29:53.944Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_3f547e18",
-      "title": "New Zealand election campaign dominated by cost of living, healthcare",
-      "summary": "",
-      "url": "https://asia.nikkei.com/politics/new-zealand-election-campaign-dominated-by-cost-of-living-healthcare",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-11-07T12:29:53.944Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_60bc53d3",
-      "title": "US war in Iran leaves Sri Lanka in troubled diplomatic waters",
-      "summary": "",
-      "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/us-war-in-iran-leaves-sri-lanka-in-troubled-diplomatic-waters",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-11-07T12:29:53.944Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_33b4616a",
-      "title": "Asia's AI supply chain and US data centers set to weather 'blue wave'",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/technology/asia-s-ai-supply-chain-and-us-data-centers-set-to-weather-blue-wave",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-11-07T12:29:53.944Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
-      "id": "a_b805e749",
-      "title": "China blocks SoftBank's $5.4bn deal for ABB robotics division",
-      "summary": "",
-      "url": "https://asia.nikkei.com/business/business-deals/china-blocks-softbank-s-5.4bn-deal-for-abb-robotics-division",
-      "sourceName": "Nikkei Asia",
-      "category": "APAC",
-      "publishedDate": "2026-11-07T12:29:53.944Z",
-      "sourcePriority": 2,
-      "relevanceScore": 0.285
-    },
-    {
       "id": "a_62664453",
       "title": "Asia drives new corporate climate pledges as Chinese firms embrace targets",
       "summary": "",
       "url": "https://asia.nikkei.com/spotlight/environment/climate-change/asia-drives-new-corporate-climate-pledges-as-chinese-firms-embrace-targets",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-11-07T12:29:53.944Z",
+      "publishedDate": "2026-11-07T21:28:10.264Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -629,29 +486,29 @@
       "url": "https://asia.nikkei.com/politics/international-relations/us-china-tensions/us-extends-suspension-of-export-restrictions-on-chinese-firms",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-11-07T12:29:53.944Z",
+      "publishedDate": "2026-11-07T21:28:10.264Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
     {
-      "id": "a_3eb1699d",
-      "title": "New Zealand's tight election puts coalition talks in focus",
+      "id": "a_5bf198c6",
+      "title": "Democratic 'blue wave' may buoy yen if AI trade reverses: FX traders",
       "summary": "",
-      "url": "https://asia.nikkei.com/politics/new-zealand-s-tight-election-puts-coalition-talks-in-focus",
+      "url": "https://asia.nikkei.com/business/markets/currencies/democratic-blue-wave-may-buoy-yen-if-ai-trade-reverses-fx-traders",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-11-07T12:29:53.943Z",
+      "publishedDate": "2026-11-07T21:28:10.264Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
     {
-      "id": "a_529f0e86",
-      "title": "Prospect of 'modern-day Yalta' shakes Asia's postwar order",
+      "id": "a_3e1fca60",
+      "title": "Sony raises annual profit forecast on Spider-Man hit, gaming gains",
       "summary": "",
-      "url": "https://asia.nikkei.com/spotlight/comment/prospect-of-modern-day-yalta-shakes-asia-s-postwar-order",
+      "url": "https://asia.nikkei.com/business/companies/sony-raises-annual-profit-forecast-on-spider-man-hit-gaming-gains",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-11-07T12:29:53.943Z",
+      "publishedDate": "2026-11-07T21:28:10.264Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
@@ -662,20 +519,141 @@
       "url": "https://asia.nikkei.com/business/automobiles/electric-vehicles/seres-li-auto-join-chinese-evs-charge-into-europe",
       "sourceName": "Nikkei Asia",
       "category": "APAC",
-      "publishedDate": "2026-11-07T12:29:53.943Z",
+      "publishedDate": "2026-11-07T21:28:10.263Z",
       "sourcePriority": 2,
       "relevanceScore": 0.285
     },
     {
-      "id": "a_38a1f0f0",
-      "title": "What’s next for US energy policy after the midterm elections?",
-      "summary": "I’ve been locked in to my various screens since results from midterm elections started to roll in last night. And it didn’t take long to see the beginning of the blue wave: Democrats took control of both the US House of Representatives and the Senate, a dramatic swing from Donald",
-      "url": "https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/",
+      "id": "a_a3bb7b42",
+      "title": "China enacts law to hunt down corrupt officials who escape overseas",
+      "summary": "",
+      "url": "https://asia.nikkei.com/politics/china-enacts-law-to-hunt-down-corrupt-officials-who-escape-overseas",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-11-07T21:28:10.263Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_d2f2f3fd",
+      "title": "Editor's Choice: US anti-data center sentiment spreads, hitting Asian markets",
+      "summary": "",
+      "url": "https://asia.nikkei.com/editor-s-picks/editor-in-chief-s-picks/editor-s-choice-us-anti-data-center-sentiment-spreads-hitting-asian-markets",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-11-07T21:28:10.263Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_3f547e18",
+      "title": "New Zealand election campaign dominated by cost of living, healthcare",
+      "summary": "",
+      "url": "https://asia.nikkei.com/politics/new-zealand-election-campaign-dominated-by-cost-of-living-healthcare",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-11-07T21:28:10.263Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_60bc53d3",
+      "title": "US war in Iran leaves Sri Lanka in troubled diplomatic waters",
+      "summary": "",
+      "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/us-war-in-iran-leaves-sri-lanka-in-troubled-diplomatic-waters",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-11-07T21:28:10.263Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_33b4616a",
+      "title": "Asia's AI supply chain and US data centers set to weather 'blue wave'",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/technology/asia-s-ai-supply-chain-and-us-data-centers-set-to-weather-blue-wave",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-11-07T21:28:10.263Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_b805e749",
+      "title": "China blocks SoftBank's $5.4bn deal for ABB robotics division",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/business-deals/china-blocks-softbank-s-5.4bn-deal-for-abb-robotics-division",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-11-07T21:28:10.263Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_17ac670c",
+      "title": "Gen Z and AI are changing the world of video games",
+      "summary": "",
+      "url": "https://asia.nikkei.com/opinion/gen-z-and-ai-are-changing-the-world-of-video-games",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-11-07T21:28:10.262Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_5651272d",
+      "title": "Credit Saison, ADB to partner on loans for Asia's small businesses",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/finance/credit-saison-adb-to-partner-on-loans-for-asia-s-small-businesses",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-11-07T21:28:10.262Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_485651a9",
+      "title": "Astellas employee jailed in China on spy charge set for December release",
+      "summary": "",
+      "url": "https://asia.nikkei.com/politics/international-relations/astellas-employee-jailed-in-china-on-spy-charge-set-for-december-release",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-11-07T21:28:10.262Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_8f8d172",
+      "title": "New Zealand's knife-edge election puts coalition talks in focus",
+      "summary": "",
+      "url": "https://asia.nikkei.com/politics/new-zealand-s-knife-edge-election-puts-coalition-talks-in-focus",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-11-07T21:28:10.262Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_529f0e86",
+      "title": "Prospect of 'modern-day Yalta' shakes Asia's postwar order",
+      "summary": "",
+      "url": "https://asia.nikkei.com/spotlight/comment/prospect-of-modern-day-yalta-shakes-asia-s-postwar-order",
+      "sourceName": "Nikkei Asia",
+      "category": "APAC",
+      "publishedDate": "2026-11-07T21:28:10.262Z",
+      "sourcePriority": 2,
+      "relevanceScore": 0.285
+    },
+    {
+      "id": "a_68ee7af5",
+      "title": "The Download: blended meat, restored sight, and the agentic web",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. These startups hope “blended” food will cut our appetite for red meat  In the fall of 2025, Jeff Dodge served hungry students steaming marinar",
+      "url": "https://www.technologyreview.com/2026/11/04/1148001/the-download-blended-meat-sight-restoring-implant-agentic-web/",
       "sourceName": "MIT Technology Review",
       "category": "AI",
-      "publishedDate": "2026-11-04T17:08:00.000Z",
+      "publishedDate": "2026-11-04T13:10:00.000Z",
       "sourcePriority": 1,
-      "relevanceScore": 0.2817
+      "relevanceScore": 0.2775
     },
     {
       "id": "a_f870dc7e",
@@ -689,15 +667,15 @@
       "relevanceScore": 0.2708
     },
     {
-      "id": "a_60799cff",
-      "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. I watched a humanoid robot clean my apartment. It felt like a taste of the future. —Grace Huckins When I saw an X post about a new humanoid-ro",
-      "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
-      "sourceName": "MIT Technology Review",
-      "category": "AI",
-      "publishedDate": "2026-11-06T13:10:00.000Z",
-      "sourcePriority": 1,
-      "relevanceScore": 0.27
+      "id": "a_bec36119",
+      "title": "DigiCert admits 16-month security lapse exposed customer information",
+      "summary": "Botched server move left the door open, and DigiCert took months to notice someone had wandered in",
+      "url": "https://www.theregister.com/security/2026/11/06/digicert-admits-16-month-security-lapse-exposed-customer-information/5308097",
+      "sourceName": "The Register - Security",
+      "category": "Security",
+      "publishedDate": "2026-11-06T13:15:00.000Z",
+      "sourcePriority": 3,
+      "relevanceScore": 0.2667
     },
     {
       "id": "a_faf11a80",
@@ -755,6 +733,17 @@
       "relevanceScore": 0.2458
     },
     {
+      "id": "a_38a1f0f0",
+      "title": "What’s next for US energy policy after the midterm elections?",
+      "summary": "I’ve been locked in to my various screens since results from midterm elections started to roll in last night. And it didn’t take long to see the beginning of the blue wave: Democrats took control of both the US House of Representatives and the Senate, a dramatic swing from Donald",
+      "url": "https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/",
+      "sourceName": "MIT Technology Review",
+      "category": "AI",
+      "publishedDate": "2026-11-04T17:08:00.000Z",
+      "sourcePriority": 1,
+      "relevanceScore": 0.2442
+    },
+    {
       "id": "a_16686cae",
       "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How “reverse game theory” could keep AI agents in check A new approach known as “reverse game theory” aims to control powerful AI models by de",
@@ -775,6 +764,17 @@
       "publishedDate": "2026-10-30T16:27:00.000Z",
       "sourcePriority": 3,
       "relevanceScore": 0.2408
+    },
+    {
+      "id": "a_60799cff",
+      "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. I watched a humanoid robot clean my apartment. It felt like a taste of the future. —Grace Huckins When I saw an X post about a new humanoid-ro",
+      "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
+      "sourceName": "MIT Technology Review",
+      "category": "AI",
+      "publishedDate": "2026-11-06T13:10:00.000Z",
+      "sourcePriority": 1,
+      "relevanceScore": 0.24
     },
     {
       "id": "a_72215c34",
@@ -806,28 +806,6 @@
       "sourceName": "MIT Technology Review",
       "category": "AI",
       "publishedDate": "2026-11-05T10:00:00.000Z",
-      "sourcePriority": 1,
-      "relevanceScore": 0.24
-    },
-    {
-      "id": "a_e3489600",
-      "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
-      "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the r",
-      "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
-      "sourceName": "MIT Technology Review",
-      "category": "AI",
-      "publishedDate": "2026-11-04T18:50:55.000Z",
-      "sourcePriority": 1,
-      "relevanceScore": 0.24
-    },
-    {
-      "id": "a_543e32a3",
-      "title": "Roundtables: Inside the Quest for Cognitive Immortality",
-      "summary": "Tuesday, November 17, 2026 In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Join science editor Mary Beth Griggs and senior editor for biomedicine Antonio Regalado for a conver",
-      "url": "https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
-      "sourceName": "MIT Technology Review",
-      "category": "AI",
-      "publishedDate": "2026-11-04T18:21:40.000Z",
       "sourcePriority": 1,
       "relevanceScore": 0.24
     },
@@ -920,17 +898,6 @@
       "relevanceScore": 0.225
     },
     {
-      "id": "a_b598a859",
-      "title": "US gov IT worker pleads guilty to sending Top Secret files to Ethiopia",
-      "summary": "Help desk technician agrees to minimum 10-year jail term after being caught copying files for more than 2 years",
-      "url": "https://www.theregister.com/security/2026/11/04/us-gov-it-worker-pleads-guilty-to-sending-top-secret-files-to-ethiopia/5307595",
-      "sourceName": "The Register - Security",
-      "category": "Security",
-      "publishedDate": "2026-11-04T15:39:30.000Z",
-      "sourcePriority": 3,
-      "relevanceScore": 0.225
-    },
-    {
       "id": "a_95fb488f",
       "title": "CISA confirms PHP2Shell under attack as researchers clock successful exploits",
       "summary": "Both critical PHP flaws land on the agency’s exploited list as infosec pros confirm hackers are getting working shells",
@@ -973,6 +940,28 @@
       "publishedDate": "2026-11-02T11:45:00.000Z",
       "sourcePriority": 3,
       "relevanceScore": 0.2125
+    },
+    {
+      "id": "a_e3489600",
+      "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+      "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the r",
+      "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+      "sourceName": "MIT Technology Review",
+      "category": "AI",
+      "publishedDate": "2026-11-04T18:50:55.000Z",
+      "sourcePriority": 1,
+      "relevanceScore": 0.2025
+    },
+    {
+      "id": "a_543e32a3",
+      "title": "Roundtables: Inside the Quest for Cognitive Immortality",
+      "summary": "Tuesday, November 17, 2026 In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Join science editor Mary Beth Griggs and senior editor for biomedicine Antonio Regalado for a conver",
+      "url": "https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
+      "sourceName": "MIT Technology Review",
+      "category": "AI",
+      "publishedDate": "2026-11-04T18:21:40.000Z",
+      "sourcePriority": 1,
+      "relevanceScore": 0.2025
     },
     {
       "id": "a_8ac6fd84",
@@ -1061,6 +1050,17 @@
       "publishedDate": "2026-10-27T19:11:02.000Z",
       "sourcePriority": 3,
       "relevanceScore": 0.1908
+    },
+    {
+      "id": "a_b598a859",
+      "title": "US gov IT worker pleads guilty to sending Top Secret files to Ethiopia",
+      "summary": "Help desk technician agrees to minimum 10-year jail term after being caught copying files for more than 2 years",
+      "url": "https://www.theregister.com/security/2026/11/04/us-gov-it-worker-pleads-guilty-to-sending-top-secret-files-to-ethiopia/5307595",
+      "sourceName": "The Register - Security",
+      "category": "Security",
+      "publishedDate": "2026-11-04T15:39:30.000Z",
+      "sourcePriority": 3,
+      "relevanceScore": 0.1875
     },
     {
       "id": "a_974d2bdb",
